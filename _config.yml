@@ -5,8 +5,9 @@ relative_permalinks: true
 # Setup
 title:            Записная книжка
 tagline:          'Что бы самому не забыть и другим рассказать'
-paginate:         1
+paginate:         10
 baseurl:          /
+highlighter:      pygments
 
 url:              http://www.alexprivalov.org
 shorturl:         alexprivalov.org
@@ -25,3 +26,6 @@ pages_list:
   О блоге: '/about'
   Архив записей: '/archive'
   Лента: '/atom.xml'
+
+gems:
+  - jemoji
