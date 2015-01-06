@@ -1,0 +1,27 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Записная книжка
+tagline:          'Что бы самому не забыть и другим рассказать'
+paginate:         1
+baseurl:          /
+
+url:              http://www.alexprivalov.org
+shorturl:         alexprivalov.org
+
+author:
+  name:           Alex Privalov
+  url:            alexprivalov.org
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           github.com/alexprivalov/alexprivalov.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
