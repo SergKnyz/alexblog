@@ -36,7 +36,7 @@ tags: git
 
   <h2 id="basic-usage">Основные команды</h2>
 
-  <div class="center"><img src='{{ site.baseurl }}images/basic-usage.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/basic-usage.svg.png'></div>
 
   <p>Следующие четыре команды предназначены для копирования файлов между
   рабочей директорией, сценой (так же известной как «индекс») и историей
@@ -69,7 +69,7 @@ tags: git
   <p>Также можно перепрыгнуть через сцену и сразу же получить файлы из истории
   прямо в рабочую директорию; или сделать коммит, минуя сцену.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/basic-usage-2.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/basic-usage-2.svg.png'></div>
 
   <ul>
 
@@ -92,7 +92,7 @@ tags: git
 
   <p>Иллюстрации в этой справке выдержаны в единой цветовой схеме.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/conventions.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/conventions.svg.png'></div>
 
   <p>Коммиты раскрашены зеленым цветом и подписаны 5-ти буквенными
   идентификаторами.  Каждый коммит указывает на своего родителя зеленой
@@ -112,7 +112,7 @@ tags: git
   имена файлов в качестве дополнительного аргумента.  Так мы выведем
   информацию об изменениях только для перечисленных файлов.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/diff.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/diff.svg.png'></div>
 
   <h3 id="commit">Commit</h3>
 
@@ -124,7 +124,7 @@ tags: git
   коммита <em>f0cec</em>, родителем которого стал <em>ed489</em>, указатель
   ветки <em>master</em> был перемещен на новый коммит.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/commit-master.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/commit-master.svg.png'></div>
 
   <p>То же самое происходит, если одна ветка является предком другой ветки.
   Ниже показан пример нового коммита <em>1800b</em> в ветке <em>maint</em>,
@@ -134,7 +134,7 @@ tags: git
   ветках, вам следует воспользоваться командой <a href='#merge'>merge</a> (что
   более предпочтительно) или <a href='#rebase'>rebase</a>.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/commit-maint.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/commit-maint.svg.png'></div>
 
   <p>Если вы сделали ошибку в последнем коммите, её легко исправить с помощью
   команды <code>git commit --amend</code>.  Эта команда создает новый коммит,
@@ -142,7 +142,7 @@ tags: git
   коммит будет отброшен, конечно же если только на него не будет ещё
   каких-либо других ссылок, что маловероятно.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/commit-amend.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/commit-amend.svg.png'></div>
 
   <p>Четвертый случай коммита из состояния «<a href="#detached">detached
     HEAD</a>» будет рассмотрен далее.</p>
@@ -162,7 +162,7 @@ tags: git
   <code>checkout</code> позиция указателя текущей ветки (HEAD) остаётся
   прежней, указатель никуда не перемещается.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/checkout-files.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/checkout-files.svg.png'></div>
 
   <p>В том случае если мы <em>не указываем</em> имя файла, но указываем имя
   (локальной) ветки, то указатель <em>HEAD</em> будет перемещен на эту ветку
@@ -173,7 +173,7 @@ tags: git
   удален; любой файл, который не записан ни в одном коммите, будет
   проигнорирован.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/checkout-branch.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/checkout-branch.svg.png'></div>
 
   <p>В том случае, если мы <em>не указываем</em> имя файла, и
   <em>не указываем</em> имя (локальной) ветки, а указываем тег, дистанционную
@@ -187,7 +187,7 @@ tags: git
   «Detached HEAD» происходят по своим особым важным правилам, и мы рассмотрим
   их <a href="#detached">ниже</a>.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/checkout-detached.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/checkout-detached.svg.png'></div>
 
   <h3 id="detached">Коммит из состояния «Detached HEAD»</h3>
 
@@ -197,20 +197,20 @@ tags: git
   не будет изменен или добавлен к новому коммиту.  Вы можете представить эту
   ситуацию как работу с анонимной веткой.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/commit-detached.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/commit-detached.svg.png'></div>
 
   <p>Если после такого коммита вы переключитесь в ветку <em>master</em>,
   то коммит <em>2eecb</em>, совершенный из состояния «Detached HEAD»
   потеряется и попросту будет уничтожен очередной сборкой мусора только потому
   нет ни одного объекта, который бы на него ссылался: ни ветки, ни тега.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/checkout-after-detached.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/checkout-after-detached.svg.png'></div>
 
   <p>В том случае, если вы хотите сохранить этот коммит на будущее, вы можете
   создать на основе его новую ветку командой
   <code>git checkout -b <em>new</em></code>.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/checkout-b-detached.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/checkout-b-detached.svg.png'></div>
 
   <h3 id="reset">Reset</h3>
 
@@ -225,14 +225,14 @@ tags: git
   используем ключ <code>--hard</code>, то будет обновлена и сцена, и рабочая
   директория.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/reset-commit.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/reset-commit.svg.png'></div>
 
   <p>Если имя коммита не будет указано, по умолчанию оно будет <em>HEAD</em>.
   В этом случае указатель ветки не будет перемещен, но сцена (а также и
   рабочая директория, если был использован ключ <code>--hard</code>) будут
   приведены к состоянию последнего коммита.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/reset.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/reset.svg.png'></div>
 
   <p>Если в команде указано имя файла (и/или ключ <code>-p</code>), то команда
   работает также как <a href='#checkout'>checkout</a> с именем файла, за
@@ -242,7 +242,7 @@ tags: git
   чертой вы получите состояние файла из коммита, на который указывает
   <em>HEAD</em>.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/reset-files.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/reset-files.svg.png'></div>
 
   <h3 id="merge">Merge</h3>
 
@@ -256,7 +256,7 @@ tags: git
   перемещена на новый коммит, а сцена и рабочая директория будут приведены в
   соответствие с новым коммитом.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/merge-ff.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/merge-ff.svg.png'></div>
 
   <p>Во всех других случаях выполняется «настоящее» слияние. Вы можете
   изменить стратегию слияния, но по умолчанию будет выполнено «рекурсивное»
@@ -268,7 +268,7 @@ tags: git
   сцену, и будет добавлен результирующий коммит со вторым родителем
   (<em>33104</em>).</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/merge.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/merge.svg.png'></div>
 
   <h3 id="cherry-pick">Cherry Pick</h3>
 
@@ -276,7 +276,7 @@ tags: git
   только одного сладкого «коммита-вишенки», применив все его изменения
   и сообщение.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/cherry-pick.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/cherry-pick.svg.png'></div>
 
   <h3 id="rebase">Rebase</h3>
 
@@ -287,7 +287,7 @@ tags: git
   линейную историю коммитов. По сути это автоматическое выполнение нескольких
   команд <a href='#cherry-pick'>cherry-pick</a> подряд.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/rebase.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/rebase.svg.png'></div>
 
   <p>На схеме выше вы видите как команда берет все коммиты, которые есть в
   ветке <em>topic</em>, но отсутствуют в ветке <em>master</em> (коммиты
@@ -301,7 +301,7 @@ tags: git
   <em>master</em> приходят лишь последние коммиты из текущей ветки, а именно
   коммиты после (но не включая) <em>169a6</em>, т. е. <em>2c33a</em>.</p>
 
-  <div class="center"><img src='{{ site.baseurl }}images/rebase-onto.svg.png'></div>
+  <div class="center"><img src='{{ site.baseurl }}assets/rebase-onto.svg.png'></div>
 
   <p>Есть также интерактивный режим перебазирования <code>git rebase
   --interactive</code>, с помощью которого вы сможете сделать вещи похитрее
