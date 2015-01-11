@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Записная книжка
-tagline:          'Что бы самому не забыть и другим рассказать'
+tagline:          'Чтобы самому не забыть и другим рассказать'
 paginate:         10
 baseurl:          /
 highlighter:      pygments
