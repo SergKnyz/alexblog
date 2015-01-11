@@ -42,8 +42,8 @@ tags: путешествия
 Горы зеленые:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/flowers.jpg)
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/green_hills.jpg)
-Эдельвейсы:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/edelweiss.jpg)
+<span class="signed-image">Эдельвейсы</span>
 [&copy;](https://vk.com/photo14970849_335783863)
 
 Здесь когда-то был ледник, а теперь уютное место для лагеря:

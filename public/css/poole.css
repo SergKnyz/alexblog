@@ -469,3 +469,13 @@ a.pagination-item:hover {
   font-size: 10px;
   font-size: 0.625rem;
 }
+
+.signed-image
+{
+  color: #999;
+  font-size: 0.6em;
+  font-style: italic;
+  float:right;
+  margin-top: -15px;
+  text-align: right;
+}
