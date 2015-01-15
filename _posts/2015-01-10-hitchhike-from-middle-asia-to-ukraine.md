@@ -18,8 +18,7 @@ tags: путешествия автостоп
 Маршрут, по которому ехали:
 
 <iframe src="http://www.gpsies.com/mapOnly.do?fileId=mjabavptzpuwkoib" width="720" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
-В Узбекистане многие говорили, что мы движемся по шелковому пути.
+<span class="signed-image" style="margin-top: 0px;">В Узбекистане многие говорили, что мы движемся по шелковому пути</span>
 
 В общей сложности мы были в пути две недели.
 
