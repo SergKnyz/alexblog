@@ -948,90 +948,7 @@ int main()
 [Адаптер](#adapter): если декоратор изменяет только обязанности объекта, но не его интерфейс, то адаптер придает объекту совершенно новый интерфейс. [Компоновщик](#composite): декоратор можно считать вырожденным случаем составного объекта, у которого есть только один компонент. Однако декоратор добавляет новые обязанности, агрегирование объектов не является его целью. [Стратегия](#strategy): декоратор позволяет изменить внешний облик объекта, стратегия - его внутреннее содержание. Это два взаимодополняющих способа изменения объекта.
 
 ***Пример реализации***  
-{% highlight c++ %}
-#include <iostream>
-using namespace std;
-
-// 1. "lowest common denom"
-class Widget
-{
-  public:
-    virtual void draw() = 0;
-};
-
-class TextField: public Widget
-{
-    // 3. "Core" class & "is a"
-    int width, height;
-  public:
-    TextField(int w, int h)
-    {
-        width = w;
-        height = h;
-    }
- 
-    /*virtual*/
-    void draw()
-    {
-        cout << "TextField: " << width << ", " << height << '\n';
-    }
-};
-
-// 2. 2nd level base class
-class Decorator: public Widget  // 4. "is a" relationship
-{
-    Widget *wid; // 4. "has a" relationship
-  public:
-    Decorator(Widget *w)
-    {
-        wid = w;
-    }
- 
-    /*virtual*/
-    void draw() 
-    {
-        wid->draw(); // 5. Delegation
-    }
-};
-
-class BorderDecorator: public Decorator
-{
-  public:
-    // 6. Optional embellishment
-    BorderDecorator(Widget *w): Decorator(w){}
- 
-    /*virtual*/
-    void draw()
-    {
-        // 7. Delegate to base class and add extra stuff
-        Decorator::draw();
-        cout << "   BorderDecorator" << '\n';
-    }
-};
-
-class ScrollDecorator: public Decorator
-{
-  public:
-    // 6. Optional embellishment
-    ScrollDecorator(Widget *w): Decorator(w){}
- 
-    /*virtual*/
-    void draw()
-    {
-        // 7. Delegate to base class and add extra stuff
-        Decorator::draw();
-        cout << "   ScrollDecorator" << '\n';
-    }
-};
-
-int main()
-{
-  // 8. Client has the responsibility to compose desired configurations
-  Widget *aWidget = new BorderDecorator(new BorderDecorator(new ScrollDecorator
-    (new TextField(80, 24))));
-  aWidget->draw();
-}
-{% endhighlight %}
+{% gist 48d75babfda7377f1c86 decorator.cpp %}
 
     TextField: 80, 24
        ScrollDecorator
@@ -1061,68 +978,7 @@ Proxy при необходимости переадресует запросы 
 
 ***Пример реализации***  
 "->" и "." операторы дают разный результат.
-{% highlight c++ %}
-class Subject
-{
-  public:
-    virtual void execute() = 0;
-};
-
-class RealSubject: public Subject
-{
-    string str;
-  public:
-    RealSubject(string s)
-    {
-        str = s;
-    }
-     /*virtual*/void execute()
-    {
-        cout << str << '\n';
-    }
-};
-
-class ProxySubject: public Subject
-{
-    string first, second, third;
-    RealSubject *ptr;
-  public:
-    ProxySubject(string s)
-    {
-        int num = s.find_first_of(' ');
-        first = s.substr(0, num);
-        s = s.substr(num + 1);
-        num = s.find_first_of(' ');
-        second = s.substr(0, num);
-        s = s.substr(num + 1);
-        num = s.find_first_of(' ');
-        third = s.substr(0, num);
-        s = s.substr(num + 1);
-        ptr = new RealSubject(s);
-    }
-    ~ProxySubject()
-    {
-        delete ptr;
-    }
-    RealSubject *operator->()
-    {
-        cout << first << ' ' << second << ' ';
-        return ptr;
-    }
-     /*virtual*/void execute()
-    {
-        cout << first << ' ' << third << ' ';
-        ptr->execute();
-    }
-};
-
-int main()
-{
-  ProxySubject obj(string("the quick brown fox jumped over the dog"));
-  obj->execute();
-  obj.execute();
-}
-{% endhighlight %}
+{% gist 46143c0cac0f829dbda6 proxy.cpp %}
 
     the quick fox jumped over the dog
     the brown fox jumped over the dog
@@ -1143,97 +999,7 @@ Leaf, то он и обрабатывает запрос. Когда же пол
 Отношение компонент-родитель используется в паттерне [цепочка обязанностей](#chain_of_responsibility). Паттерн [декоратор](#decorator) часто применяется совместно с компоновщиком. Когда декораторы и компоновщики используются вместе, у них обычно бывает общий родительский класс. Поэтому декораторам придется поддержать интерфейс компонентов такими операциями, как Add, Remove и GetChild. Паттерн [приспособленец](#flyweight) позволяет разделять компоненты, но ссылаться на своих родителей они уже не могут. [Итератор](#iterator) можно использовать для обхода составных объектов. [Посетитель](#visitor) локализует операции и поведение, которые в противном случае пришлось бы распределять между классами Composite и Leaf.
 
 ***Пример реализации***  
-{% highlight c++ %}
-#include <iostream>
-#include <vector>
-using namespace std;
-
-class Component
-{
-  public:
-    virtual void traverse() = 0;
-};
-
-class Primitive: public Component
-{
-    int value;
-  public:
-    Primitive(int val)
-    {
-        value = val;
-    }
-    void traverse()
-    {
-        cout << value << "  ";
-    }
-};
-
-class Composite: public Component
-{
-    vector < Component * > children;
-    int value;
-  public:
-    Composite(int val)
-    {
-        value = val;
-    }
-    void add(Component *c)
-    {
-        children.push_back(c);
-    }
-    void traverse()
-    {
-        cout << value << "  ";
-        for (int i = 0; i < children.size(); i++)
-          children[i]->traverse();
-    }
-};
-
-class Row: public Composite
-{
-  public:
-    // Two different kinds of "con-
-    Row(int val): Composite(val){}
-    // tainer" classes.  Most of the
-    void traverse()
-    {
-        // "meat" is in the Composite
-        cout << "Row"; // base class.
-        Composite::traverse();
-    }
-};
-
-class Column: public Composite
-{
-  public:
-    Column(int val): Composite(val){}
-    void traverse()
-    {
-        cout << "Col";
-        Composite::traverse();
-    }
-};
-
-int main()
-{
-  Row first(1);                 // Row1
-  Column second(2);             //   |
-  Column third(3);              //   +-- Col2
-  Row fourth(4);                //   |     |
-  Row fifth(5);                 //   |     +-- 7
-  first.add(&second);           //   +-- Col3
-  first.add(&third);            //   |     |
-  third.add(&fourth);           //   |     +-- Row4
-  third.add(&fifth);            //   |     |     |
-  first.add(&Primitive(6));     //   |     |     +-- 9
-  second.add(&Primitive(7));    //   |     +-- Row5
-  third.add(&Primitive(8));     //   |     |     |
-  fourth.add(&Primitive(9));    //   |     |     +-- 10
-  fifth.add(&Primitive(10));    //   |     +-- 8
-  first.traverse();             //   +-- 6
-  cout << '\n';                 
-}
-{% endhighlight %}
+{% gist 1e2de68db5ee6927192d composite.cpp %}
 
     Row1  Col2  7  Col3  Row4  9  Row5  10  8  6
 
@@ -1318,15 +1084,48 @@ int main()
 ##Интерпретатор (Interpreter)   {#interpreter}
 Для заданного языка определяет представление его грамматики, а также интерпретатор предложений языка, использующий это представление.
 ![]({{ site.baseurl }}assets/2015-01-22-design-patterns-cpp/06_interpreter-min.png)
+***Пример реализации***  
+Uses a class hierarchy to represent the grammar given below. When a roman numeral is provided, the class hierarchy validates and interprets the string. RNInterpreter "has" 4 sub-interpreters. Each sub-interpreter receives the "context" (remaining unparsed string and cumulative parsed value) and contributes its share to the processing. Sub-interpreters simply define the Template Methods declared in the base class RNInterpreter.
+
+`romanNumeral ::= {thousands} {hundreds} {tens} {ones} thousands, hundreds, tens, ones ::= nine | four | {five} {one} {one} {one} nine ::= "CM" | "XC" | "IX" four ::= "CD" | "XL" | "IV" five ::= 'D' | 'L' | 'V' one ::= 'M' | 'C' | 'X' | 'I'`
+{% gist 7c7992884efbcd8858d9 interpreter.cpp %}
+
+    Enter Roman Numeral: MCMXCVI
+       interpretation is 1996
+    Enter Roman Numeral: MMMCMXCIX
+       interpretation is 3999
+    Enter Roman Numeral: MMMM
+       interpretation is 0
+    Enter Roman Numeral: MDCLXVIIII
+       interpretation is 0
+    Enter Roman Numeral: CXCX
+       interpretation is 0
+    Enter Roman Numeral: MDCLXVI
+       interpretation is 1666
+    Enter Roman Numeral: DCCCLXXXVIII
+       interpretation is 888
+
 
 ##Шаблонный метод (Template Method) {#template_method}
 Определяет скелет алгоритма, перекладывая ответственность за некоторые его шаги на подклассы. Позволяет подклассам переопределять шаги алгоритма, не меняя его общей структуры. Шаблонные методы - один из фундаментальных приемов повторного использования кода. Они особенно важны в библиотеках классов, поскольку предоставляют возможность вынести общее поведение в библиотечные классы. Шаблонные методы приводят к инвертированной структуре кода, которую иногда называют принципом Голливуда, подразумевая часто употребляемую в этой кино-империи фразу "Не звоните нам, мы сами позвоним". В данном случае это означает, что родительский класс вызывает операции подкласса, а не наоборот.
 ![]({{ site.baseurl }}assets/2015-01-22-design-patterns-cpp/09_templatemethod-min.png)
+***Пример реализации***  
+{% gist 01c7522e5f75ec3a8239 template_method.cpp %}
+
+    a  b  c  d  e
+    a  2  c  4  e
 
 ##Итератор (Iterator)   {#iterator}
 ***Синонимы: Курсор (Cursor)***  
 Дает возможность последовательно обойти все элементы составного объекта, не раскрывая его внутреннего представления.
 ![]({{ site.baseurl }}assets/2015-01-22-design-patterns-cpp/08_iterator-min.png)
+***Пример реализации***  
+{% gist 81edaa76480d09255825 iterator.cpp %}
+
+    1 == 2 is 1
+    1 == 3 is 0
+    1 == 4 is 0
+    1 == 5 is 0
 
 ##Команда (Command) {#command}
 ***Синонимы: Действие (Action), Сценарий транзакции (Transaction Script)***  
