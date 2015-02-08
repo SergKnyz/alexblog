@@ -9,7 +9,7 @@ tags: C++
 
 ---
 
-Короткое содержание статьи, что бы вообще ее не читать: не используйте **dynamic exception specification**, начиная со стандарта С++11 фича помечена как [deprecated](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3051.html).
+Краткое содержание статьи, что бы вообще ее не читать: не используйте **dynamic exception specification**, начиная со стандарта С++11 фича помечена как [deprecated](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2010/n3051.html).
 
 ---
 
