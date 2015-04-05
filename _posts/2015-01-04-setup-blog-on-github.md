@@ -120,7 +120,7 @@ pages_list:
 - [poole](https://github.com/poole/poole) репозиторий.
 - [руководство](https://guides.github.com/features/mastering-markdown/) по markdown;
 - [пост](http://joshualande.com/jekyll-github-pages-poole/) чувака, на который я ориентировался при настройке блога;
-- [пост](https://sylvain.durand.tf/making-jekyll-multilingual/) чувака для настройки мультилингвальности блога;
+- [пост](http://sylvaindurand.org/making-jekyll-multilingual/) чувака для настройки мультилингвальности блога;
 - [настройка](http://davidensinger.com/2013/03/setting-the-dns-for-github-pages-on-namecheap/) DNS для Namecheap домена для  блога на Github;
 - [пост](https://cdlaap.github.io/2014/06/29/add-tags-page-to-jekyll-blog.html) чувака, который рассказывает как добавить поддержку тегов без плагина Jekyll;
 - [репозиторий](https://github.com/alexprivalov/alexprivalov.github.io) моего блога.
