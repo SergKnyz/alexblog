@@ -2,7 +2,7 @@
 layout: post 
 title: Шпаргалка по шаблонам проектирования с примерами кода на С++ 
 permalink: design-patterns-cpp
-tags: шаблоны_проектирования C++
+tags: patterns C++
 --- 
 
 Описание паттернов, uml-схемы, плюс код на плюсах.
