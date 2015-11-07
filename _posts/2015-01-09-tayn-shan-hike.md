@@ -5,6 +5,8 @@ permalink: tayn-shan-hike
 tags: путешествия
 ---
 
+<script type="text/javascript" src="{{ site.baseurl }}public/js/jssor.slider.min.js"></script>
+    
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/little_camp.jpg)
 Мини отчет о состоявшемся в июле 2014 года походе в горную систему Тянь Шань, Киргизия.
 
@@ -22,22 +24,82 @@ tags: путешествия
 Дальше рассказывать особо не буду, просто фото.
 
 Горы снежные:
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/camp_among_ice.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing3.jpg)
+
+<div id="slider1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/camp_among_ice.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing3.jpg" />
+        </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
 
 Горы скалистые:
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/edge.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/rocks.jpg)
+
+<div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/edge.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/rocks.jpg" />
+        </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
 
 Горы масштабные:
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/big_valley.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing2.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/cool_view.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/view3.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/people2.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/iced_lake.jpg)
-[&copy;](https://vk.com/photo4623768_341230059)
+
+<div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/big_valley.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing2.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing2.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/cool_view.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/view3.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/people2.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/iced_lake.jpg" />
+        </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
 
 Горы зеленые:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/flowers.jpg)
@@ -52,11 +114,32 @@ tags: путешествия
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/camp.jpg)
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/glowing_camp.jpg)
 Зеркало:
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/mirror.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/grass_in_water.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/mirror2.jpg)
-"На Марсе классно" &copy;:
+
+<div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/mirror.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/grass_in_water.jpg" />
+        </div>
+        <div data-p="112.50" style="display: none;">
+            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/mirror2.jpg" />
+        </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
+
+
+"На Марсе классно" &copy; :
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/moon_view.jpg)
+
 Часто снежило:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/snows.jpg)
 Спуск в долину после пройденного перевала:
@@ -73,6 +156,7 @@ tags: путешествия
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/beards.jpg)
 [&copy;](https://vk.com/photo4623768_345646129?tag=18546389)
 
+
 После похода отдых на Иссык-Куле:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/tamga.jpg)
 [&copy;](https://vk.com/photo4623768_346779129)
@@ -84,3 +168,10 @@ tags: путешествия
 Большая часть фото, а также видео сделаны нашим фотографом похода [Сашей Русских](https://vk.com/ursool), за что ему большое спасибо.
 
 Если вам интересно такое времяпровождение, то добро пожаловать в [турклуб Романтик](https://vk.com/tk_romantik)!
+
+<script>
+    jssor_1_slider_init("slider1");
+    jssor_1_slider_init("slider2");
+    jssor_1_slider_init("slider3");
+    jssor_1_slider_init("slider4");
+</script>
