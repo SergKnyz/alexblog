@@ -50,17 +50,11 @@ tags: путешествия
 
 <div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
-        <div data-p="112.50" style="display: none;">
-            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/edge.jpg" />
-        </div>
-        <div data-p="112.50" style="display: none;">
-            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/rocks.jpg" />
-        </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/edge.jpg" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/rocks.jpg" /> </div>
     </div>
     <!-- Bullet Navigator -->
-    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
-        <div data-u="prototype" style="width:10px;height:10px;"></div>
-    </div>
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;"> <div data-u="prototype" style="width:10px;height:10px;"></div> </div>
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
@@ -72,9 +66,6 @@ tags: путешествия
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;">
             <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/big_valley.jpg" />
-        </div>
-        <div data-p="112.50" style="display: none;">
-            <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing2.jpg" />
         </div>
         <div data-p="112.50" style="display: none;">
             <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/climbing2.jpg" />
@@ -111,11 +102,21 @@ tags: путешествия
 Здесь когда-то был ледник, а теперь уютное место для лагеря:
 ![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/view1.jpg)
 Другие уютные места ночевок:
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/camp.jpg)
-![]({{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/glowing_camp.jpg)
+<div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/camp.jpg" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/glowing_camp.jpg" /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;"> <div data-u="prototype" style="width:10px;height:10px;"></div> </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
+
 Зеркало:
 
-<div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;">
             <img data-u="image" src="{{ site.baseurl }}assets/2015-01-09-tayn-shan-hike/mirror.jpg" />
@@ -174,4 +175,5 @@ tags: путешествия
     jssor_1_slider_init("slider2");
     jssor_1_slider_init("slider3");
     jssor_1_slider_init("slider4");
+    jssor_1_slider_init("slider5");
 </script>
