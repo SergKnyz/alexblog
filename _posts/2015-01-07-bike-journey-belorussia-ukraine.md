@@ -2,7 +2,7 @@
 layout: post
 title: Велопутешествие по Белоруссии и Украине
 permalink: bike-journey-belorussia-ukraine
-tags: путешествия вело
+tags: велопутешествия
 ---
 
 ![top_img]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/top_image.jpg)
