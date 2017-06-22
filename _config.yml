@@ -8,7 +8,7 @@ tagline:          'Чтобы самому не забыть и другим р�
 paginate:         10
 paginate_path:    "page:num"
 baseurl:          /
-highlighter:      pygments
+highlighter:      rouge
 future:           false
 show_drafts:      false
 
