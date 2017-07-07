@@ -5,8 +5,8 @@ permalink: docker-cpp
 tags: C++ docker
 ---
 
-![]({{ site.baseurl }}assets/2017-05-15-docker-c++/cplus-docker.jpg)  
-Четкая короткая фраза :)
+<img src='{{ site.baseurl }}assets/2017-05-15-docker-c++/cplus-docker.jpg' style="width: 720px;">
+Как не проходить квест по настройке окружения каждый раз.
 
 ---
 
@@ -212,5 +212,13 @@ EOF
 docker run -it --rm -v ${resolved_dir}:/src -e LOCAL_USER_ID=`id -u ${USER}` ${DOCKER_IMG_NAME} bash -c "${bash_cmd}"
 {% endhighlight %}
 
+
+
+Security
+
+As the registry is the hinge pin of our build and deployment process, securing it is vital. By default, everybody who can access the registry server has full permissions for reading and writing images. The registry offers two options for securing its content: HTTP basic auth and a custom token-based authentication protocol. Basic auth is simple to set up and use, but does not allow for any kind of permission management: all authorized users have full access to the registry. The second option is more complicated, but offers more way more flexibility.
+
+
+Docker Registry не позволяет сделать разграничение по правам доступа. Типичный сценарий: анонимный pull и авторизированный push. Соответствующее [обсуждение](https://github.com/docker/distribution/issues/1028) на гитхабе.
 
 ## Заключение   {#resume}
