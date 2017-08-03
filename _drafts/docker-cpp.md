@@ -222,3 +222,6 @@ As the registry is the hinge pin of our build and deployment process, securing i
 Docker Registry не позволяет сделать разграничение по правам доступа. Типичный сценарий: анонимный pull и авторизированный push. Соответствующее [обсуждение](https://github.com/docker/distribution/issues/1028) на гитхабе.
 
 ## Заключение   {#resume}
+
+Презенташка от доклада для http://cppusergroup.com.ua:
+<iframe width="720" height="405" src="https://docs.google.com/presentation/d/1aBaRGe4nE5KKz8hRUUi9Dsa2Kj3KB6hO84xxJSehCao/embed" frameborder="0"></iframe>
