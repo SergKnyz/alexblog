@@ -6,7 +6,7 @@ title:            Записная книжка
 tagline:          'Чтобы самому не забыть и другим рассказать'
 paginate:         10
 paginate_path:    "page:num"
-baseurl:          /
+baseurl:          "/"
 highlighter:      rouge
 future:           false
 show_drafts:      false
@@ -17,11 +17,6 @@ shorturl:         alexprivalov.org
 author:
   name:           Alex Privalov
   url:            alexprivalov.org
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           github.com/alexprivalov/alexprivalov.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:

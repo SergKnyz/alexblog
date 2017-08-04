@@ -5,7 +5,7 @@ permalink: bike-journey-belorussia-ukraine/
 tags: велопутешествия
 ---
 
-![top_img]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/top_image.jpg)
+![top_img](/assets/bike-journey-belorussia-ukraine/top_image.jpg)
 Рассказ о том, как я в конце мая &mdash; начале июня 2014 года проехал на велосипеде почти 1400 км за 2,5 недели по прекрасным местам Белоруссии и Украины.
 
 ---
