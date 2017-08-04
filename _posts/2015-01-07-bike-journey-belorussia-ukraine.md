@@ -39,33 +39,33 @@ tags: велопутешествия
 Минск мне запомнился разным:
 
 - зеленым:
-![]({{ site.url }}/assets/bike-journey-belorussia-ukraine/minsk_green1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_green1.jpg)
 Очень зеленым:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_green2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_green2.jpg)
 Просто утопающим в зелени:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_green3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_green3.jpg)
 - "водным":
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_water1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_water1.jpg)
 И это все одна [река](https://ru.wikipedia.org/wiki/Свислочь_%28приток_Березины%29) и ее заводи:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_water2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_water2.jpg)
 Вышел из квартиры, прошел два метра и ты уже на рыбалке:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_water3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_water3.jpg)
 Или просто плаваешь на лодке:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_water4.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_water4.jpg)
 - велосипедным:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_bike.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_bike1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_bike.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_bike1.jpg)
 - иногда советским:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_soviet2.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_soviet1.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_soviet3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_soviet2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_soviet1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_soviet3.jpg)
 - местами еще более историческим:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_history1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_history1.jpg)
 - иногда дождливым:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_after_rain.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_after_rain.jpg)
 К слову, дождь потом меня "преследовал" всю дорогу.
 - и ... тихим, `"город после 9-ти никого на улице нет"`, что очень странно для столицы, как по мне. Так уж случилось что я был в Минске, когда там проходил [чемпионат мира по хоккею](https://ru.wikipedia.org/wiki/Чемпионат_мира_по_хоккею_с_шайбой_2014). Естественно, в разгар матчей, которые проводились вечером, люди толпились возле спортивных арен: болельщики, туристы, минчане. Но стоило только немного отдалится от центров спортивных событий &mdash; наступало затишье.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_silence.jpg)
+![](/assets/bike-journey-belorussia-ukraine/minsk_silence.jpg)
 <span class="signed-image">Зубр Волат &mdash; официальный талисман чемпионата.</span>
 
 В общем я остался под большим впечатлением от города, хотелось бы еще приехать.
@@ -75,52 +75,52 @@ tags: велопутешествия
 Несмотря на то, что мне в Минске понравилось и было весело с ребятами, я на второй день начал скучать: мне уже хотелось движения, крутить педали, оказаться рядом с природой. Также из-за того, что я последнюю ночь мало спал (ездил до четырех утра/ночи по Минску), мне хотелось отоспаться в поезде (ехать до старта моего маршрута, г. Миоры, надо было целую ночь). Потому с радостным настроением вечером заскочил в поезд и уснул там мертвым сном. Утром же быстро выгрузился с поезда, за пять минут собрал велосипед и выехал &mdash; домой:smile:.
 
 Старт:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/start_of_journey.jpg)
+![](/assets/bike-journey-belorussia-ukraine/start_of_journey.jpg)
 В Браславе(небольшой город посреди уникальных [Браславских озер](https://ru.wikipedia.org/wiki/Браславские_озёра), которые я очень хотел увидеть) у меня была первая вписка. Лена мне устроила экскурсию по интересным местам. Вид на озеро Дривяты с замковой горы:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav1.jpg)
 Вид на озеро Навяты, тоже с замковой горы:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav2.jpg)
 Местный Посейдон:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav3.jpg)
 ...и его жена-русалка? на берегу озера Бережа:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav4.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav4.jpg)
 Истуканы каких-то божеств в частном саду:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav6.jpg) ![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav5.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav6.jpg) ![](/assets/bike-journey-belorussia-ukraine/braslav5.jpg)
 Под вечер опять начался дождь:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav_before_rain1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav_before_rain1.jpg)
 Но я был в безопасности:smile::
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/braslav_before_rain2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/braslav_before_rain2.jpg)
 В то время, как на улице бушевал ветер и дождь, мы с Леной сидели на чердаке, пили чай и расспрашивали друг друга о разных вещах: например, я о ее работе переводчиком в Венесуеле, а она меня &mdash; о горах и вообще о том, какого лешего меня занесло в такую даль, как Браслав.
 
 На следующее утро погода была хорошая. Начался мой первый полноценный ходовой день. Решил ехать по проселочным дорогам, так как хотелось прокатится по селам:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav1.jpg)
 И не зря, потому что увидел очень много аутентичных штук, от которых я был в восторге.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav2.jpg)
 Свитый из лозы трехколесный велосипед-подставка под цветочный горшок меня покорил:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav3.jpg)
 На страже дома:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav4.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav4.jpg)
 Я даже не знаю что это символизирует:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav5.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav5.jpg)
 
 Вообще, как потом показала практика, самый цимес путешествовать по другой незнакомой тебе среде &mdash; это как раз по таким богом забытым местам. Сразу видно, чем живут люди, без "понтов для приезжих". Познание изнутри. Такой же "тактике" я потом следовал, когда колесил по Греции, Турции и Грузии. Да и потом, для меня всегда было интересно как живут "другие села" &mdash; сам ведь тоже из села.
 
 Типичная улочка, небольшой городок [Молодечно](https://ru.wikipedia.org/wiki/Молодечно):
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/maladechnoe.jpg)
+![](/assets/bike-journey-belorussia-ukraine/maladechnoe.jpg)
 Так обычно выглядел мой ночлег:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/after_braslav_camp.jpg)
+![](/assets/bike-journey-belorussia-ukraine/after_braslav_camp.jpg)
 Вот такая сказочная печка встретилась по пути, правда пирожков не было:confused::
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/to_grodno1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/to_grodno1.jpg)
 
 ## Гродно   {#grodno}
 
 В Гродно у меня должна была быть вписка, но в последний момент девушка, у которой я планировал остановиться, не смогла приехать из Польши, о чем сообщила за день в смс. В город приехал рано, в часов 11 дня, остановился в отеле и пошел гулять.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno1.jpg)
 На голодный желудок гуляется не особо, потому зашел в супермаркет прикупить чего-то съестного. Когда вышел &mdash; вот он родимый, никуда без него, да еще с градом:smile::
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno_rain.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno_rain.jpg)
 Лил хороших полчаса, я за это время успел перекусить и с местными жителями поговорить за погоду-жизнь.
 Город после дождя:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno2.jpg)
 Пожарное депо и каланча.
 
 >"Первоначально в городе было построена деревянная пожарная каланча. Однако, очень скоро выяснилось, что деревянная каланча слишком низкая и не дает полного обзора города. Тогда в начале ХХ века вместо деревянной была построена каменная 32-метровая каланча и пожарное депо. Для её строительства специально был приглашен архитектор из Петербурга. В свое время это была самая высокая постройка в городе. С такой высоты можно было заметить даже самый маленький пожар. На каланче постоянно дежурил дозорный, который при обнаружении пожара, громко звонил в колокол. Пожарная команда, вооруженная бочками на телегах, выезжала на место происшествия."
@@ -128,25 +128,25 @@ tags: велопутешествия
 [&copy;](http://zetgrodno.com/pozharnaya-bashnya-i-depo-v-grodno-)
 
 На данный момент каланча функционирует в качестве музея.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno4.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno4.jpg)
 Синагога:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno5.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno5.jpg)
 Заброшенные дворы есть в любом городе:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno6.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno6.jpg)
 Но виды в Гродно в основном такие:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno9.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno9.jpg)
 Пешеходный мост через реку [Неман](https://ru.wikipedia.org/wiki/Неман):
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno7.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno7.jpg)
 Сама река:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno3.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno8.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno10.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno8.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno10.jpg)
 Оперный театр:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno_theater.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno_theater.jpg)
 В Гродно народ еще раньше "вымирает" чем в Минске &mdash; в районе 8-ми вечера и уже никого нет:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno11.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno11.jpg)
 Лягушка-путешественница, установлена напротив информационно-туристического центра, что "как бы говорит нам".
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/grodno12.jpg)
+![](/assets/bike-journey-belorussia-ukraine/grodno12.jpg)
 
 ## На пути в Брест  {#to_brest}
 
@@ -155,12 +155,12 @@ tags: велопутешествия
 Ничего совсем уж примечательного я не запомнил и выделить не могу. Это уже был день седьмой или восьмой поездки, я полностью адаптировался к нагрузкам, виды были все также хороши, ехал и просто получал удовольствие от самого процесса.
 
 "Президентские домики" &mdash; так белорусы называют жилье, строящееся по госпрограмме для молодых специалистов, чтобы те оставались в селе и развивали его:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/presidents_houses.jpg)
+![](/assets/bike-journey-belorussia-ukraine/presidents_houses.jpg)
 Семейство аистов:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/to_brest1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/to_brest1.jpg)
 Из интересного для меня &mdash; заскочил на карьеры, на месте которых начали образовываться водоемы. Местная достопримечательность.
 Искупался, пообедал и двинул дальше.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/to_brest_quarry.jpg)
+![](/assets/bike-journey-belorussia-ukraine/to_brest_quarry.jpg)
 
 ## Брест    {#brest}
 
@@ -169,33 +169,33 @@ tags: велопутешествия
 Даже спустя полгода я пытаюсь поддерживать связь с ними, переписываться и мне реально интересно. Обычно люди, с которыми познакомился через [CouchSurfing](https://www.couchsurfing.com), меня так не цепляют. Да, было интересно и весело пообщаться и потусить, если будете проездом, то конечно заезжайте, но так попасть на одну волну...:smile:. В общем, я планировал остановиться на один день, передохнуть-погулять и выехать дальше, но остался на два дня. История, туризм, мировоззрение, снаряжение, политика, программирование, couchsurfing &mdash; лишь малая толика из того, о чем мы говорили. Отдельное слово хочется сказать о маленьком Игнате: ему наверное года полтора было, но он вел себя так спокойно и жизнерадостно одновременно! Казалось бы: чужой человек в доме, большинство маленьких детей расплакались бы или были явно не в восторге. А он наоборот, еще пытался с моими вещами поиграться и ко мне интерес проявлял. Родители явно его правильно воспитывают.
 
 В общем о Бресте. Брест всем известен Брестской крепостью. Собсно, о городе я только это и знал — там есть крепость, которая держала героическую оборону во время Великой Отечественной войны. Начал я ее осмотр с 5-го форта. Форт &mdash; это мини крепость, которая соединена подземными коммуникациями с основной крепостью-цитаделью и не дает врагу подойти близко к ней. Как-то так. У самой Брестской крепости было аж 12 фортов, но на данный момент сохранился только пятый, из него сделали музей.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest1.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest2.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest3.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest2.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest3.jpg)
 Потом пешком прогулялся к самой цитадели:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest4.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest5.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest4.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest5.jpg)
 Так как я не большой любитель исторических развалин, то быстро направился к выходу:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest6.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest6.jpg)
 Наткнулся на такой столб, межевой знак, он обозначал границу между крепостью и городом:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest7.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest7.jpg)
 Потом прогулялся по улице Гоголя:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest8.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest8.jpg)
 Она примечательна недавно установленными оригинальными фонарными столбами &mdash; по большей части на тему творчества Гоголя:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest9.jpg) ![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest9_1.jpg)
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest10.jpg) ![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest11.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest9.jpg) ![](/assets/bike-journey-belorussia-ukraine/brest9_1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest10.jpg) ![](/assets/bike-journey-belorussia-ukraine/brest11.jpg)
 Некоторые не очень напоминают гоголевские мотивы:confused: ... но тоже красиво:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest12.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest12.jpg)
 Были и другие, явно не имеющие отношения к творчеству каких-то писателей, но тоже мило, ведь все фонарные столбы &mdash; это "подарки" брестских предприятий городу:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest12_1.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest12_1.jpg)
 Возвращаясь "домой", заприметил вот такой пейзаж:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/brest13.jpg)
+![](/assets/bike-journey-belorussia-ukraine/brest13.jpg)
 Кстати, это было первое или второе июня, несмотря на это было очень холодно &mdash; 8-9 градусов тепла.
 
 ## Украина. Четыре дня дождей. Финиш в Черновцах {#ukraine}
 
 Отдохнув два дня в Бресте, я выехал далее, в сторону Украины. Как только я выехал за город, практически сразу начался мелкий дождь. Он то усиливался, то ослабевал, но не прекращался.
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/belorussia_last_day_rain.jpg)
+![](/assets/bike-journey-belorussia-ukraine/belorussia_last_day_rain.jpg)
 И так четыре дня. Все эти дни я ехал: дождя я никогда не "боялся", а сидеть на месте и пережидать его не желал. Ночевал все время в придорожных отелях &mdash; ставить палатку в лужу воды желания абсолютно не было.
 
 Меня эта погода настолько впечатлила, что я даже поделился ощущениями с друзьями в вк:
@@ -203,14 +203,14 @@ tags: велопутешествия
 >...С недавних пор я начал вести новый отсчет: сегодня завершился четвертый день "водного" велопохода. Все эти дни идет дождь, я всегда еду полностью мокрый. За эти дни я успел пройти все пять стадий отрицания, переболеть (один день пришлось засунуть свою гордость (я проехал меньше 100 км в день!!!!:tired_face:) в задницу и отлежаться по нормальному в отеле ) и начать получать кайф. Оказывается, что едется по дождю не хуже, чем без него: те же 110-120 км выходят, если здоровье в порядке конечно. Вода летит со всех сторон: с неба, от колес велосипеда и крылья не особо помогают, от пролетающих рядом автомобилей, которые иногда окатывают нехило. А ты себе крутишь педали и все четко. Главное дольше пяти минут не отдыхать. Я полюбил затяжные горки и наоборот перестал любить затяжные спуски. Ведь в горку становится совсем хорошо и тепло, а спускаясь, мало того что никак не работаешь, так еще встречный ветер лепит мокрую ветровку к телу: "брррр, неприятное ощущение". Ах да, ехать выше 35ти км в час тоже не надо: опять же встречный ветер не радует. Вообще я задумался об актуальности гидры для такого:smirk:.
 
 Единственное фото, которое я сделал во время заезда под дождем, это мишки недалеко от озера Свитязь:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/ukraine_bears.jpg)
+![](/assets/bike-journey-belorussia-ukraine/ukraine_bears.jpg)
 Рано или поздно любая плохая погода заканчивается, выглядывает солнце, музыка в плеере начинает играть другими нотами и ты начинаешь оглядываться по сторонам, а не просто исступленно крутить педали, чтобы не замерзнуть. Яркие краски наполняют глаза, вдруг осознаешь: "я же дома, это Украина!".
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/ukraine_sunny.jpg)
+![](/assets/bike-journey-belorussia-ukraine/ukraine_sunny.jpg)
 Погода "исправилась" как раз под конец моей поездки:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/ukraine_end_of_trip.jpg)
+![](/assets/bike-journey-belorussia-ukraine/ukraine_end_of_trip.jpg)
 И я, довольный и уставший, поехал в гости к девочке Вале, которая живет вот в таком прекрасном старом доме:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/chernivtsi_house.jpg)
+![](/assets/bike-journey-belorussia-ukraine/chernivtsi_house.jpg)
 А это просто местный велосипед:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/chernivtsi_bicycle.jpg)
+![](/assets/bike-journey-belorussia-ukraine/chernivtsi_bicycle.jpg)
 
 Ну, если кто-то дочитал до конца, то еще одно короткое предложение: один прокол и одна лопнувшая спица на заднем колесе. Все.

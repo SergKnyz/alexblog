@@ -57,7 +57,7 @@ tags: markdown
 | Row2 Cell1    | Row2 Cell2    |
 
 Наглядная визуальная шпаргалка:
-[![]({{ site.baseurl }}assets/2015-01-18-markdown-short-reference/Markdown_cheatsheet.png "Изображение кликабельно")]({{ site.baseurl }}assets/2015-01-18-markdown-short-reference/Markdown_cheatsheet.png)
+[![](/assets/2015-01-18-markdown-short-reference/Markdown_cheatsheet.png "Изображение кликабельно")](/assets/2015-01-18-markdown-short-reference/Markdown_cheatsheet.png)
 
 [1]: http://ru.wikipedia.org/wiki/Markdown "Markdown"
 [2]: https://www.github.com/ "GitHub"

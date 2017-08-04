@@ -5,7 +5,7 @@ permalink: docker-cpp
 tags: C++ docker
 ---
 
-<img src='{{ site.baseurl }}assets/2017-05-15-docker-c++/cplus-docker.jpg' style="width: 720px;">
+<img src='/assets/2017-05-15-docker-c++/cplus-docker.jpg' style="width: 720px;">
 Как не проходить квест по настройке окружения каждый раз.
 
 ---
