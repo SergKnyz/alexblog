@@ -6,7 +6,6 @@ title:            Записная книжка
 tagline:          'Чтобы самому не забыть и другим рассказать'
 paginate:         10
 paginate_path:    "page:num"
-baseurl:          "/"
 highlighter:      rouge
 future:           false
 show_drafts:      false

@@ -39,7 +39,7 @@ tags: велопутешествия
 Минск мне запомнился разным:
 
 - зеленым:
-![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_green1.jpg)
+![]({{ site.url }}/assets/bike-journey-belorussia-ukraine/minsk_green1.jpg)
 Очень зеленым:
 ![]({{ site.baseurl }}assets/bike-journey-belorussia-ukraine/minsk_green2.jpg)
 Просто утопающим в зелени:
