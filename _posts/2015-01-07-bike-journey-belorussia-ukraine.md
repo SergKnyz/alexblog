@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Велопутешествие по Белоруссии и Украине
-permalink: bike-journey-belorussia-ukraine
+permalink: bike-journey-belorussia-ukraine/
 tags: велопутешествия
 ---
 

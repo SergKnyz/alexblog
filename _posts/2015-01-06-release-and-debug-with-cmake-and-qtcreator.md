@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release и Debug сборки при использовании Сmake в Qt Creator
-permalink: release-and-debug-with-cmake-and-qtcreator
+permalink: release-and-debug-with-cmake-and-qtcreator/
 tags: cmake qtcreator
 ---
 

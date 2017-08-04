@@ -1,13 +1,15 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Записная книжка
 tagline:          'Чтобы самому не забыть и другим рассказать'
 paginate:         10
+paginate_path:    "page:num"
 baseurl:          /
-highlighter:      pygments
+highlighter:      rouge
+future:           false
+show_drafts:      false
 
 url:              http://www.alexprivalov.org
 shorturl:         alexprivalov.org
@@ -29,3 +31,5 @@ pages_list:
 
 gems:
   - jemoji
+  - jekyll-paginate
+  - jekyll-gist

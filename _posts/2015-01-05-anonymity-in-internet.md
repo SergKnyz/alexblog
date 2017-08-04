@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: Анонимность в эпоху Интернет 
-permalink: anonymity-in-internet
+permalink: anonymity-in-internet/
 tags: anonymity
 --- 
 
