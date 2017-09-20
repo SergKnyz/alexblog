@@ -720,7 +720,7 @@ int main()
 }
 {% endhighlight %}
 
-#Структурные паттерны   {#structural_pattern}
+# Структурные паттерны   {#structural_pattern}
 
 - Adapter makes things work after they're designed; Bridge makes them work before they are.
 - Назначение [моста](#bridge) - чтобы абстракция и реализация могли изменяться независимо. Предназначение адаптера - чтобы несвязанные классы могли работать вместе.
