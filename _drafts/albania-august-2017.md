@@ -46,6 +46,7 @@ permalink: albania-august-2017
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
  </div>
 
+Так как паром завтра утром, нам необходимо было где-то переночевать. 
 Ночевка перед паромом, в городке Koman:
 
 <div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
@@ -64,11 +65,25 @@ permalink: albania-august-2017
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
  </div>
 
+<div id="slider9" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/WQ8qBDxxGyCoIVKfQpKQhIEChhbLIix9LcGJvEa5aVODEZKk0ctKl9CbTuphRH7LDgYhclcGBtWxdua7q4ATUJrgxUjYMGMe-tV02-bZpfposBs1cFrR2vKi2IYys8ztpxHEKuk2bojmwsxbr3DF_wRGlxx8NybYt307FLwNihoQdFk01yzKChataQReB2cF13pky7HmfUFZJPxg0Me8A9fiksv0Iy52BuGVbTdHtA5QEhvfw3IDLcjB3X8G9zgWdbiCFcR_EpTR7Gsx1qquOkTD2Xxnup5XhKYi_xQq8xhP0K4HEFrjMwcM0IRWqgaXOkouoPrz8JYQ7GzesW_jNz14AjPxaTYOR1lWdy_T_9fsp_mDaY9qDdlKdq_oxuA3F3HMxk2wkL4mNMzppHJIEmMCTmparxEI6ROXS5I81KS4DaSzCfCIh5fzmeraxXgGG2Vcjg6qEBy7AtvdispvgM-tg5pTpr44R9V4JkUTFvG5iNWD6Pnb3_bS7XuxkZNg9YZZuooKqj_UjdUl8n4h-CD9VeV5vsZNv5h0ruSf1KtYq_enD-YUR-hE8Lq_uASdK_jvajGDzdr1eQ4VuLTxnRe0gnkiIiI2v-7wd_rhfuqYSlMCKGmT=w1024-no" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/xPbNmlnUHr3-p24XH-dDKcHDbnwM_xZLfXlxv745ltYpI8G3Vwn5cRMNsMZN4sUG08RIOpO7BUEtUuYfuONlt_neFXGbxkoBElvv25k_jEJuXE0vYfWXlxUUH-pFSsrtf_hhP4UZxmhp6BNbbsEaD2ZqWY1EQeGX0ezs-G3GXAWHE1qvCABDHiFbGcTxerUxng5RYyB_wO7w74E89tPaqDSGDRp27DOuVTV_GeUcEFhubzCzKrSskxB39Dv8ztqoEQVbjSI4eL_orTvmI5EIgxEU6MeY7FUllw0V49KNFvE9rrnkL2kG_F3plpzdYoqS1AalCckTQxAhFb5atLnd-nyx_VlbASKKwGlYRvmNxHPNEdYXoOXS4ICEgovOEawmtL9pyL732ipp-zPQs5vp1a0s7WdCtkksDstsDeoauovbghMvS_myb4o0ZfZEqbees5y9WRB1qmp-e6FFI-I8goFLOXCbWVVkxR3UpXbx7BHDlJY2E87yDTzS1HibsrPDZy5hWVOMzmbbC0eetGxqyyUBVk47RtHBZmh02o0SvES9bZjsWQkuct3q2C9yBh51AOzGUbDWOlrj2sLqabDKLLNMDAug3NYuQTOqi6ZS1g=w1024-no" /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
 
-[](https://lh3.googleusercontent.com/WQ8qBDxxGyCoIVKfQpKQhIEChhbLIix9LcGJvEa5aVODEZKk0ctKl9CbTuphRH7LDgYhclcGBtWxdua7q4ATUJrgxUjYMGMe-tV02-bZpfposBs1cFrR2vKi2IYys8ztpxHEKuk2bojmwsxbr3DF_wRGlxx8NybYt307FLwNihoQdFk01yzKChataQReB2cF13pky7HmfUFZJPxg0Me8A9fiksv0Iy52BuGVbTdHtA5QEhvfw3IDLcjB3X8G9zgWdbiCFcR_EpTR7Gsx1qquOkTD2Xxnup5XhKYi_xQq8xhP0K4HEFrjMwcM0IRWqgaXOkouoPrz8JYQ7GzesW_jNz14AjPxaTYOR1lWdy_T_9fsp_mDaY9qDdlKdq_oxuA3F3HMxk2wkL4mNMzppHJIEmMCTmparxEI6ROXS5I81KS4DaSzCfCIh5fzmeraxXgGG2Vcjg6qEBy7AtvdispvgM-tg5pTpr44R9V4JkUTFvG5iNWD6Pnb3_bS7XuxkZNg9YZZuooKqj_UjdUl8n4h-CD9VeV5vsZNv5h0ruSf1KtYq_enD-YUR-hE8Lq_uASdK_jvajGDzdr1eQ4VuLTxnRe0gnkiIiI2v-7wd_rhfuqYSlMCKGmT=w1024-no)
-Жуткая гроза ночью, дождь, сильный, завивающий ветер, который хлопал всеми дверьми, окнами, ставнями, ощущение как будто пристуствуешь в фильме-трелере Сияние с Николсоном.
+Жуткая гроза ночью, дождь, сильный, завивающий ветер, который хлопал всеми дверьми, окнами, ставнями, ощущение как будто пристуствуешь в фильме-триллере [Сияние](https://ru.wikipedia.org/wiki/Сияние_(фильм)) с Джеком Николсоном в главной роли.
 
-Вот такой вот пыптык, на котором все кучковались и ждали прихода парома:
+Утром погода светилась как ни в чем не бывало. Мы позавтракали, быстро собрались, расчитались за отель, выехали. Не успев проехать и половины пути к паромной переправе, я словил себя на мысли что не помню как упаковывал фотоаппарат. Быстро проверили все свои сумки-рюкзаки - точно нет его! Тут же развенулись обратно. Потенциальных точек, где я мог забыть девайс было всего две: кафе, в котором вчера вечеом ужинали и отель. Пока ехали обратно Аня, видимо успев уже морально попрощаться с ее фотоаппаратом, сказала: "Фотографии жалко". Но нам повезло: фотоаппарат нашелся во вчерашнем кафе. Как только я подьехал к нему, еще не успел даже толком выйти с авто, мне на встречу вышел его хозяин с фотиком:).
+
+Несмотря на эти все челночные покатушки туда-сюда, мы приехали сильно заранее на причал, за часа два до прибытия нашего парома. Вот такой вот пыптык, на котором все смешалось в кучу:
 <div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/5_1ail9gAW-KGn0qZmCRw0mC0_u7TEKk2PznM1TfQXiBOdyXJRySy4MsuX_Gy9jq-XE2Xehw7WSeMr_wyyP7y6ujKCrL9XUsrnpbCeu1NHXOjkRObigcEKOyiAwJnvDTzfp42QXd9Q-0fxJlrcTJ3ijJVVMI_iyy8lUxBH2K_lNaSLfCWhIBSi-MNQRL5FH-xWy9Si2TV2rI3IZgP-yCrOqXQYelwsKHTDlIFM9TXFuYJX6TPb1tK7FQABIaAgS5xpZhNVksDlSKTUywqH2cs-fUtV8FKPtWd7_-MT-bqERFZOEcFCU93Aea6hFce7rGfS5E_N8yA1MVcuE6Vynx7Ry3bI3dBVt0g9135Unx5qX9437ArLbqNb0AQ8lbJy0SWWvip4Jfg9oB12IvinzcahsHzahNkx2QLXWj4JNdAy2LHmzRz8DsznfQCHtZJA693NI5TkO60eXQSufbvYw_6Tu7gwBQD1lmKGIxDXKS7gLjflk0B9ko7iDDBflhg9sX9lhgIJiRAqG6Tuz9zVxP4JFjQykkdvWc8WBfUWav9o2AZXcy3VcJQ9AzhuudBUYPUDe1OWtqC3EgjqK2FN1auwunnvzddbCZ-T2qnjlrAhL89oG_yKd5=w1024-no" /> </div>
@@ -81,9 +96,11 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
- </div>
+ </div><p></p><p></p>
+<span class="signed-image">В интернете я читал что причал переправы тесноват, но не думал что настолько.</span>
 
-Уже потом мне в голову пришла идея: надо было нащелкать кадры с интервалом в минуту-две, а потом склеить в гифку - получилось бы забавное слайдшоу автомобильных пятнашек. Или вообще таймлапс видео замутить!
+На причал можно попасть только через полукилометровый тунель. Выехав из него, я опешил: "Куда машину то приткнуть?".
+Местный парковщик, он же продавец билетов, постоянно тусовал автомобили туда-сюда. Потому что постоянно кто-то приезжал/уезжал, приплывали небольшие лодочки, зачастую с людьми, один раз даже с овцами:). Пока мы дождались большого "автомобильного" парома, сменилось куча автомобилей и людей. Уже потом мне в голову пришла идея: надо было нащелкать кадры с интервалом в минуту-две, а потом склеить в гифку - получилось бы забавное слайдшоу автомобильных пятнашек. Или вообще таймлапс видео замутить!
 
 После того как всех желающих упаковали, паром начал отплывать:
 ![](https://lh3.googleusercontent.com/Zf4fOly4_MbV7eGBPbOZylidiGRiZ5cjRMaDpTBGrPEvpagg3m1MUrH1TIJRa8Vy5Is6f3IYBCMTw7vWzSYhLxbK3hC8r1r7QICs7MaQSeLdubrZLzyDS6Xcq7tryDWd8ywxfbqbi3MnzxSepQB49M_6IieTdzWYtf-ttcPfg5qp6Y7iqsoNN-SWTcJFzHMmpK5mO-_LuwJHyQUUFskYgmux--NYbwOB3wH9Goei-Tv-O_YoWwwhORiFG2wDgp5p7eJcl5GV93ryKtLP0c7Suu_JM_jlyOQcq7QX35pgzIcmPe9w5mBl7RU6_2_6D4n2rD0OXIMS4FYgwQE1K7A2xknrVFIPrkG3-7wPSs0_qH-0OqKyunaOa-sKEPJfcvRotqnYCaYhKKpbGYtl-uTx6bLQBkZK_3Qbol42C9C8laAnio4C4CrOrgGbDody2fM4O5fVPIpEr0b62NfYW6w9wlzDhLt2LkOeIDLCkhSqwDHIrHIo1MuuoKYOxh1cHyCD4I41tqEtR7odlIaQDDCqXbvEHYuQBW-NUp_2PLDXgEJjtTp6z8zgKMK1DebkhLeAS67I8OPIe-DaQccQ0wio-2NKgHAGRgQtBUOvmCYxcQj7wepKMRQS=w1024-no)
@@ -209,4 +226,5 @@ permalink: albania-august-2017
     jssor_1_slider_init("slider6");
     jssor_1_slider_init("slider7");
     jssor_1_slider_init("slider8");
+    jssor_1_slider_init("slider9");
 </script>
