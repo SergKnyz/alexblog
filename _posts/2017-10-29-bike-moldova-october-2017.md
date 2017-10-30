@@ -37,19 +37,19 @@ tags: велопутешествия Молдова Приднестровье
 <div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/HqFARWUP5wcjCbROqoXYNt9Ybz_sRRWywr30yIFqsELqKo7yYoP6jglFEG5IaKE79JXjPCRn2OvFVjhZQ7B992_naOcz4Vu5fwxzpTzki3_PuoqwXAphw07d6C-ty0z1hI2dFarfXQ=w1024-no
+            https://lh3.googleusercontent.com/HqFARWUP5wcjCbROqoXYNt9Ybz_sRRWywr30yIFqsELqKo7yYoP6jglFEG5IaKE79JXjPCRn2OvFVjhZQ7B992_naOcz4Vu5fwxzpTzki3_PuoqwXAphw07d6C-ty0z1hI2dFarfXQ=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/bPvaaNyWKIs9Veb6zAWg6Ii5Yn-_V3l2OWAOgW_kvVvP8piOFKpzO2-Ce0e6PauLv7pR-FZpoz9Svp1qEcOUgzLaCmwAycWpPzurCFd0z0ZlQruCSCaWvVImrECZAKa0x_FYgI2rVg=w1024-no
+            https://lh3.googleusercontent.com/bPvaaNyWKIs9Veb6zAWg6Ii5Yn-_V3l2OWAOgW_kvVvP8piOFKpzO2-Ce0e6PauLv7pR-FZpoz9Svp1qEcOUgzLaCmwAycWpPzurCFd0z0ZlQruCSCaWvVImrECZAKa0x_FYgI2rVg=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/1QN9EV8ejPVmOwuzqeAh-pHNldykIFJTJxsIJTKIVyTuPTnLI0RTqMETyZm-LdPrTLI1tbLi6vfceaAvIF97-MmUfAuWs_Or4Kt9GLUZynoXejElI8nynLtokny2DjaDaf399ovOQA=w1024-no
+            https://lh3.googleusercontent.com/1QN9EV8ejPVmOwuzqeAh-pHNldykIFJTJxsIJTKIVyTuPTnLI0RTqMETyZm-LdPrTLI1tbLi6vfceaAvIF97-MmUfAuWs_Or4Kt9GLUZynoXejElI8nynLtokny2DjaDaf399ovOQA=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/7Cs8bh2sphLBcXt-A-ILik6ngN8porGj_MOqsIPueLuLZ7ddEbml8Ss3j4FLdEZEePb5iWCyjPRNVy6qjktjX9x3K8toiwNnjkBn-2vbhgPsdKcXvJeAs6JEtzsX4tMqivaMz5OPHw=w1024-no
+            https://lh3.googleusercontent.com/7Cs8bh2sphLBcXt-A-ILik6ngN8porGj_MOqsIPueLuLZ7ddEbml8Ss3j4FLdEZEePb5iWCyjPRNVy6qjktjX9x3K8toiwNnjkBn-2vbhgPsdKcXvJeAs6JEtzsX4tMqivaMz5OPHw=w1024-no
         " /> </div>
 
     </div>
@@ -67,15 +67,15 @@ tags: велопутешествия Молдова Приднестровье
 <div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/TsTnXF6BA_XFn4NYKd09ShN2TEo2Cgt1hFnUR46g5y-zUB3XkrnQ2Ud3mM87hCCSvNG5BK3wI3R0iAkoj_TquidZ2cGM3hSrNaPdREk6ldbbMhaUfymQXcskbH9DJ-_qIj6bmQ03hQ=w1024-no
+            https://lh3.googleusercontent.com/TsTnXF6BA_XFn4NYKd09ShN2TEo2Cgt1hFnUR46g5y-zUB3XkrnQ2Ud3mM87hCCSvNG5BK3wI3R0iAkoj_TquidZ2cGM3hSrNaPdREk6ldbbMhaUfymQXcskbH9DJ-_qIj6bmQ03hQ=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/x9hyyNq0y_nSK6bbQJTVziXFayWyftpcNcgaCfiyDPpJiQxEXo_UUPj4hBjrqzUuLBjqmPyoAsAtrqfD_QF8cNQ3bKyCfN7RvhSWb-knyaeRgvCV5Gc3HBRsQ7tbuzEVch-FBBjAdg=w1024-no
+            https://lh3.googleusercontent.com/x9hyyNq0y_nSK6bbQJTVziXFayWyftpcNcgaCfiyDPpJiQxEXo_UUPj4hBjrqzUuLBjqmPyoAsAtrqfD_QF8cNQ3bKyCfN7RvhSWb-knyaeRgvCV5Gc3HBRsQ7tbuzEVch-FBBjAdg=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/59rfUadwKpzANBcMWhSDj1RuWBlUdmwldwqcirI3LM-LrE8N-nMzbMVr6WLAnjkbSOwFrHe0oBRUzT18MdSjyb6I8oqLAmL8a4Rdmirv5eMYUnDpcf2S5l_iSnwGUA7X1luCo0nYIQ=w1024-no
+            https://lh3.googleusercontent.com/59rfUadwKpzANBcMWhSDj1RuWBlUdmwldwqcirI3LM-LrE8N-nMzbMVr6WLAnjkbSOwFrHe0oBRUzT18MdSjyb6I8oqLAmL8a4Rdmirv5eMYUnDpcf2S5l_iSnwGUA7X1luCo0nYIQ=w1024-no
         " /> </div>
 
     </div>
@@ -96,15 +96,15 @@ tags: велопутешествия Молдова Приднестровье
 <div id="slider6" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/moqu82ccmoT55vzkaPz6FKtcfWNx0YrA_-_MxyJTLIOTi8m6HeYR1T-BU66HTkxTtPnKNa0Ef_xx_I7BLRM1MJHGAMmnPM2Wlg8Yv724EiFhyb6GusvnIyxiOsA8vZ7iUytbSFVb4A=w1024-no
+            https://lh3.googleusercontent.com/moqu82ccmoT55vzkaPz6FKtcfWNx0YrA_-_MxyJTLIOTi8m6HeYR1T-BU66HTkxTtPnKNa0Ef_xx_I7BLRM1MJHGAMmnPM2Wlg8Yv724EiFhyb6GusvnIyxiOsA8vZ7iUytbSFVb4A=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/hW_fmS1CIFY0Y-Y3Sa6oOxyyV_iuzxQROgSnhCJGtlMaN7QnunrOzrhKIOEXn5kNXYlx3_1umYuRkqfGjRTysteOBh-c3aPZ3uI4cIYQVll8OCHzroxzPFFUNpOMPpWG7AixiJH-OA=w1024-no
+            https://lh3.googleusercontent.com/hW_fmS1CIFY0Y-Y3Sa6oOxyyV_iuzxQROgSnhCJGtlMaN7QnunrOzrhKIOEXn5kNXYlx3_1umYuRkqfGjRTysteOBh-c3aPZ3uI4cIYQVll8OCHzroxzPFFUNpOMPpWG7AixiJH-OA=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/LMR8117LtzAVwZpwE3Ov-_4Ka_C5FBAk5nJGBokTx4mHMtKVEwHxlOsm46YbQ29M6Jpw74Hgl5MSJkvKewNCXQPoI6H9mKcjSrmoLZ9Hv_IYRPn8MMVQDmjxMBeQmU2qiopaLkAQ5A=w1024-no
+            https://lh3.googleusercontent.com/LMR8117LtzAVwZpwE3Ov-_4Ka_C5FBAk5nJGBokTx4mHMtKVEwHxlOsm46YbQ29M6Jpw74Hgl5MSJkvKewNCXQPoI6H9mKcjSrmoLZ9Hv_IYRPn8MMVQDmjxMBeQmU2qiopaLkAQ5A=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -125,15 +125,15 @@ tags: велопутешествия Молдова Приднестровье
 <div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 1084px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 1084px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/wNOgqgGSF21YJpekEBfnQ_QJ-67hPrsa0Od06YfoWibrliEn71tC0gzbsC6bheWZKiM_WPErRSUM5pb4M00dAIp5Krtjou6ze51at4t3IOYefpBRl0vr8BdD5ngBcWttV2YWanqO8g=w1024-no
+            https://lh3.googleusercontent.com/wNOgqgGSF21YJpekEBfnQ_QJ-67hPrsa0Od06YfoWibrliEn71tC0gzbsC6bheWZKiM_WPErRSUM5pb4M00dAIp5Krtjou6ze51at4t3IOYefpBRl0vr8BdD5ngBcWttV2YWanqO8g=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/yuIMkRVdpMeE103TtWupubOnWYykSWNq2NOZFUithqc4-n1Q-zOt_MucNie3k2G0FM4j7XOhMDVS6iFNAQpQ4vKjkeKSA0vMcridR8Ui8inc89JX4sFw7u6zu2jfpaTgZEt6TTOi7Q=w1024-no
+            https://lh3.googleusercontent.com/yuIMkRVdpMeE103TtWupubOnWYykSWNq2NOZFUithqc4-n1Q-zOt_MucNie3k2G0FM4j7XOhMDVS6iFNAQpQ4vKjkeKSA0vMcridR8Ui8inc89JX4sFw7u6zu2jfpaTgZEt6TTOi7Q=w1024-no
         " /> </div>
         
-		<div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/25PVfPDfqBfPZJqhyP_aypMqFPrvciBpfIpcis1Cfiwu71gbjGXfDi4E00XoT3YvJgMlv-cbHCzg5SvlicjdNAcpRUK-V5AfB_xYaDBMPlAZsqRBIZme7w5WcltchKbNjCy-hgj5DQ=w1024-no
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/25PVfPDfqBfPZJqhyP_aypMqFPrvciBpfIpcis1Cfiwu71gbjGXfDi4E00XoT3YvJgMlv-cbHCzg5SvlicjdNAcpRUK-V5AfB_xYaDBMPlAZsqRBIZme7w5WcltchKbNjCy-hgj5DQ=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -152,7 +152,7 @@ tags: велопутешествия Молдова Приднестровье
 
 По плану я должен был доехать до с. [Цыпово](https://ru.wikipedia.org/wiki/%D0%A6%D1%8B%D0%BF%D0%BE%D0%B2%D0%BE). Именно в Цыпово хотелось заночевать, потому что там куча интересных местяков, как раз за пару часов вечером и утром можно было осмотреть. По gps, напрямую, расстояние было не больше 5 км, вообще фигня. Но дорога как-то обходила полукругом из-за цыповского ущелья. Я наконец-то выбрался с полей, ехал уже по грейдеру слегка в горку, дождь все также хлестал. В принципе я успевал осуществить задуманное: еще не было 17:00, до темноты, т.е. до 18:00 должен был бы успеть. Но у меня уже полностью промокли кроссовки. Велосипед потяжелел из-за болота, цепь начала характерно хрустеть от грязи. Начало слегка ныть колено. И я решил что ну его к черту мучиться. И в тот момент, когда я так подумал, недалеко от дороги увидел три больших шикарных дерева - грецких орехов. Я пулей туда залетел, за пару минут поставил палатку, запрыгнул туда вместе с велобаулом и быстро переоделся во второй комплект сухой одежды. Мне не было холодно, потому что все время вкручивал педали, но глупо же сидеть в мокрой одежде и остывать.
 
-Дождь активно лил еще где-то с час. После того как он утих я начал пытаться разжечь костер. Не получалось долго добрых минут 30-ть, так как все вокруг было пропитано влагой. Но главное не сдаваться:
+Дождь активно лил еще где-то с час. После того как он утих я начал пытаться разжечь костер. Не получалось добрых минут 30-ть, так как все вокруг было пропитано влагой. Но главное не сдаваться:
 ![](https://lh3.googleusercontent.com/hKuyV4sVwIgcbjocV5Cuf0Q2RNf5FIDvYBtLe7jfaBf4QVbcEt2VYpDM55sFIShkYs7NqHjuPjSkI1-V0_nQ5ZngAlJLmvKdVNYi5NYLw0cAELrrpzhg6Q5UibEAaKvBixvpiXWQkw=w1024-no)
 Когда полыхает костер, уют на бивуаке сразу повышается до небес. Можно со спокойной душой заняться приготовлением ужина, сушкой одежды, техобслуживанием велосипеда. Главное вовремя подкидывать дрова.
 
@@ -175,7 +175,7 @@ Cледующее утро было очень прохладным и все т
 
 После Цыпово у меня в планах было добраться в [Старый Орхей](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9E%D1%80%D1%85%D0%B5%D0%B9) посмотреть на красивые виды реки Реут, плюс скальные монастыри. И я еще был оптимистичен:). Путь туда - все те же грунтовки. В общем я опять намесил болота будь здоров. Очень медленно продвигался. Обедая в каком-то леске, я понял что тупо не успею таким темпом проехать все что запланировал. Потому просто выпрямил часть маршрута. Отменился Старый Орхей, Кишинев, таким образом исчезла петля почти в 100 км. К часам 4-м дня я наконец-то выбрался на хороший асфальт, который все время шел на юг, на Дуббосары и Тирасполь:
 ![](https://lh3.googleusercontent.com/xwyLbLznsq-WB-FF66MJswyKSBkY5DJaMJr0o70wJQMANp1kFdzZj00qOf62fob8dngC_kwRIQcf--SeLk_fuIytsRh77wwft4PWqm7DG701ln2wD4AssVEHYEI_3vsmoge3DgI1EA=w1024-no)
-Слоган этого похода: "Нельзя просто так ехать и наслаждаться!". Если нет болотистых грунтовок, есть ветер. Если ветер твой помощник и асфальт шикарен, то колено объявит независимость:). Вот такие мысли у меня витали в голове, когда я маслал по трассе. И еще: "Ветер - враг мой, ветер - друг мой". Мое направление движения по асфальту, на который я выехал, идеально совпадало с направлением ветра. Так что практически всегда было хорошо. Но иногда дорога поворачивала так что ветер был в лобовую. Ну а колено... Я на радостях(ровная и чистая дорога с попутным ветром!) взял быстрый темп. В правом колене возникло уже знакомое легкое ноющее ощущение. С таким ехать можно, главное не перегрузить колено, следить за ним, т.е. снизить обороты и больше "грузить" здоровое. В идеале, конечно, перейти вообще на контактные педали.
+Слоган этого похода: "Нельзя просто так ехать и наслаждаться!". Если нет болотистых грунтовок, есть ветер. Если ветер твой помощник и асфальт шикарен, то колено объявит независимость:). Вот такие мысли у меня витали в голове, когда я маслал по трассе. И еще: "Ветер - враг мой, ветер - друг мой". Мое направление движения по асфальту, на который я выехал, идеально совпадало с направлением ветра. Так что практически всегда было хорошо. Но иногда дорога поворачивала так, что ветер был в лобовую. Ну а колено... Я на радостях(ровная и чистая дорога с попутным ветром!) взял быстрый темп. В правом колене возникло уже знакомое легкое ноющее ощущение. С таким ехать можно, главное не перегрузить колено, следить за ним, т.е. снизить обороты и больше "грузить" здоровое. В идеале, конечно, перейти вообще на контактные педали.
 
 Проезжая через села, отмечал различные забавные штуки:
 ![](https://lh3.googleusercontent.com/FJgVZtAB9EKPXk6mSWpf_93ISJh8T3OKRIiqqaexg38Xa13ZbH_BKyVWGW9OdghoUCwkpvUHEPCodzDU7-qmKXBid9Ll75xKFUXZuizDYnW1QLD6rhi85kdvSFPlnKOwuT8miGy94A=w1024-no)
@@ -190,15 +190,15 @@ Cледующее утро было очень прохладным и все т
 <div id="slider1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/p3tAhgFSxlONEiRelYVK_XYau5QSpJdaYdd37d5s1vVoADSHbCbe_4pd80BBcNqntQwpOD4oLP-2uj6PUBnM18v77hSjDzGKEeQLSyuPUBI2tGGUY7gz-O-d1QkXUtA8DLLsFN25Mw=w1024-no
+            https://lh3.googleusercontent.com/p3tAhgFSxlONEiRelYVK_XYau5QSpJdaYdd37d5s1vVoADSHbCbe_4pd80BBcNqntQwpOD4oLP-2uj6PUBnM18v77hSjDzGKEeQLSyuPUBI2tGGUY7gz-O-d1QkXUtA8DLLsFN25Mw=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/iAiU5qUyL3W6Ol5sirdZGPINmJHnREYPuAlrBMJYs3ERPGBxclNBEckkgi2_RQ_ZLR-vcJQPdalKZ4DYkqc0YZiy7ZCLlxFMio-PkjjqubpysWfGQM1LLiZO341PMiwtKag6rpdWYw=w1024-no
+            https://lh3.googleusercontent.com/iAiU5qUyL3W6Ol5sirdZGPINmJHnREYPuAlrBMJYs3ERPGBxclNBEckkgi2_RQ_ZLR-vcJQPdalKZ4DYkqc0YZiy7ZCLlxFMio-PkjjqubpysWfGQM1LLiZO341PMiwtKag6rpdWYw=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/7knwN4E4SJCzVZNLpWq8gztE77nVILPUj33r9LAkMKuG5wEyFFvrXOqj5CBYr7kRkbIA77eqO-xSbYlDSqFruUAET_o6d2eAL4FULw5si9mMJ0hOzc5Y5ywea7iytP6mFFEOxJl9tQ=w1024-no
+            https://lh3.googleusercontent.com/7knwN4E4SJCzVZNLpWq8gztE77nVILPUj33r9LAkMKuG5wEyFFvrXOqj5CBYr7kRkbIA77eqO-xSbYlDSqFruUAET_o6d2eAL4FULw5si9mMJ0hOzc5Y5ywea7iytP6mFFEOxJl9tQ=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -230,20 +230,20 @@ Cледующее утро было очень прохладным и все т
 Пока ехали, весело перекрикивались, потому что иначе невозможно было общаться. Легче становилось, когда Виталий разгонялся, переключался на нейтральную передачу и дальше мы каких-то пару сотен метров ехали накатом в относительной "тишине" двигателя:).
 <iframe width="720" height="405" src="https://www.youtube.com/embed/o0mPNtnT8Do?rel=0" frameborder="0" allowfullscreen></iframe>
 
-В Бендерах мы попрощались, следующие километров 20-ть проехал-прошел. По прямой дороге и на спусках я крутил педаль одной ногой: из веревки на педали сделал себе лямку для ноги. Передачу пониже, вторая нога просто болтается и вперед! Забавно, наверное, со стороны выглядел. В горку и против ветра я, конечно, шел пешком из-за боли в колене. На очередном подьеме удалось застопить легковушку-пирожок. Они меня подкинули еще на 10-ку километров, почти к [Штефан-Водэ](https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%92%D0%BE%D0%B4%D1%8D).
+В Бендерах мы попрощались, следующие километров 20-ть проехал-прошел. По прямой дороге и на спусках я крутил педаль одной ногой: из веревки на педали сделал себе лямку для ноги. Передачу пониже, вторая нога просто болтается и вперед! Забавно, наверное, со стороны выглядел. В горку и против ветра я, конечно, шел пешком. На очередном подьеме удалось застопить легковушку-пирожок. Они меня подкинули еще на 10-ку километров, почти к [Штефан-Водэ](https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B5%D1%84%D0%B0%D0%BD-%D0%92%D0%BE%D0%B4%D1%8D).
 
 <div id="slider7" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/hfqag6WZDeIfkboEfH9RaAyb-jAuHF44tJVCmLeMuAZI34wDN2-nQPdwdGcxSWE-NVIvfo4UKYffjRaonxlZp7T6qWmfCj9t0BwJnSmn6OCYssizPMDLaQZTNlv0L97TFadP1E9pmQ=w1024-no
+            https://lh3.googleusercontent.com/hfqag6WZDeIfkboEfH9RaAyb-jAuHF44tJVCmLeMuAZI34wDN2-nQPdwdGcxSWE-NVIvfo4UKYffjRaonxlZp7T6qWmfCj9t0BwJnSmn6OCYssizPMDLaQZTNlv0L97TFadP1E9pmQ=w1024-no
         " /> </div>
         
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/pjTrgl6ZsiFuyGE8WJqluv7fC5qDIOF3UreeRISc4--D2RBOaX8afS583TCR3tS1dxD635Nz4WBrlk5mGsp-AQFLrGsSnVZPLQd_CajWpzPdc1BF7TQ-XebW9-VzBsuEkwvQYjD7NQ=w1024-no
+            https://lh3.googleusercontent.com/pjTrgl6ZsiFuyGE8WJqluv7fC5qDIOF3UreeRISc4--D2RBOaX8afS583TCR3tS1dxD635Nz4WBrlk5mGsp-AQFLrGsSnVZPLQd_CajWpzPdc1BF7TQ-XebW9-VzBsuEkwvQYjD7NQ=w1024-no
         " /> </div>
         
-		<div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/p2tAus1x9thTzxJsPyS2zTK-hcdw6EwncrvWVtI98SHfByxFsqbIcNEzCD-qp-ghRx8puYGgsmQzErwxwgCvt03Cg9I432yO4UH50BAuj3fqJYVhR-wrGr3orcYtxIKv-NDQOX2sug=w1024-no
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/p2tAus1x9thTzxJsPyS2zTK-hcdw6EwncrvWVtI98SHfByxFsqbIcNEzCD-qp-ghRx8puYGgsmQzErwxwgCvt03Cg9I432yO4UH50BAuj3fqJYVhR-wrGr3orcYtxIKv-NDQOX2sug=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -257,7 +257,7 @@ Cледующее утро было очень прохладным и все т
 
 Спустя несколько километров я устал и перед очередной пологой горкой спешился. Так я хромал себе с минут пять, когда передо мной остановился мужик на жигуле, мол "все ли нормально?". В итоге мы закинули велосипед на багажник на крыше авто и он меня подвез почти до таможенного поста. Осталось там каких-то 5 км, которые я без особого напряга доехал на одной ноге.
 
-Быстро прошел молдавскую таможню, долго стоял на украинской(у них одно окошко на всех, очереди дикие!), после меня уже и отец встретил на авто.
+Быстро прошел молдавскую таможню, долго стоял на украинской(у них одно окошко на всех, очереди дикие!), после меня уже отец встретил на авто.
 
 Резюмируя: поход получился совсем не таким как я его себе представлял. С точки зрения планирования - полный провал. Маршрут не тот что изначально наметил, многие интересные места не посетил, погода подкачала. С точки зрения приключений да и общего впечатления - ничего так:). Каждый день по своему соревновательный с чем-то. То с ветром и дождем, то с коленом, то азартное добирание домой автостопом. И еще одно: старею я, пора пересаживаться на мотоцикл:).
 
