@@ -11,7 +11,7 @@ permalink: albania-august-2017
 
 <script type="text/javascript" src="/public/js/jssor.slider.min.js"></script>
 
-После двух предыдущих отпусков по схеме "все включено", мысль о очередном отдыхе в подобном формате наводила на меня тоску. Хотелось драйва, веселого кипиша, некой спонтанности что-ли. Да и вообще у меня давно зрела поездка в Норвегию на авто. Фьорды, красивые горы и северная природа - то что будоражило разум мой. Но еще зимой мы с Аней прикинув наши финансы поняли, что на Норвегию на троих человек нам банально не хватит денег на две недели. После нескольких дней раздумий и сбора инфы было решено поехать в Албанию:
+После двух предыдущих отпусков по схеме "все включено", мысль о очередном отдыхе в подобном формате наводила на меня тоску. Хотелось драйва, веселого кипиша, некой спонтанности что-ли. Да и вообще у меня давно зрела поездка в Норвегию на авто. Фьорды, красивые горы и северная природа - то что будоражило разум мой. Но еще зимой мы с Аней прикинув наши финансы поняли, что на Норвегию на троих человек нам банально не хватит собраных денег на две недели. После нескольких дней раздумий и сбора инфы было решено поехать в Албанию:
  - страна красивая: есть и горы и море, большая береговая линия;
  - там есть тоже [фьорды](https://en.wikipedia.org/wiki/Lake_Koman_Ferry)! албанские правда...:)
  - страна пока еще не раскрученная, самобытная, не глобализированная;
@@ -21,15 +21,180 @@ permalink: albania-august-2017
 В процессе подготовки к поездке(маршрут, билеты на самолет, аренда авто, куда поехать и что посмотреть), вырисовалось несколько фактов-стереотипов, которые постоянно упоминались в разных источниках:
  - по всей стране куча больших и маленьких [бункеров](http://verainalbania.livejournal.com/11683.html) - реально встречаются везде и много. Зачастую заброшены. Нам попадались вдоль дороги, на берегу моря, где купались, в горах, в лесах, в общем везде. [Энвер Ходжа](https://ru.wikipedia.org/wiki/Ходжа,_Энвер) постарался на славу.
  - на дорогах только мерседесы купленные/угнаные с Европы. Как сказал мне перед поездкой знакомый: "плох тот албанец, который не ездит на мерсе". Это была правда лет десять назад. Сейчас автопарк представлен всем спектром возможных марок. Но все равно мерсов заметно много, особенно если проехаться по глубинке.
- - дороги убитые -  не правда. Лет 10-ть назад возможно так и было, но сейчас это не так. За все время поездки на авто(11 дней), мы только один раз тащились со скоростью 20-30 км/ч по грунтовой дороге(и то по ней было видно что ее подготовили для будущего асфальтирования). А так все основные и не очень магистрали покрыты очень хорошим асфальтом. После Украины вообще сказка.
- - на ПДД все кладут - действительно так. Все нарушают по черному. "Помеха справа, приоритеты? - Не, не слышал". "Включить поворотники? - А зачем?". Остановиться посреди дороги дабы пообщаться с таким же водителем со встречки - норм тема;). Внезапно встревающее авто со второстепенной дороги перед летящими на приличной скорости другими авто(как следствие тем надо оттормаживаться чтобы не стать "папой") - типичная ситуация. Треш и угар. Но к нему быстро привыкаешь, потому что есть пару плюсов, которые компенсируют весь негатив. Первое это: зачастую скорость движения потока небольшая. Т.е. все прут и нарушают как танки, но с уважением к друг к другу:). Ты главное успевай головой крутить и не тупи(читай: нарушай вместе со всеми, а иначе долго будешь стоять). И второе: никто никому не сигналит. Это тааак приятно:). 
+ - дороги убитые -  не правда. Лет 10-ть назад возможно так и было, но сейчас это не так. За все время поездки на авто(11 дней), мы только один раз тащились со скоростью 20-30 км/ч по грейдеру(и то по нему было видно что его подготовили для будущего асфальтирования). А так все основные и не очень магистрали покрыты очень хорошим асфальтом. После Украины вообще сказка.
+ - на ПДД все кладут - действительно так. Все нарушают по черному. "Помеха справа, приоритеты? - Не, не слышал". "Включить поворотники? - А зачем?". Остановиться посреди дороги дабы пообщаться с таким же водителем со встречки - норм тема;). Внезапно встревающее авто со второстепенной дороги перед летящими на приличной скорости другими авто(как следствие тем надо оттормаживаться чтобы не стать "папой") - типичная ситуация. Треш и угар. Но к нему быстро привыкаешь, потому что есть пару плюсов, которые компенсируют весь негатив. Первое это: зачастую скорость движения потока небольшая. Т.е. все прут и нарушают как танки, но с уважением к друг к другу:). Ты главное успевай головой крутить и не тупи(читай: нарушай вместе со всеми, а иначе долго будешь стоять правильный такой). И второе: никто никому не сигналит. Это тааак приятно:). Еще подпункт второго пункта: я ни разу не слышал что бы где-то сработала сигнализация авто. В Одессе же, в спальных районах, сигнализации машин каждые пять минут то тут то там срабатывают.
  - страна криминальная и небезопасная - не правда. Везде где мы взаимойдествовали с людьми - все было хорошо и уж точно безопасно. Более того, показательный пример: спустя несколько дней пребывания в стране, я забыл фотоаппарат после ужина в кафе; не вспоминал о нем аж до следующего утра; когда же хватился и быстро направился назад в кафе, то хозяин уже видя меня издалека, вынес и вручил фотоаппарат назад. Стыдно и радостно одновременно:).
 
 <iframe src="//www.gpsies.com/mapOnly.do?fileId=pjfmdmjlnpimivhq" width="720" height="480" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
 <span class="signed-image" style="margin-top: 0px;">Кольцевой маршрут путешествия по Албании</span>
 
-Путь к парому:
+Задержался рейс, поздно прилетели, долго ехали, приехали в часов 10-ть вечера, взапно айпад не умеет в gps, долго блукали по городу, слава йацам нашли гестхаус у Фреда(дать линк на букинг), хорошо что решил забукать заранее, а не искать по месту.
 <div id="slider1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/XTq5yI50Qy_TRofhtB861HMB8_s68QNzv0o41GRmlsicW7kAj0Bp4Omae7i1vVX78PBN58V4FyJV9vsxeSituvyJTJ22Y1hqYhi40u_5Gyu04cFllrOCozCwwIqOA7m3suTuA-XliQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/pbzssLT8c87tyKXXVHMr1gz7ybUoeDh6nK12lHgfMmGjtf7sau5uhzRYii1nxM9TV-jKQt5c10Be5K4GcvIMJ_bhuOn3cAzh8AfiI6B9n5x8zLTqjxOwR9LW6JFrnUrBOvFrXOHpFA=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+
+Пробки в Шкодере:
+![](https://lh3.googleusercontent.com/E7STkoxDLMDssrtd7_ORzYpI9rSuBdyTBKrdho5Ck3jvIPEtX1gAEqTFo9YG46IEdL9xDhylPDE43-JitURU_LUXWRbCcOEVVGsReM6ViRBBOLfnCC6X3pduo7ZSS5vW39RHnW5uXA=w1024-no)
+
+Пошарпанный Шкодер:
+<div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/3E4czseG_KVOiZXQf_fx5YLiiqtnUApWTLZC1t83eTitB0iGgnsrO1EbzK4ajs_8Lq1xWEc0zURu4sljoN83mk81WN3sCSyP4tq8FA44h7YuQ7fPlRkAgb73oV0_xWWOiCZCan9Hmg=w1024-no        
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/tm1kJnst76ZNzDdA6SAD-aP3Q8Yg6FVlKml6vFmvbRhz3VayptSQe3Z0EKu5zgFavso0Tur1j5p-Y6gBkBW8V-BY53FiGvDCFObZ15jADyHKThpqr5gpWUynpjPIRjQNEajjU1fhaw=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/sSlnaBNsQf7UUEGSZxidi6zLfUKfloHd0d82mgzEgTkBTXKymm7OtfwkMj9yx6hicA0jcFn3J8h6_vYwyHJwb6nqWFtKw6Ump9ruS-2ZVdcZFaTSYzmZYkX_NZdZIZ0jZV_T3690BQ=w988-h658-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/BGAhhCpuahWTnCXMbBONqMNwSUCHJOrRaPLFXqkESTz3ITn5Ss-iRQ4MzO0rPFTbLDzJAsSlHZeg3But_S5qYvO7EAujg12I6pxI3gk88A5_2azWLEdL7D3SzOveRFRP6aB9lsgDSg=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/-PqDnRxpH3yxd7DvDbwNh0hKMA07u5IQV8A98OAPL060n5oy-zx3wWObKP68txXdOPslkwVMnz1q1f4HR6ZO4bTaSwimiDP0O2VSgMs_7rPZDAGZhMIDBD9RFAj_AQwJle4VuEjyvA=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
+
+Не пошарпанный Шкодер:
+<div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/G3_QZBddVWTbq9BSD37VFjyUaUJpIV_YiZNc-b7dzaFUJtzIKI9S4-LgPpqaMQcVMyX0f6uOR6TFlRKWgelEUI1q11dRQb9mBCEPWeWAs4oL1kIH_5JDar6gF2jC90VGqY25WPlhoQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/k8sVB2wu6q_ftgt_hq2z4rSl_qPjJO52ia88IGZNKndIwDgYABdJLGuZlRaG_aSBacBuWVGD0qDQVmLDLfW3E8g8s5yLwNKyIu5iL3Ua9QSNmFISl3NCq2W2ReLmKuf-CuoL8oQ9Eg=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+Я обычно к историческим развалинам отношусь прохладно, рассматриваю их как вариант возможной культурной программы, если ничего другого интересного нет.
+Но крепость [Розафа](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D1%84%D0%B0) мне понравилась. Не самими камнями, сохранностью или чем-то в подобном стиле, нет. С крепости открывается офигенные панорамные виды, посудите сами:
+<div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/-p4_O14mVtN4wPVB2HuqI1bPIjcT1EhRiNEc0pQiuW_9f07vLm9jYtWNLXouFU9bftUCFMne4OjA3x5JsCPWnDFV1oOK50rLQAlTiv0TgSGyI0drhKAEjmiiFWDHJcDtcMjq4LaJ0A=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/rndJ53QZmoKEqWw71fr8TRunjdlN-dTzZcKPrkhiiXBN5y0iYUaGDrLv6VZyzzxT4Cajtr_tqCiswnuARsaHIBuIbS2NautYSUKdROIVnQN3r0zl3wKK4qbMgOcjYlvBf6s3VAjSHw=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/L_PWjV70XmYXmtniDyZJm4wK3KBnIhtPoGTxBaH1mw8CwUchgGrvy2FPeI74sW8ksBX8aTCkOa-HlrJs7hWFb-saoJW1wDoufe5QS4BeCYvnTcaJvxLoRTX35VKaVniqtYzMNrnkTQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/PlFxELXKTgbsH_QODgfZQOQMPcG229F0LNDmofbVXHvh0D0IF72udWN7SI99gDb4u1ZkxbeFM7EEcZDaiFBSJILU3BiSmvS-TAOObzG0thIqZeM_zQT29Kl6lC_8s36x_xzsFUJY3g=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/MgUuToOy2ioLUs0chByuRUmTOqYPXrTV7XDEinAk0AzwQt9t_sOxHSCe4dekmeSFfjq3v8aVOtB3LjWE3ZdvzI43gtYa0SEBaf3F7O84vpybPH1k3aOwP-_NdiENV1Z0qs-iKy7qfQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/o0ufLMghLsNY1nHSs5YjqaZg64rxPDSDDZfc0EfMGSgIcllhwbuKsk49RXN74Tvn_5lmxcbOLo3PmYo7NfvxewYg_xnY3y5I5bMQog9n5C9_nxm_nsLYqVh49hC12APZquJRPTLutw=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+ </div>
+
+В принципе внутри тоже симпатично:
+<div id="slider14" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/Xdf0utRQQiY4Lu0Wc3V606WIj-YznNkNUBYldUi69wYeLEpHorhaAjPflAKAQ-ns93opByrIByl4XUI18Et_tHlA3A3b-jraObPUavyOfuyBTrHIGfmhdfu0_UGgERx9unPnNp4iQw=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/1Ur4yXBnIgpsPZT9oBIpSd9uqUk6W4E2XTnKfkATxKi99Hjrt2Sa29_zKGYp_ncLtlcDdxzJIqSeqD3Mj7V66sidsQcf9_SYka6E6xn0IFyEFxCJDbhWCDcjJpkoiTOvuUg8bnnD0g=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/bIf0-QHrIxtasCr4kAkFCwqrNrwppEnJ5G8IQUWI59-dUpbcmpCo7vp5_xX1S9BuXe7kpthg-RMlhCamMP332um6bD1Y5Wqc7KrvShRwdyvZIwG9amhOh1fgFGAXc6gojeKoZAV0BQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/9dELYCbceA_N0DHfo7A_qqX58_e6tJDjO45y3OIu5ZnJjHizqNnPND03LZuug-vWLGtrVhznU52dTCgXG9ApzA1T2Nw_m7v_5IKx7Fd_5k41zzXLrzTpwZkJrzz9C3Yv77fF0KqWxA=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+[Скадарское](https://ru.wikipedia.org/wiki/%D0%A8%D0%BA%D0%BE%D0%B4%D0%B5%D1%80_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE)) озеро:
+<div id="slider15" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/92I2G8xqj9ytNNzPiR5cyTSuVsukUOnMLQPk2yJg17AVbY-mE2RROMclzb95g5yc9xhmCYbKT7toFYDCTWlrsSvw37c9XiiVt_HvMVfxxetTaDW2uSdeMZroi9p9z87zYHKZ5cDwIw=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/x8DA0duui-kw7HdrQs9zOA1o-GNT2iqWufKqGmIY3jmdu1XOKm4MY4jQtdyaGoFhDD6v3LKPLVxNyIKbTfu2K-JRNFaYlX44OP1J6XZT1fhyiZynnUq1mqVb6yoiC46BdioAqFpzXg=w1024-no			
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+[Мост](https://en.wikipedia.org/wiki/Mes_Bridge):
+<div id="slider16" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/xIXSW1Olcgf5jGvQ9SDEgxJPdnChBeJcMGYdGBdrZM3igjtx_73eyDpf_9XIQVmD6dPq0l-7s952L4ISb88sMuMuTpqAwygBwp_h6Z_pn2v9b8Rw6l-ibiyw7_3o60Y5cAEyaGg2Qg=w1024-no
+        " /> </div>
+		<div data-p="112.50" style="display: none;"> <img data-u="image" src="
+			https://lh3.googleusercontent.com/8m1ObiyV9UXEXM_1oEKkkjJ2jkmVFQrLuHoErzEg7brj6aJKk_7rg_nNcnWgAQ23J85Jn098gQ2Q6HP12hOuqQUHhdJPmSwZCOkUTQyUGy5uInKcmqXWes8mTPHU2VhgmOHLN6yHAA=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+Путь к парому:
+<div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/VsFYX9ne_U9RgFnTcEVAjuD7Mr7JJ5ehK7gm6HYvCvk_VeOM8b7-5VIs3q46R4db29OTNnnxGqK-LimuPpP1tt87vPkma1CFN8fNMfueVb6pop6uda9EBDhGnYzOSRFdIekLRKTaI7JE6zSWnYWz9f2HW06b7is6c7FHBcwJNKH17e_CLiAxmRyfc-LA6WPA5hTJiWy_cW8WVRxuTwQEQ8NleFF-WAkYKc91bbcsmDHJwaxmn645e6BWquxOa5p76O1zoAo4AwueKyk8NQWxu_ks_J76xye3saD-pzXigbFZmq5I8eh7N161y29fQ-UDVbwUSLltWT28tJSlAEgiYCeMdQ3J5WkhSPJfU1_bOBeT06LSxl9XHfT--tMKUInrBVQJHuIY3iyiKqMrFIzPL-yyqyi_nI6WjDutrPPjE-O3XMq39LFJhc48_dyWGmHSKCC1KV8T2AZjdznRri-tggzUzyCfKHUDQhOOabqUltkOyqteEb6f8WDI266HxX4IlHK29XwjekNouQtElc1YQxN1eNioGVO0b6rSz5bJtBRP_GkFbytr1DQTS1dfSw5E_lnf1cyokLSQq8sImybM752iLbkloLp2xUZigCkD7MBK2UJa67uh=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/12VWeIxtpaUg_9hEwwuvdx3UdBUvnxtdSz6nXLvYm_8ZD7Jb_6gE8XzG0NzlH5Ziz3WqKM1yGC-E8C_d0heWmUQpLagJMyx0EpXbCR6F15ho8uk6A4jP_LPceYXcZ6Yw8s4fsTt5yaijsXOPunkgmfFsgHheR7oYPXMGxmKqL1ulcBGVbtFJA1phQSqKAt3QXK2K4MR526GSQMa7JDop0iXpRaArkTAQKJBRGDk5Q1lagz7BWWOtPSH4zuiB8k-cFzwKccC93mVMbkoF63gx9h_xtw1im_9xkeXPAMxegDZauaZOQn9laLzSQf0B2TQxprazeIL7K4Mxw1UWha7jLKUtMZ7YmJXLNylOZJYYH6n_ZR-4_zobnzqCF6SA5c6tlFHxzEZIbQRC3c_HlveArGii4M2Yjv_pSNx-tPDKJ2jtrVq-57u-ZSv2ZUnwrkb0GdasWPCaFnskAsmktiaOA-N1CYmeqCssj2YrQOjYwXdHEsRb1ANLf65OZ79QWTJisdNneD4h_puyHq6YYhPejeH1xPlzdJEmHfWvKAMCvZaNEbKiKeT32PtYVmAi3wDGpM7Z6d0YS6JumGoUQEqXwXPu5EWTDS1iDdxiDon7jJmh2uHDEgAU=w1024-no" /> </div>
@@ -49,7 +214,7 @@ permalink: albania-august-2017
 Так как паром завтра утром, нам необходимо было где-то переночевать. 
 Ночевка перед паромом, в городке Koman:
 
-<div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider6" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/iAYxXnifNZ2lpeviKSftDsHPzD11iOP2B0uhyTrxK3DWs7yta01GzFcnhVzkkwak-Oi-aCxunLccswH2rqVb9rPmV1YcjehHhBEpp3j4VQ8hfr8CZ3g8_zyLeYSN0DKxECEn-2o7Ma5YzPRRgy5yRg76s9Sbq1rk5QFej2JmnTGZlDGZEK24PwpXpG_m2cBnSL0Aid58kXbKQEAE8Zty9rh9QulaWLztuho-9jG6_tg2KbWI8DtyjqGLnP-__Rn7jCw9s4ims28caqZ0h2fMfEDHWWB-305bH4Gry7FlSbgx-3h-FzW47F6YRfIwKFWzh6ve-ZzTf9pUsnkPyKPRrnUXGbwYL1S3g82yhxlG_L8Li8j32OMMR7ceFY_FQdhJxmpnFL7UuXXHIynAgTMGdYd9bd0RnjxnJvTbcPynjLt8XdwS4r3O4KSMosuGtXwc1Jjwn2TYVECJIlOBacp3S5z5Ayx54My6N9gOCio2g2sLdrbA72CCWk4aHtSH730jgPEae28u7y9SOU9xG6nmcJNpAeQyrg2FPaXJDUaczYsJ89O6ym-Adx074x6JwxZU5O6gsdHwHHEVukMIk_Z9WDSISe9c_Ssjz3AMNMjQqMcxTWVFn3U8=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/0GItp-0S2iYgCYtLAcyXxyq4jD-Rd035xZrnj7KQ0z4kCrsmlktNW7KgWTGHhQv3p4mZSWYxbJ3b0uFvqdk5gTKiXzXYsJBFNotYpTq4kW2GkfjvnpAzdnpRK8zROkDkkoe-d27RUWxVmiXWPI1OkKHRaVdFpOnZXL2DbfWjaPHhzQfMGAOsefH3oWI-kfJ0iUKZtKTvhGw-b5s3odWP0dqhhdG65pxWxCG2B3GCjg8UFcjCa5O2Ce-UsrLthWNKpDM7JSGDZdq46uLf3RIAGEiSxDcQ2xPi0cAFFmBfYSDDLR2f-tYKBQCJeY74E54HBlJTLfc-sY63Od9k--chSHSsU06XAgHEnzC2uppumjsH8J5SWS5pz3XSVu9rTM8mufpwMfstn641TlIjx8KJRLK62Fmb5B-9q-f6aFrDxyv7T-oRYew4Z2xGJN4754fM16k72Tn-6Z0Sz8CBz0pMiMEcNR_RdfhRK1YsXmDGemy-RJMqPA8EWm98Zd1Su7wXmBYTFy2X2c5jidC9XQbO3k3oNMgC3HccwT0TD8NKhkTwI3HMLgV-As3Jf1sWWy1UcSH-yBc1jBsA7ttPswYRP0CFnC5BidqIOF70_zVjxAvxZ-glUF_h=w1024-no" /> </div>
@@ -65,7 +230,7 @@ permalink: albania-august-2017
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
  </div>
 
-<div id="slider9" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider7" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/WQ8qBDxxGyCoIVKfQpKQhIEChhbLIix9LcGJvEa5aVODEZKk0ctKl9CbTuphRH7LDgYhclcGBtWxdua7q4ATUJrgxUjYMGMe-tV02-bZpfposBs1cFrR2vKi2IYys8ztpxHEKuk2bojmwsxbr3DF_wRGlxx8NybYt307FLwNihoQdFk01yzKChataQReB2cF13pky7HmfUFZJPxg0Me8A9fiksv0Iy52BuGVbTdHtA5QEhvfw3IDLcjB3X8G9zgWdbiCFcR_EpTR7Gsx1qquOkTD2Xxnup5XhKYi_xQq8xhP0K4HEFrjMwcM0IRWqgaXOkouoPrz8JYQ7GzesW_jNz14AjPxaTYOR1lWdy_T_9fsp_mDaY9qDdlKdq_oxuA3F3HMxk2wkL4mNMzppHJIEmMCTmparxEI6ROXS5I81KS4DaSzCfCIh5fzmeraxXgGG2Vcjg6qEBy7AtvdispvgM-tg5pTpr44R9V4JkUTFvG5iNWD6Pnb3_bS7XuxkZNg9YZZuooKqj_UjdUl8n4h-CD9VeV5vsZNv5h0ruSf1KtYq_enD-YUR-hE8Lq_uASdK_jvajGDzdr1eQ4VuLTxnRe0gnkiIiI2v-7wd_rhfuqYSlMCKGmT=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/xPbNmlnUHr3-p24XH-dDKcHDbnwM_xZLfXlxv745ltYpI8G3Vwn5cRMNsMZN4sUG08RIOpO7BUEtUuYfuONlt_neFXGbxkoBElvv25k_jEJuXE0vYfWXlxUUH-pFSsrtf_hhP4UZxmhp6BNbbsEaD2ZqWY1EQeGX0ezs-G3GXAWHE1qvCABDHiFbGcTxerUxng5RYyB_wO7w74E89tPaqDSGDRp27DOuVTV_GeUcEFhubzCzKrSskxB39Dv8ztqoEQVbjSI4eL_orTvmI5EIgxEU6MeY7FUllw0V49KNFvE9rrnkL2kG_F3plpzdYoqS1AalCckTQxAhFb5atLnd-nyx_VlbASKKwGlYRvmNxHPNEdYXoOXS4ICEgovOEawmtL9pyL732ipp-zPQs5vp1a0s7WdCtkksDstsDeoauovbghMvS_myb4o0ZfZEqbees5y9WRB1qmp-e6FFI-I8goFLOXCbWVVkxR3UpXbx7BHDlJY2E87yDTzS1HibsrPDZy5hWVOMzmbbC0eetGxqyyUBVk47RtHBZmh02o0SvES9bZjsWQkuct3q2C9yBh51AOzGUbDWOlrj2sLqabDKLLNMDAug3NYuQTOqi6ZS1g=w1024-no" /> </div>
@@ -84,7 +249,7 @@ permalink: albania-august-2017
 Утром погода светилась как ни в чем не бывало. Мы позавтракали, быстро собрались, расчитались за отель, выехали. Не успев проехать и половины пути к паромной переправе, я словил себя на мысли что не помню как упаковывал фотоаппарат. Быстро проверили все свои сумки-рюкзаки - точно нет его! Тут же развенулись обратно. Потенциальных точек, где я мог забыть девайс было всего две: кафе, в котором вчера вечеом ужинали и отель. Пока ехали обратно Аня, видимо успев уже морально попрощаться с ее фотоаппаратом, сказала: "Фотографии жалко". Но нам повезло: фотоаппарат нашелся во вчерашнем кафе. Как только я подьехал к нему, еще не успел даже толком выйти с авто, мне на встречу вышел его хозяин с фотиком:).
 
 Несмотря на эти все челночные покатушки туда-сюда, мы приехали сильно заранее на причал, за часа два до прибытия нашего парома. Вот такой вот пыптык, на котором все смешалось в кучу:
-<div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider8" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/5_1ail9gAW-KGn0qZmCRw0mC0_u7TEKk2PznM1TfQXiBOdyXJRySy4MsuX_Gy9jq-XE2Xehw7WSeMr_wyyP7y6ujKCrL9XUsrnpbCeu1NHXOjkRObigcEKOyiAwJnvDTzfp42QXd9Q-0fxJlrcTJ3ijJVVMI_iyy8lUxBH2K_lNaSLfCWhIBSi-MNQRL5FH-xWy9Si2TV2rI3IZgP-yCrOqXQYelwsKHTDlIFM9TXFuYJX6TPb1tK7FQABIaAgS5xpZhNVksDlSKTUywqH2cs-fUtV8FKPtWd7_-MT-bqERFZOEcFCU93Aea6hFce7rGfS5E_N8yA1MVcuE6Vynx7Ry3bI3dBVt0g9135Unx5qX9437ArLbqNb0AQ8lbJy0SWWvip4Jfg9oB12IvinzcahsHzahNkx2QLXWj4JNdAy2LHmzRz8DsznfQCHtZJA693NI5TkO60eXQSufbvYw_6Tu7gwBQD1lmKGIxDXKS7gLjflk0B9ko7iDDBflhg9sX9lhgIJiRAqG6Tuz9zVxP4JFjQykkdvWc8WBfUWav9o2AZXcy3VcJQ9AzhuudBUYPUDe1OWtqC3EgjqK2FN1auwunnvzddbCZ-T2qnjlrAhL89oG_yKd5=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/MKb0SQYCR7I6Yq2pDWdVzUoMQs7JMH28sf_HlDUCpGjD6hzuCcAqa_1hjVWDaOOUDWW0s4g0bWZfPt9JeOVmz7cl-kI0G7f6p8AygD8jTDsAoYWFRNn6i0rl5hfVKAxoXd0oQPaUqsqJXrRFA24cq4LhBZ6v7Yx7ECgQY9flCH8zFgBOewN73XkPiBeNq035RxMvw6CS47nj9ycsHpLuaOtO6k8CS8d5LD5VCQsarFr84PWbtUaINn5piak8h8AXJyebdfwU62Cu4ZN84sspyH8_cr_iVO94zoygNWusZYlf3wQ1rV9oGW7TYPj9bIrPBRcSKxlepmd-2r7TXxVvwf5fiI4xzntXmt9gJ9JElpl9LLdGiu5qM0bJM-_wMqKmVvuS_leQR0Y8G2YEav5IuwS2LXa7BB1eXT_bnq7XE4yAv3EaN_WmN63j3i6d-uBEESMEeLPK1yxpho1ZuejUEtxgdbbRi_EAny4TdmIiVZ_YDRPU2qQXvuaabdLHAED2u-d21CkoozGR3hYr7W-w9XT0omKtvXSqTVAQJwbWJrtltJv6uv9AliN4s3NV6JzyBbmD6T9o_3X2Gqi50VCZUHVnE1Cnq3qIkZNCysYpsRq1MTrLB50Y=w1024-no" /> </div>
@@ -106,7 +271,7 @@ permalink: albania-august-2017
 ![](https://lh3.googleusercontent.com/Zf4fOly4_MbV7eGBPbOZylidiGRiZ5cjRMaDpTBGrPEvpagg3m1MUrH1TIJRa8Vy5Is6f3IYBCMTw7vWzSYhLxbK3hC8r1r7QICs7MaQSeLdubrZLzyDS6Xcq7tryDWd8ywxfbqbi3MnzxSepQB49M_6IieTdzWYtf-ttcPfg5qp6Y7iqsoNN-SWTcJFzHMmpK5mO-_LuwJHyQUUFskYgmux--NYbwOB3wH9Goei-Tv-O_YoWwwhORiFG2wDgp5p7eJcl5GV93ryKtLP0c7Suu_JM_jlyOQcq7QX35pgzIcmPe9w5mBl7RU6_2_6D4n2rD0OXIMS4FYgwQE1K7A2xknrVFIPrkG3-7wPSs0_qH-0OqKyunaOa-sKEPJfcvRotqnYCaYhKKpbGYtl-uTx6bLQBkZK_3Qbol42C9C8laAnio4C4CrOrgGbDody2fM4O5fVPIpEr0b62NfYW6w9wlzDhLt2LkOeIDLCkhSqwDHIrHIo1MuuoKYOxh1cHyCD4I41tqEtR7odlIaQDDCqXbvEHYuQBW-NUp_2PLDXgEJjtTp6z8zgKMK1DebkhLeAS67I8OPIe-DaQccQ0wio-2NKgHAGRgQtBUOvmCYxcQj7wepKMRQS=w1024-no)
 
 Я уже приготовил фотокамеру дабы запечетлевать окружающую красоту, как в тот же момент стало слышно бибикание вылетающего авто из тунеля. "Жалко чувака, [кто не успел, тот опоздал](https://www.youtube.com/watch?v=MWTsnZybiMo)" - я подумал. Но не в Албании. Несмотря на то что мы уже отплыли метров 20ть от причала, капитан судна быстро "запарковался" обратно, принял на борт опоздавшее авто и отчалил снова. На все про все минут 10ть. Я еще подумал, простите за тафтологию: "блин, а мы за два часа до отправления приехали, чтобы не опоздать, а оказывается вот как можно!".
-<div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider9" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/SJaLlXFt6INDbRVM6_TVHsyIFu5CP99TELImKenBAJwbWATkstXGwSMnnbPtcwmwxLK8Cj3z4SAaHzBJabbNpiK8eEJ0jcbFx2sbR4asOiMegdxWldeLtcn2lXDqiMIBviDBKZeTunZryfFwcsMMCwX3lOFWS2tpyZ9KO8AxsABtI8nZxtyTnsqeVK21BBD1WS2-uMEMXr0apTOp32MSnzo-x2mSWj2FIl7UnkxK0gBP3BuB9A91ph3xrS1COeH-QAWxQAHFAyMSdQQCVEU5HjUQxWBPp-FfXned5Dujen-v85K8D6vCTXAhmGB6zWMUPBPGNqmeyayJu1a0x4b8ur0ntFQj_VMyzEs5XPKekgNeg7h-R3m4s27Yc5RPysdTcTxclV0MlpvMX4lkg5omx3E9cj3eqEpb6rg5eOEP2SSQM4bXiUVsontETfcBKXL0rgXTSabhuhht4fOTwPL_aRtaKtyWwBhAxKgDEF38hy8zmH1AMCu5E9I-JilKdiu4ID1h28Z7HSJls5fG5lCmvEB5cwQeUNcX7XQMloxGVbsNpv2OFnMq9XiPvZ4K_aH8T7P2jg0tpeXyjIEtywG4Did7RnEQLckhJ5jgqfR0hbnEyw-gFTP3=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/ZQaNlGqtJA_ajU4ZkNnV_bmkM6RFXPy4TLwmOvdfd1Yp6sHpA6JUdWfMZlbyrmiH13CK-yKZRXIiJ0zuq-mxKkV8YEKffGcY_43ls8X71jqonMGHYXc83c8wbF4vn5RzjFZHV2Lf_cwWiZwF8cP8OoZkJOSKU9xwDAFb7Jryp_eTOzo5XSSm8qSRHmQeGQ0FQSqKSRWaUZUv7gf44Do_k1C3lcmgjVSeeokznzsSXfkO5vd_Po_w9Q8JZRGJwhvOdf3ErB5n8aJClenlyLCIPo8EUiFMQtahq1PfloS0AzfrppXOTluWPpAsgtE38zTo1Tr7Lj7ajiJvCo0_MhcgbLlUglMOMIJ6GSFxWNwBMIE2EfCu6DYBhH9pFQsI7Illh1mBZqzGcYlT2LqSvXUSAKvUKfb651yFJOnC69kKFEMdVyklF4tPCb8Cz69dgCZmE2vaubEZb6ITdVaxpYOPN-5mCNxFSM0KkloyVXv980Kh2Xuq1D0JKOIyqIz_r81iYtKrRrDOAV--JjYAOAtSHIY0CfYrZE1NE0ku6ZKHOkmXV4JRYC2il4b-tle89X5DSyLb-EjBBsXb_pCDpVK8ASKA4mc-frm0TKlhLFXzHpfiTRMc9iRq=w1024-no" /> </div>
@@ -142,7 +307,7 @@ permalink: albania-august-2017
 ![](https://lh3.googleusercontent.com/I1tNMxsSQqM-tkKMVEMCHP_VrgtBEui8NptvpT6Y7_jCEAsmvY7IPeO5UgEkDzOln0Su3CvSCH6xKxqcVuApI8CG_JNYhHqE-JPKzZ6lx97LZTRkOaESzstcbwpdYrwn5JcmHVetzLotkIG_AsUdOx8Ha5kwHUj1VMW885l2960agqMdJwbpdr4OFKt4H19sNeriqRtIDYJiUER8e2Fl8fD_MOEGuP8u8_v0T6dU2iQU7h14nPWznk25xvXRlW0oKsdeG85Hx1NQL-rAmB_cNdKrrlDkfzfgnaD7PjoH_ktyKSdNphBI4K73wFccK6_4C8piJOQECAlrelZUbeVP1Z_KQoXPaVSwsXOvgMAweNwfVQvZ1hnZrksCp408usYX5si-yzChwv-u2xe6N7df4kIpqQyIVv9FG9RghKLEOfNLgpI49VfaCLS6cz4ofcceUgWRu1oQXCBYPVchbCZoCjf4YEX10mstFp_Pnmv9PYKq1HOvsmhbyJ42EkibuRmUGuSbvwU3bn09feTibchACvTuPMHRI2toLEzfD01Q4yfjufXcz6mdcZeB7E0FD5zphgj74IProMTgFUPWXaZGb3z3ke-AZYF2ZnLam5pbF38Pbui8L9GR=w1024-no) - вид с балкона номера
 
 Приехали, было пасмурно:
-<div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider10" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/2fwbpcqR4ft-G3uAZHHYQlWDxjpMS4Xmj0W40L7CZWeGh9Osboy71q-qCDhJfXGLk10LrbfDpIhMy9Um14vxLbbpkKsj5jPhMR2gvPL9N1okJ_hhUNnNmCgkr22kwqVAtwGACnnEidIQL9IVbDPRJEHmk-QsMQDAL5rKjpJnzJqrXAOwmFZz1sjRSJnAWYadVmqd88QTBPKsJrHyFc5zQwkxGphUP1d7BJnwYzt-ADRzYZsgsDUzMVGj6RGX4cO4vaJRf2udvbXeTZz8l2ttla8BVhUsgwUqyaDdStVstLpC9FQE1I3QcETx5VdO1BMdiZMWlvaDLEVXpfbMEMzikEZqyMA5B7vAnkLgeTVVBr3A_N2o65cF1acPeytqR2q75C480dogalipYI5Ahp6kJOd8UtcEGgS_d_1TKFXI3HoEQMZbG0Tsz_hL7tOeaPRNiMUUpRSAq3FIryDEO13UOVTqgXJ_uqw5_TvSKdWBMT7zyQHvJRoCHajZVuhF5y3r-rUHnlvVNwH0FIhzCgt79DKhWFR_YgHUbgbbQlG_DYabmFRMuLOO6ReJ5uZv-FKd8bBbwiRxX7bWdfBCDKgHwTaeHtDCH3H131cR7y2XwP5RiH6H_urp=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/qwR-QR2pYYsrWVd2gWK1TsizW3UohQsgbm1k8vRqWK6VTOgcugKf_u6vH7E7J8QeM9xQIquubmJSmHwIsZaqxng39Ly6FSP7DZGjc6_Vu2cjMB-ik-u3S_g6gTceGkAjGEnamoCNM5CwE5VkHREIU1eAkNc7w6MDDHpEeTRIQPkBRjTKdiJ-U85a9Opd2qo-lxSKgIfiSQbleexAqApF_ngQmgSzPdTxOeBOCCXBz8SfK6fkA2HSNx8GnZHEkwov8EBwQPlcR9ZYb4rk2j89sbtY6UfEQsksP1j5rGDpGkV6-CKG-qpNSfl2Va41XlkYvmUQ_Alq9K4JMOxnTNe7o6SWlFVVZjqMiiLL2dPX2fGdkhRm99mDVwhXCtKHa3cezbDqsd5oa411dqI7z_SyM7pi7UVm5dSoaZT-RPqOlVxSJjHxt9BE_d0LeIkTIaZQyZjopVtS9M5clqSGOXFPdhozd85MZDwTpx2XFa3fORjBV6j-ylqiB4md1GHPo5AZIO9piU8FjKDv1XayD2vnG5seyu0Aizcir9anh6PD-TWKmJh434_VOhYhjZ6fsRChGZ8usTkvxkg1cGeznZ2jLiulRkfTd1acgqJ44bVn1t5qTGYXnMsF=w1024-no" /> </div>
@@ -157,7 +322,7 @@ permalink: albania-august-2017
  </div>
 
 На следующий день пошли в однодневный поход:
-<div id="slider6" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider11" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/Ghw0483lljOjuISQeUMTDMUzRUsSuP4HSF8sEr0EQ7w7yH8hfTUfvo3Rm96BlmjEPdsZv9juOZwTwabqGtAySTPOAOKWq5gAEo7FSJS-YEpGyusZTieNzaaUp0CIchCMULFuXUlwpUAWok95ilrdBtuoX1S4eZhYu8endL9lpWgAn3_LI8fRwAwK8NWOl2IuBRMz8KmtYJ8CIts8__EaNPMyzqtSBZakAYji3rROZUOGCY4ZZSfx--9Cf-r9WONFk3u1gjgNHHp8I0ppQ2ISqxCBJCD-dNUsoZdub7G1Y9wSx9sQOhYZknVeu8g_9NPJ_3lzkwoUuckKVkvbaJjwcUJKx7K6638ih3e51Fq3F7sZYHeevYrxL4FgkbuFdpIHniD3c8MBP6HuOl9eHYRhFs4dlrUd5VGTZZRNIQyEzG97Y_FekihxRP0WUr6vQBWIWDFMGKtW6hEk9G55nM3r0c7qsMxNCoKm79yBxEZqEVKepK2l9AjgX5W6tseAkzlr34-UXuZeX65IRgxRLia-EZM_St5o6Ca8ZBeSTV3n5R7bBiwAAHiIza0oSo19_rwnvCW5pvYTGmV_szSsK962wNu2bWEwFNgJkJ5mhafcmVxXWa1-3SXk=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/76kxeCa046ZaUhJGLeRq-Dox5F1EiZwsW5b4vpW9hYmyHY_bkdVhfUOWWelROVS5GcMvkp77CnvKmE4WBOOvInv93Ecwnn3gGMVQG82bdFIAqiGwRn1s3GHgECS1wqbORid8wCKl-CuQtvdQ3jZoGiF-uGIN-G-bgoSqCwkKhm06CQvAoQcoDxpi6ut8VMeQbjcVq6nUu8mer-xHNc7QQ5E7wuK1LUmZqOUL0Sv8Ebyzuk8c4EFMjFbC2fPr4HhmsQSafPqXkuGTV7slk82IXIZSOXNoQ0Gi6JU5OHR3Kq0HopJEFb7DxSRE_v6iCczxdCKod1HlFeNdFD0TkrBWBvIbELL4Muhrr_dPyx2dOs3V-rJjV-ZkV-21MRJyQiZQ0Vjwmf0uzPk4Ylhza3lVqC9wkjygEoKJp4gemrX4rXgY_xsVKUu0y7zZGKyKmpVigOxZ3xFBkIqZSoDEnxrGzu9KzinbSSEAWML80LRnBX3kfGf4sqLe16HaVGbh9npEf1UtH5g5Ir8BA8V1jM6upw4txG5V4epuURMKy2vpUFjkx4wkmJW51uOWEm4w7yvkImhPMP_s4FbQDkhXPYAGxhyfS5_Yq9RfP5VQ_0CtRc3FQHBIgLM_=w1024-no" /> </div>
@@ -177,7 +342,7 @@ permalink: albania-august-2017
 <span class="signed-image">Фото по мере подьема</span>
 
 Иногда попадались такие полянки:
-<div id="slider7" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider12" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
     <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/iR3964f34iDAqC7pFJrFga8cy0E9Pxdk_5h9_f1H_UlRSvAjjN44SiMrDd0GMLx8gUZb_XK8XeJcTnqB2jBukBxBRZHbneK11NuZWwWscIpGS3nI5X0xmgopKPG_sYkB4ac2ibZeh6wE9NvDUgVDjAcYhetIVHSq7qH0FgZSwXL5ZjCrOB3Xb35Esi8SQIjs5-VPKOR-inYl8FdpmWBLGW1eszpYGtDIyvbHNnAw2MWz9YM7ao7bqtvLL15EUehT4ozmuqdPJNT-zvKSoypbByqMnk5ci163TCPlIb5omxOBrfpOufKkIPYBN4yHo2-RC5lVq1OUMHJBNgXmx_IrmdLFMco-hPoUtPSrl6xptswe_jkb0h63A9rSgBzxreFq8byejm_6yn-jHmKqsrnDU7alOgBocxyGXhrrNAq9kY-IIwACmMrEEte8pMg4aqJyqfDACUBfOjl_vX9kGv3LScju_KSlJ1WQ4GhYe4HWgcoXSGy_pZVaqrF6OwhzlsRWQ-8a7dvZqbxwzAnaqXrLUt69kxqAadG7ev_ecFRKbAtt5geuDXvXZG6pnlq66wKLTvoE3PiVfZPMF3kH-UU0FuoUzgue66Ua82IvCcfWy7HOgXybtJZW=w1024-no" /> </div>
     <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/tpATl7DZVnzsj4bDFlwByXU0XS3aNTO6FE0yLSjnerUVThrxi6ZrYynXX1qc6u3JI1-SzWe_nZAzi6vmvlK-Y_2-QFp7_nwJBOBf2f6hrlyztOa81jZsPiszydgKPhMD2WDwaGcL3MUoJtqR5TrlD6S2V7XthMVcNUWV956DZ5rhZ3hI_MILLkpMVTvHi769fUxn_eysk6ker5u7qFyTit54fiyYLbABIZ7NJpGWLl4Y9uxNiFo8GORDz0LXKYcG5QcnvsPdTt6bGyNwmuDW3uGuje-o-gxJ9ubDfO9BAO47S2RQFd6d5q9z-ioZ-XOjSGWqXpb4wcmuf117CcyLQ3Ded05rXoCFb0k7EytthYR46bgxOh2Wr4GFBKoFbXCUdKXi1VtuO7ZM8Vono0oJYfyambDguig9RvuLyp6thrXvEzi0UevS_2cAsX0EyJwyILKz44rw6WVar_7u-xv6QR8zctSzMDVbz4VnWuC0MgrS3Pvsy_0p1xE6JlY3J9RgxFJG7HOVAYmYKRyaBw4jymOB1tGqiyWNx1S3IXulUXfG7IlzofM5o148GP3hoNZn2X9ULuSJIOx9g6UV6uOAkLkR8FIs5cCsOa6wDNWg2qI47zS5zy1e=w1024-no" /> </div>
@@ -195,7 +360,7 @@ permalink: albania-august-2017
 
 Пробыв в Вальбоне 2 дня, мы двинули на юг страны по горным серпантинам, через албанскую глубинку. Мне нравилось само по себе движение, потому что сменяющаяся картинка за пределами авто была всегда крутейшая и увлекательнейшая.
 Она постоянно мешала водить, отвлекала.
-<div id="slider8" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+<div id="slider13" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/bmFat7jt8c6rvFls1jpdRe15-XVHlC7G8viMan7kKgMPWrVXjI66D6WTmTXusKYqcyb6BAPgEJxnMqXNxd2dNWqJIgCfe2H8BaMviJVMIGVGz0z0B0vobRfe3yFcu7cDWxNmoWON4MUjzW26h4JzAiicqsQUpX-HQLYwV2sLpm1d3WLTKFxskBiRcygyNwKIsDmSE7gBJjpH7B0aHaL9C-WcOH_yKb4gA3oHUsz-5va1wb6IBOx44BObZVOxP0r64GqYsB-r2LUIhY53OroBFLwX_1ZLbxPHW7Cjw0a5xyjie4uD8wrjvkvGqYX30fBm7ZuE4ZPY3-yZCFMI7YxL4oCRH-0yH5nGYVKykUavh0QWsW9uWIRP3HETOJAQJWvnMlPBj17suVwQ0-TlcCLVubYjnlHyCM3SLkTEaJnT5tA5A9wM2YPovFRdURKyhm1Szn02X0HObvaqIahRaKq50LAMJN9ieJRgXZIVB30hp42Sk0q6-JCQ_GZWuSZpiWXBh3USlxJrKWPzNWzErZ6LOPNKBq4fpZt-jclzUO64Q6aliHj6LymnB7wkQ4IlR6aCBIML2JyDU7t8COe7Bulu7pzgPlNusM2sMHyi4dknOWrpt5UxxyA2=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/LNSkI9EupHQryLmALN-0FnaE5kLCgQDHN7w7adZylkpZttSdmN_oeJRiVSIuhFmVTsKbywvlqP0-fw2MS66UMOhX2IAvIiN9aBjJhjKnOWSWQRRmO0MYQTCeL2ugv-j0dYV7WVXywxmiwr1-Bq3xWLTzox1xSnme4ryS9ulffJtJX00hUnDEUGMzOTAex1mqueBXFkpFeT6MTyxOj5NFnA9d0JYtKOc4wxn5tsZ2ILajfbJXjpUzFY_A1qwogTnHEUM25u5Q1dY8f6bIFhC77iFc56fXv2ENjYLGeF8TzdBwz_7l_UBgXpdJxUuW5314GmEvaTOiOKdjIM6PyLOE9f-QZLU9DJOv5dUrrpcf4WOpTspvTBomYD_0FfiC_4nD_A7Qrnj1nbrxF_19rr61ebpzTuqLcOZoOZxxQQmALLg2PIZWrpsIFJT-awmKIlc9OZ28nxjT9okLK7NjLQNJpXSt-tx6gfhczTDQZkpB3rm4PfzEgzZPqpqHEF1QPjajM08zOyVnSXA-J8cEl6utxMhW5U1Z2J-nWXyZ0qtfsGFzB9U9XXqz2Len-81PVlndcQo5WH6xvZAAgtm2Nw7aRZaHiTZjkp7xkw7rMcHeDcIgUIxZ0bdo=w1024-no" /> </div>
@@ -229,4 +394,11 @@ permalink: albania-august-2017
     jssor_1_slider_init("slider7");
     jssor_1_slider_init("slider8");
     jssor_1_slider_init("slider9");
+    jssor_1_slider_init("slider10");
+    jssor_1_slider_init("slider11");
+    jssor_1_slider_init("slider12");
+    jssor_1_slider_init("slider13");
+    jssor_1_slider_init("slider14");
+    jssor_1_slider_init("slider15");
+    jssor_1_slider_init("slider16");
 </script>
