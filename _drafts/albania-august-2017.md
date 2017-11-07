@@ -32,10 +32,10 @@ permalink: albania-august-2017
 <div id="slider1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/XTq5yI50Qy_TRofhtB861HMB8_s68QNzv0o41GRmlsicW7kAj0Bp4Omae7i1vVX78PBN58V4FyJV9vsxeSituvyJTJ22Y1hqYhi40u_5Gyu04cFllrOCozCwwIqOA7m3suTuA-XliQ=w1024-no
+            https://lh3.googleusercontent.com/XTq5yI50Qy_TRofhtB861HMB8_s68QNzv0o41GRmlsicW7kAj0Bp4Omae7i1vVX78PBN58V4FyJV9vsxeSituvyJTJ22Y1hqYhi40u_5Gyu04cFllrOCozCwwIqOA7m3suTuA-XliQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/pbzssLT8c87tyKXXVHMr1gz7ybUoeDh6nK12lHgfMmGjtf7sau5uhzRYii1nxM9TV-jKQt5c10Be5K4GcvIMJ_bhuOn3cAzh8AfiI6B9n5x8zLTqjxOwR9LW6JFrnUrBOvFrXOHpFA=w1024-no
+            https://lh3.googleusercontent.com/pbzssLT8c87tyKXXVHMr1gz7ybUoeDh6nK12lHgfMmGjtf7sau5uhzRYii1nxM9TV-jKQt5c10Be5K4GcvIMJ_bhuOn3cAzh8AfiI6B9n5x8zLTqjxOwR9LW6JFrnUrBOvFrXOHpFA=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -55,22 +55,22 @@ permalink: albania-august-2017
 <div id="slider2" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/3E4czseG_KVOiZXQf_fx5YLiiqtnUApWTLZC1t83eTitB0iGgnsrO1EbzK4ajs_8Lq1xWEc0zURu4sljoN83mk81WN3sCSyP4tq8FA44h7YuQ7fPlRkAgb73oV0_xWWOiCZCan9Hmg=w1024-no        
+            https://lh3.googleusercontent.com/3E4czseG_KVOiZXQf_fx5YLiiqtnUApWTLZC1t83eTitB0iGgnsrO1EbzK4ajs_8Lq1xWEc0zURu4sljoN83mk81WN3sCSyP4tq8FA44h7YuQ7fPlRkAgb73oV0_xWWOiCZCan9Hmg=w1024-no        
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/tm1kJnst76ZNzDdA6SAD-aP3Q8Yg6FVlKml6vFmvbRhz3VayptSQe3Z0EKu5zgFavso0Tur1j5p-Y6gBkBW8V-BY53FiGvDCFObZ15jADyHKThpqr5gpWUynpjPIRjQNEajjU1fhaw=w1024-no
+            https://lh3.googleusercontent.com/tm1kJnst76ZNzDdA6SAD-aP3Q8Yg6FVlKml6vFmvbRhz3VayptSQe3Z0EKu5zgFavso0Tur1j5p-Y6gBkBW8V-BY53FiGvDCFObZ15jADyHKThpqr5gpWUynpjPIRjQNEajjU1fhaw=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/sSlnaBNsQf7UUEGSZxidi6zLfUKfloHd0d82mgzEgTkBTXKymm7OtfwkMj9yx6hicA0jcFn3J8h6_vYwyHJwb6nqWFtKw6Ump9ruS-2ZVdcZFaTSYzmZYkX_NZdZIZ0jZV_T3690BQ=w988-h658-no
+            https://lh3.googleusercontent.com/sSlnaBNsQf7UUEGSZxidi6zLfUKfloHd0d82mgzEgTkBTXKymm7OtfwkMj9yx6hicA0jcFn3J8h6_vYwyHJwb6nqWFtKw6Ump9ruS-2ZVdcZFaTSYzmZYkX_NZdZIZ0jZV_T3690BQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/BGAhhCpuahWTnCXMbBONqMNwSUCHJOrRaPLFXqkESTz3ITn5Ss-iRQ4MzO0rPFTbLDzJAsSlHZeg3But_S5qYvO7EAujg12I6pxI3gk88A5_2azWLEdL7D3SzOveRFRP6aB9lsgDSg=w1024-no
+            https://lh3.googleusercontent.com/BGAhhCpuahWTnCXMbBONqMNwSUCHJOrRaPLFXqkESTz3ITn5Ss-iRQ4MzO0rPFTbLDzJAsSlHZeg3But_S5qYvO7EAujg12I6pxI3gk88A5_2azWLEdL7D3SzOveRFRP6aB9lsgDSg=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/-PqDnRxpH3yxd7DvDbwNh0hKMA07u5IQV8A98OAPL060n5oy-zx3wWObKP68txXdOPslkwVMnz1q1f4HR6ZO4bTaSwimiDP0O2VSgMs_7rPZDAGZhMIDBD9RFAj_AQwJle4VuEjyvA=w1024-no
+            https://lh3.googleusercontent.com/-PqDnRxpH3yxd7DvDbwNh0hKMA07u5IQV8A98OAPL060n5oy-zx3wWObKP68txXdOPslkwVMnz1q1f4HR6ZO4bTaSwimiDP0O2VSgMs_7rPZDAGZhMIDBD9RFAj_AQwJle4VuEjyvA=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/mDL2f6y781xLPv8etuamNFKTARyXVHWctSLke1RYtuuHO5JaRqZHUnkAhdYfwvHKmm36zDhWPnoV7TXy17FShJfWbqKPnfTwTen7S8qfVmcMYYGfBvHj_tsAX8NLdkVOSKXFknWAEA=w1024-no
+            https://lh3.googleusercontent.com/mDL2f6y781xLPv8etuamNFKTARyXVHWctSLke1RYtuuHO5JaRqZHUnkAhdYfwvHKmm36zDhWPnoV7TXy17FShJfWbqKPnfTwTen7S8qfVmcMYYGfBvHj_tsAX8NLdkVOSKXFknWAEA=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -86,16 +86,16 @@ permalink: albania-august-2017
 <div id="slider3" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/G3_QZBddVWTbq9BSD37VFjyUaUJpIV_YiZNc-b7dzaFUJtzIKI9S4-LgPpqaMQcVMyX0f6uOR6TFlRKWgelEUI1q11dRQb9mBCEPWeWAs4oL1kIH_5JDar6gF2jC90VGqY25WPlhoQ=w1024-no
+            https://lh3.googleusercontent.com/G3_QZBddVWTbq9BSD37VFjyUaUJpIV_YiZNc-b7dzaFUJtzIKI9S4-LgPpqaMQcVMyX0f6uOR6TFlRKWgelEUI1q11dRQb9mBCEPWeWAs4oL1kIH_5JDar6gF2jC90VGqY25WPlhoQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/k8sVB2wu6q_ftgt_hq2z4rSl_qPjJO52ia88IGZNKndIwDgYABdJLGuZlRaG_aSBacBuWVGD0qDQVmLDLfW3E8g8s5yLwNKyIu5iL3Ua9QSNmFISl3NCq2W2ReLmKuf-CuoL8oQ9Eg=w1024-no
+            https://lh3.googleusercontent.com/k8sVB2wu6q_ftgt_hq2z4rSl_qPjJO52ia88IGZNKndIwDgYABdJLGuZlRaG_aSBacBuWVGD0qDQVmLDLfW3E8g8s5yLwNKyIu5iL3Ua9QSNmFISl3NCq2W2ReLmKuf-CuoL8oQ9Eg=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/1HRgch9IIffFSumXXqyPdQ5WTqVNJI6lOMYGUJ72qT1e1Ymr8mwKjxxS_Za5sXrTgk-ttIOww9n3Bxzva9KRp-PjplRgNM0z9b3ppjfSEYJt1Z6jECElBJHPgDqm4E6_MVAAY8YV-g=w1024-no
+            https://lh3.googleusercontent.com/1HRgch9IIffFSumXXqyPdQ5WTqVNJI6lOMYGUJ72qT1e1Ymr8mwKjxxS_Za5sXrTgk-ttIOww9n3Bxzva9KRp-PjplRgNM0z9b3ppjfSEYJt1Z6jECElBJHPgDqm4E6_MVAAY8YV-g=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/DwzRbezl3SCNfnULBLcnFxPK8ehN0Fia04AYVU9VvpNKg8elOXYzXotVoNW4cu4NFxiltWO75pvWNAcu7bmsOfUhY2PtESSIURuMq4EGqaaWMjfonwxtGrHlP6wYxxu9o8aY6H0XGA=w1024-no
+            https://lh3.googleusercontent.com/DwzRbezl3SCNfnULBLcnFxPK8ehN0Fia04AYVU9VvpNKg8elOXYzXotVoNW4cu4NFxiltWO75pvWNAcu7bmsOfUhY2PtESSIURuMq4EGqaaWMjfonwxtGrHlP6wYxxu9o8aY6H0XGA=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -112,22 +112,22 @@ permalink: albania-august-2017
 <div id="slider4" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/-p4_O14mVtN4wPVB2HuqI1bPIjcT1EhRiNEc0pQiuW_9f07vLm9jYtWNLXouFU9bftUCFMne4OjA3x5JsCPWnDFV1oOK50rLQAlTiv0TgSGyI0drhKAEjmiiFWDHJcDtcMjq4LaJ0A=w1024-no
+            https://lh3.googleusercontent.com/-p4_O14mVtN4wPVB2HuqI1bPIjcT1EhRiNEc0pQiuW_9f07vLm9jYtWNLXouFU9bftUCFMne4OjA3x5JsCPWnDFV1oOK50rLQAlTiv0TgSGyI0drhKAEjmiiFWDHJcDtcMjq4LaJ0A=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/rndJ53QZmoKEqWw71fr8TRunjdlN-dTzZcKPrkhiiXBN5y0iYUaGDrLv6VZyzzxT4Cajtr_tqCiswnuARsaHIBuIbS2NautYSUKdROIVnQN3r0zl3wKK4qbMgOcjYlvBf6s3VAjSHw=w1024-no
+            https://lh3.googleusercontent.com/rndJ53QZmoKEqWw71fr8TRunjdlN-dTzZcKPrkhiiXBN5y0iYUaGDrLv6VZyzzxT4Cajtr_tqCiswnuARsaHIBuIbS2NautYSUKdROIVnQN3r0zl3wKK4qbMgOcjYlvBf6s3VAjSHw=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/L_PWjV70XmYXmtniDyZJm4wK3KBnIhtPoGTxBaH1mw8CwUchgGrvy2FPeI74sW8ksBX8aTCkOa-HlrJs7hWFb-saoJW1wDoufe5QS4BeCYvnTcaJvxLoRTX35VKaVniqtYzMNrnkTQ=w1024-no
+            https://lh3.googleusercontent.com/L_PWjV70XmYXmtniDyZJm4wK3KBnIhtPoGTxBaH1mw8CwUchgGrvy2FPeI74sW8ksBX8aTCkOa-HlrJs7hWFb-saoJW1wDoufe5QS4BeCYvnTcaJvxLoRTX35VKaVniqtYzMNrnkTQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/PlFxELXKTgbsH_QODgfZQOQMPcG229F0LNDmofbVXHvh0D0IF72udWN7SI99gDb4u1ZkxbeFM7EEcZDaiFBSJILU3BiSmvS-TAOObzG0thIqZeM_zQT29Kl6lC_8s36x_xzsFUJY3g=w1024-no
+            https://lh3.googleusercontent.com/PlFxELXKTgbsH_QODgfZQOQMPcG229F0LNDmofbVXHvh0D0IF72udWN7SI99gDb4u1ZkxbeFM7EEcZDaiFBSJILU3BiSmvS-TAOObzG0thIqZeM_zQT29Kl6lC_8s36x_xzsFUJY3g=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/MgUuToOy2ioLUs0chByuRUmTOqYPXrTV7XDEinAk0AzwQt9t_sOxHSCe4dekmeSFfjq3v8aVOtB3LjWE3ZdvzI43gtYa0SEBaf3F7O84vpybPH1k3aOwP-_NdiENV1Z0qs-iKy7qfQ=w1024-no
+            https://lh3.googleusercontent.com/MgUuToOy2ioLUs0chByuRUmTOqYPXrTV7XDEinAk0AzwQt9t_sOxHSCe4dekmeSFfjq3v8aVOtB3LjWE3ZdvzI43gtYa0SEBaf3F7O84vpybPH1k3aOwP-_NdiENV1Z0qs-iKy7qfQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/o0ufLMghLsNY1nHSs5YjqaZg64rxPDSDDZfc0EfMGSgIcllhwbuKsk49RXN74Tvn_5lmxcbOLo3PmYo7NfvxewYg_xnY3y5I5bMQog9n5C9_nxm_nsLYqVh49hC12APZquJRPTLutw=w1024-no
+            https://lh3.googleusercontent.com/o0ufLMghLsNY1nHSs5YjqaZg64rxPDSDDZfc0EfMGSgIcllhwbuKsk49RXN74Tvn_5lmxcbOLo3PmYo7NfvxewYg_xnY3y5I5bMQog9n5C9_nxm_nsLYqVh49hC12APZquJRPTLutw=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -143,16 +143,16 @@ permalink: albania-august-2017
 <div id="slider14" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/Xdf0utRQQiY4Lu0Wc3V606WIj-YznNkNUBYldUi69wYeLEpHorhaAjPflAKAQ-ns93opByrIByl4XUI18Et_tHlA3A3b-jraObPUavyOfuyBTrHIGfmhdfu0_UGgERx9unPnNp4iQw=w1024-no
+            https://lh3.googleusercontent.com/Xdf0utRQQiY4Lu0Wc3V606WIj-YznNkNUBYldUi69wYeLEpHorhaAjPflAKAQ-ns93opByrIByl4XUI18Et_tHlA3A3b-jraObPUavyOfuyBTrHIGfmhdfu0_UGgERx9unPnNp4iQw=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/1Ur4yXBnIgpsPZT9oBIpSd9uqUk6W4E2XTnKfkATxKi99Hjrt2Sa29_zKGYp_ncLtlcDdxzJIqSeqD3Mj7V66sidsQcf9_SYka6E6xn0IFyEFxCJDbhWCDcjJpkoiTOvuUg8bnnD0g=w1024-no
+            https://lh3.googleusercontent.com/1Ur4yXBnIgpsPZT9oBIpSd9uqUk6W4E2XTnKfkATxKi99Hjrt2Sa29_zKGYp_ncLtlcDdxzJIqSeqD3Mj7V66sidsQcf9_SYka6E6xn0IFyEFxCJDbhWCDcjJpkoiTOvuUg8bnnD0g=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/bIf0-QHrIxtasCr4kAkFCwqrNrwppEnJ5G8IQUWI59-dUpbcmpCo7vp5_xX1S9BuXe7kpthg-RMlhCamMP332um6bD1Y5Wqc7KrvShRwdyvZIwG9amhOh1fgFGAXc6gojeKoZAV0BQ=w1024-no
+            https://lh3.googleusercontent.com/bIf0-QHrIxtasCr4kAkFCwqrNrwppEnJ5G8IQUWI59-dUpbcmpCo7vp5_xX1S9BuXe7kpthg-RMlhCamMP332um6bD1Y5Wqc7KrvShRwdyvZIwG9amhOh1fgFGAXc6gojeKoZAV0BQ=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/9dELYCbceA_N0DHfo7A_qqX58_e6tJDjO45y3OIu5ZnJjHizqNnPND03LZuug-vWLGtrVhznU52dTCgXG9ApzA1T2Nw_m7v_5IKx7Fd_5k41zzXLrzTpwZkJrzz9C3Yv77fF0KqWxA=w1024-no
+            https://lh3.googleusercontent.com/9dELYCbceA_N0DHfo7A_qqX58_e6tJDjO45y3OIu5ZnJjHizqNnPND03LZuug-vWLGtrVhznU52dTCgXG9ApzA1T2Nw_m7v_5IKx7Fd_5k41zzXLrzTpwZkJrzz9C3Yv77fF0KqWxA=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -168,10 +168,10 @@ permalink: albania-august-2017
 <div id="slider15" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/92I2G8xqj9ytNNzPiR5cyTSuVsukUOnMLQPk2yJg17AVbY-mE2RROMclzb95g5yc9xhmCYbKT7toFYDCTWlrsSvw37c9XiiVt_HvMVfxxetTaDW2uSdeMZroi9p9z87zYHKZ5cDwIw=w1024-no
+            https://lh3.googleusercontent.com/92I2G8xqj9ytNNzPiR5cyTSuVsukUOnMLQPk2yJg17AVbY-mE2RROMclzb95g5yc9xhmCYbKT7toFYDCTWlrsSvw37c9XiiVt_HvMVfxxetTaDW2uSdeMZroi9p9z87zYHKZ5cDwIw=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/x8DA0duui-kw7HdrQs9zOA1o-GNT2iqWufKqGmIY3jmdu1XOKm4MY4jQtdyaGoFhDD6v3LKPLVxNyIKbTfu2K-JRNFaYlX44OP1J6XZT1fhyiZynnUq1mqVb6yoiC46BdioAqFpzXg=w1024-no			
+            https://lh3.googleusercontent.com/x8DA0duui-kw7HdrQs9zOA1o-GNT2iqWufKqGmIY3jmdu1XOKm4MY4jQtdyaGoFhDD6v3LKPLVxNyIKbTfu2K-JRNFaYlX44OP1J6XZT1fhyiZynnUq1mqVb6yoiC46BdioAqFpzXg=w1024-no           
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -188,13 +188,13 @@ permalink: albania-august-2017
 <div id="slider16" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/xIXSW1Olcgf5jGvQ9SDEgxJPdnChBeJcMGYdGBdrZM3igjtx_73eyDpf_9XIQVmD6dPq0l-7s952L4ISb88sMuMuTpqAwygBwp_h6Z_pn2v9b8Rw6l-ibiyw7_3o60Y5cAEyaGg2Qg=w1024-no
+            https://lh3.googleusercontent.com/xIXSW1Olcgf5jGvQ9SDEgxJPdnChBeJcMGYdGBdrZM3igjtx_73eyDpf_9XIQVmD6dPq0l-7s952L4ISb88sMuMuTpqAwygBwp_h6Z_pn2v9b8Rw6l-ibiyw7_3o60Y5cAEyaGg2Qg=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/A9yjQCfqTa7fG3_FxosRtj6AV6kYnzIplX39IluBhNXTcO7DgBYKSV6x7Jma9HpFfQlcxMxCLJo5MnVtrJ-Ll0adw1XDJCGCwjo2H9Se1c4kB4tczilFX5eI_5AK6xmQrlVjcCo8pQ=w1024-no
+            https://lh3.googleusercontent.com/A9yjQCfqTa7fG3_FxosRtj6AV6kYnzIplX39IluBhNXTcO7DgBYKSV6x7Jma9HpFfQlcxMxCLJo5MnVtrJ-Ll0adw1XDJCGCwjo2H9Se1c4kB4tczilFX5eI_5AK6xmQrlVjcCo8pQ=w1024-no
         " /> </div>
-		<div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/8m1ObiyV9UXEXM_1oEKkkjJ2jkmVFQrLuHoErzEg7brj6aJKk_7rg_nNcnWgAQ23J85Jn098gQ2Q6HP12hOuqQUHhdJPmSwZCOkUTQyUGy5uInKcmqXWes8mTPHU2VhgmOHLN6yHAA=w1024-no
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/8m1ObiyV9UXEXM_1oEKkkjJ2jkmVFQrLuHoErzEg7brj6aJKk_7rg_nNcnWgAQ23J85Jn098gQ2Q6HP12hOuqQUHhdJPmSwZCOkUTQyUGy5uInKcmqXWes8mTPHU2VhgmOHLN6yHAA=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -215,11 +215,11 @@ permalink: albania-august-2017
 Путь к парому:
 <div id="slider5" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/Ry8i--k0z5m3ALmAXP1Z8mbyskfMKuYMbtfGYbVXEmGdUGb9ljcd83aUu9Z9BsPFrRdENr2Y6mOyJxBjd4ZEAg4vapUBJyMp5PlBZUPpDWVOsS1n9trdlQCP5yZrLV9oz5me42JOzC2mVUgD838_Bwdw-v8r0JbmegcVzV0aJsOfVPM9leG9RusTuH-8kERpKQfqcFifHlD88HW7P8aNTiLJ5EWx-dcgBWfzfVurfndXvf8P8MG-ZYXwKdyvawQshL2Lgg0z3VayewinBfQL2w6ISrGAleQ1fGSMhpVnqQrR1HC-7XIjKTB8L8hecz6iVyGqraA2gYFfXztZxeQ-0SirnGEkVP89C8vXdERdqKZAKIWFxFGZslgyAMgtPoRj2M_ZXwjOBCh6CuuD_8dDSoWLElN1f8XjVQ9JWM_mEXtcoi4ikDEkndrY4Nj8zN2IM61h4zYpIxBH_RTbkKl4e9AZDMOM5gT09igQi0befHA4-BvzpsA1RjCDpE-7HlsDUsIv7yvk3HhHwubNAVk3kbtiJ73GSjEtI_DBT9NhqG8sm2KcjPK-D4_Nk_hSF7NPkp2SiJFStJZJKtj62UUl1stEGM6BlHirWtyF3tLA9lw9XVrP_yQ2=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/VsFYX9ne_U9RgFnTcEVAjuD7Mr7JJ5ehK7gm6HYvCvk_VeOM8b7-5VIs3q46R4db29OTNnnxGqK-LimuPpP1tt87vPkma1CFN8fNMfueVb6pop6uda9EBDhGnYzOSRFdIekLRKTaI7JE6zSWnYWz9f2HW06b7is6c7FHBcwJNKH17e_CLiAxmRyfc-LA6WPA5hTJiWy_cW8WVRxuTwQEQ8NleFF-WAkYKc91bbcsmDHJwaxmn645e6BWquxOa5p76O1zoAo4AwueKyk8NQWxu_ks_J76xye3saD-pzXigbFZmq5I8eh7N161y29fQ-UDVbwUSLltWT28tJSlAEgiYCeMdQ3J5WkhSPJfU1_bOBeT06LSxl9XHfT--tMKUInrBVQJHuIY3iyiKqMrFIzPL-yyqyi_nI6WjDutrPPjE-O3XMq39LFJhc48_dyWGmHSKCC1KV8T2AZjdznRri-tggzUzyCfKHUDQhOOabqUltkOyqteEb6f8WDI266HxX4IlHK29XwjekNouQtElc1YQxN1eNioGVO0b6rSz5bJtBRP_GkFbytr1DQTS1dfSw5E_lnf1cyokLSQq8sImybM752iLbkloLp2xUZigCkD7MBK2UJa67uh=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/12VWeIxtpaUg_9hEwwuvdx3UdBUvnxtdSz6nXLvYm_8ZD7Jb_6gE8XzG0NzlH5Ziz3WqKM1yGC-E8C_d0heWmUQpLagJMyx0EpXbCR6F15ho8uk6A4jP_LPceYXcZ6Yw8s4fsTt5yaijsXOPunkgmfFsgHheR7oYPXMGxmKqL1ulcBGVbtFJA1phQSqKAt3QXK2K4MR526GSQMa7JDop0iXpRaArkTAQKJBRGDk5Q1lagz7BWWOtPSH4zuiB8k-cFzwKccC93mVMbkoF63gx9h_xtw1im_9xkeXPAMxegDZauaZOQn9laLzSQf0B2TQxprazeIL7K4Mxw1UWha7jLKUtMZ7YmJXLNylOZJYYH6n_ZR-4_zobnzqCF6SA5c6tlFHxzEZIbQRC3c_HlveArGii4M2Yjv_pSNx-tPDKJ2jtrVq-57u-ZSv2ZUnwrkb0GdasWPCaFnskAsmktiaOA-N1CYmeqCssj2YrQOjYwXdHEsRb1ANLf65OZ79QWTJisdNneD4h_puyHq6YYhPejeH1xPlzdJEmHfWvKAMCvZaNEbKiKeT32PtYVmAi3wDGpM7Z6d0YS6JumGoUQEqXwXPu5EWTDS1iDdxiDon7jJmh2uHDEgAU=w1024-no" /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/RFOZkVGbXW3f1xdq-Vnla6uv8ig5PNOtxIfu7vDHdT5hLjV1ogx0QU3wUgUM4PMKuOJWK3TsC4MmygxrdoYtKIQ4M4kiwy-3i_M3km3IDiHirmA9PAkHhv6cuA8f_t2UYEJ4TQVI1XBd1lC2bVbU9az3IuLAc3ZP4f_2eSG1QGnvgHhMS8MGGJlzVhH2aasam3LSfdmyQVpT8J_6u58BMcyoV6Q_s9h3rn0rdsSx5M4pTzPZqd9VXcjCPszbcGIRzsuiRl2jidlSy7l6J3VOYniwPnOKRHFJoJ_W1NDcP1p0dcdw_0zvsy8_NNUsOyxbejSDmCZMruKn4KVzdHpLXMjqY7P0e3z58NUC10SLFfrMENIeO9sE3QFdsY3XP08t5ufvxa_QqLXcm8rwfVWHiTODMPkNlGL7QL1FAui7mu7yn7Nipyqc8gSMLFqXXTTl_UHsPvNZD_tIYN_5wbMJfFMOgsfAfQQpPF25H8DIzkUXI210dLr2JIke14VeInE2mKG9jpVssBky53VgmRkfZ3GH09lTd7ll2XFe_7MxNqXytXT0c8TsF7PmPKMKFHXHKOKuNcsDgMqMBhie1beYoCjEBMi3Xu9YKnfzvGBKUo8HqQfe2iTa=w1024-no" /> </div>        
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/tFgOICmQ2YHOxjiBXXzlOT1uuWfFIHsWxY17YWVEX9-FKbbL1sfxB7RkL1tfbB98QMi7bOePBSc3cJvf-oF6TMgbeYIK1-wTaoTXe435PiEV65lYBpqaCcKAjOK0d41Cs9uJi5eSjKkWE-t1QNCQxRG6KzU8hbX3b6VUx3QFH3o7zegdqMtTQvu11oU9olrEVfxDP60kaxXujW5J5ucHSGE0NgquLIktoJ3rKEgHShlkTfCPkgsxJOI95fTQQ-IE_9UEe-8JhEvMXLCLCtJo7YnnRVYjezSkiVpRgtq130T-RzjRJUPWhFvBEqwlREpoussfYfAe_UpkVXl7SaQs-PFIfRgOUUqnjifn5CtWJlnjDVxaZku0tY2x2fGEiPg5nxhN1rjd1AJn2yGYCdF321HW5pKRiYPOsC9tBQ-mQkafodzPbq66HCYm8RKZfRwvQ92kiEZq46KkS0VRWUEivwwFY3I940xkSpD8AchLZWNQTZY1Y4wiZlO7vZ67PyPI9JDNznXg0f4nvl-US7oHhuRt0SNJ4o9zA0KJ4MLbmPpUYz_oEWk-RjTKayY5mGelPlBahBtexasBbNjvO94OlIQ0WOBrkgQbgVtHaIDArL1Q99oCmOJc=w1024-no" /> </div>
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/Ry8i--k0z5m3ALmAXP1Z8mbyskfMKuYMbtfGYbVXEmGdUGb9ljcd83aUu9Z9BsPFrRdENr2Y6mOyJxBjd4ZEAg4vapUBJyMp5PlBZUPpDWVOsS1n9trdlQCP5yZrLV9oz5me42JOzC2mVUgD838_Bwdw-v8r0JbmegcVzV0aJsOfVPM9leG9RusTuH-8kERpKQfqcFifHlD88HW7P8aNTiLJ5EWx-dcgBWfzfVurfndXvf8P8MG-ZYXwKdyvawQshL2Lgg0z3VayewinBfQL2w6ISrGAleQ1fGSMhpVnqQrR1HC-7XIjKTB8L8hecz6iVyGqraA2gYFfXztZxeQ-0SirnGEkVP89C8vXdERdqKZAKIWFxFGZslgyAMgtPoRj2M_ZXwjOBCh6CuuD_8dDSoWLElN1f8XjVQ9JWM_mEXtcoi4ikDEkndrY4Nj8zN2IM61h4zYpIxBH_RTbkKl4e9AZDMOM5gT09igQi0befHA4-BvzpsA1RjCDpE-7HlsDUsIv7yvk3HhHwubNAVk3kbtiJ73GSjEtI_DBT9NhqG8sm2KcjPK-D4_Nk_hSF7NPkp2SiJFStJZJKtj62UUl1stEGM6BlHirWtyF3tLA9lw9XVrP_yQ2=w1024-no" /> </div>
     </div>
     <!-- Bullet Navigator -->
     <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
@@ -373,10 +373,10 @@ permalink: albania-august-2017
 <div id="slider17" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/agMb5Cy0kg-V23KyLtFMxG72eUOeWpi0sXCUqCxNlhUd15cw8MubRzw_FDT6AoP_t08VMwVIJ-dxDVTKEL3SG7icw1oUsp7fTILjneXFUaJTodNL_3ejLIQexUeY6nCwtTR4qOixag=w1024-no
+            https://lh3.googleusercontent.com/agMb5Cy0kg-V23KyLtFMxG72eUOeWpi0sXCUqCxNlhUd15cw8MubRzw_FDT6AoP_t08VMwVIJ-dxDVTKEL3SG7icw1oUsp7fTILjneXFUaJTodNL_3ejLIQexUeY6nCwtTR4qOixag=w1024-no
         " /> </div>
         <div data-p="112.50" style="display: none;"> <img data-u="image" src="
-			https://lh3.googleusercontent.com/sGEsWj5I3NYhTvskZV0v174nHFBrP-F9DpGjR3G93F4kVLRVxtzBO5GZ00pUykhIlkOoJEkLODEB6RMY-LSfog6VyiTH0xp8tqNzcSbwoWCFmABE7ZKsVag1ug1UI_Fri1BObKZmaw=w1024-no
+            https://lh3.googleusercontent.com/sGEsWj5I3NYhTvskZV0v174nHFBrP-F9DpGjR3G93F4kVLRVxtzBO5GZ00pUykhIlkOoJEkLODEB6RMY-LSfog6VyiTH0xp8tqNzcSbwoWCFmABE7ZKsVag1ug1UI_Fri1BObKZmaw=w1024-no
         " /> </div>
     </div>
     <!-- Bullet Navigator -->
@@ -425,10 +425,23 @@ permalink: albania-august-2017
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
  </div>
 
-![](https://lh3.googleusercontent.com/KMmhQjsNLiNez7KqR6rPcu7IKoGkv07VmT1Il4jMA0qAZpa-qTtEPtt8bzk5Ds0uk5WjSC98pO3Zdwfj7wNbTzxfXX2zXM4J7XoRjsSo97nTc_9XyZySynKNrKQARyfGvndnTpkAKQ=w1024-no)
-
-https://lh3.googleusercontent.com/NeELDfY0WGI_lj3uvbTzb_OEeSoTYCe8V4ocdKJBPXUR9P4OujEet529AADIMm9qWXb13a3pToKc56IJto4NdEu93nxzDmFfNJONujEN8lQAIqOO7oSqB1xorjaDp_z6b5YYA_i__w=w988-h658-no
-https://lh3.googleusercontent.com/uBSYehJxO4itbaRLmCJ7QWwKtKgIJpPfVDRz3XVc3O3QAAngU0mkvZH63ux3jMvI1MmZDYQZmsfNUbjjl4x5dzkhuG5znEMmMFpW7udHV1dUK2AacNw8SEeoScuVNQ7cCatTGFPqTQ=w988-h658-no
+<div id="slider18" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/NeELDfY0WGI_lj3uvbTzb_OEeSoTYCe8V4ocdKJBPXUR9P4OujEet529AADIMm9qWXb13a3pToKc56IJto4NdEu93nxzDmFfNJONujEN8lQAIqOO7oSqB1xorjaDp_z6b5YYA_i__w=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/uBSYehJxO4itbaRLmCJ7QWwKtKgIJpPfVDRz3XVc3O3QAAngU0mkvZH63ux3jMvI1MmZDYQZmsfNUbjjl4x5dzkhuG5znEMmMFpW7udHV1dUK2AacNw8SEeoScuVNQ7cCatTGFPqTQ=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
 
 кипятильник
 boiled vs botled
@@ -436,30 +449,117 @@ boiled vs botled
 супермаркет, дрова на улице
 
 Город "одной фотографии" Берат
-https://lh3.googleusercontent.com/aQn0W14zat94gFgLyEV6qSE3jlFZU9iJwvDFY8vnPrcp02u_rLFhTtUjV8EsAzt0B0bflTDOFNSiaSxwIqkvTm72xJ_gfx44EBtXjeUO5R8ejlWQe8RlX8Gjqpb9s2gl-fOYNktgpA=w988-h658-no
-https://lh3.googleusercontent.com/-EwfCiW_zy-q8Gy2QWlJdxSAkkSJPH1yAADGCnGtJ5qZ3kTDN2NnxZjO9wPXF2yG-2gD_cw3m4VuCi-IC0EiReG-wAhAsHi1YO97hpiAaD7AnvOswvaoYgQJH41EhLg33xg18W9gtg=w1014-h658-no
-https://lh3.googleusercontent.com/o1XHkj078l-u6I6D2EirtnDTBAuK5Tq-8rmPZ-dR5deLPvUVvZV-vk8ZsXbrQ2YbMr4Jn0wK5l1ensAvck8dwPed1wdO3vT1f2j5zxFmCgqpTnmLwxIMuw3zRKqbdmlJ78II46q9jg=w789-h526-no
-https://lh3.googleusercontent.com/emdXTGwlNsDS9JElHiC85tK4NR5RFTS-d2dVxFUJ1zC_dolRy6mX8792iPEoMauJkHCEz1OEut1YSjvWmDjONtKr7iEjkXHtt0hhuuBhlLRW2uw87VvsnMct8gkuqDpwlUIkHDQiLA=w988-h658-no
+
+<div id="slider19" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/aQn0W14zat94gFgLyEV6qSE3jlFZU9iJwvDFY8vnPrcp02u_rLFhTtUjV8EsAzt0B0bflTDOFNSiaSxwIqkvTm72xJ_gfx44EBtXjeUO5R8ejlWQe8RlX8Gjqpb9s2gl-fOYNktgpA=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/-EwfCiW_zy-q8Gy2QWlJdxSAkkSJPH1yAADGCnGtJ5qZ3kTDN2NnxZjO9wPXF2yG-2gD_cw3m4VuCi-IC0EiReG-wAhAsHi1YO97hpiAaD7AnvOswvaoYgQJH41EhLg33xg18W9gtg=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/o1XHkj078l-u6I6D2EirtnDTBAuK5Tq-8rmPZ-dR5deLPvUVvZV-vk8ZsXbrQ2YbMr4Jn0wK5l1ensAvck8dwPed1wdO3vT1f2j5zxFmCgqpTnmLwxIMuw3zRKqbdmlJ78II46q9jg=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/emdXTGwlNsDS9JElHiC85tK4NR5RFTS-d2dVxFUJ1zC_dolRy6mX8792iPEoMauJkHCEz1OEut1YSjvWmDjONtKr7iEjkXHtt0hhuuBhlLRW2uw87VvsnMct8gkuqDpwlUIkHDQiLA=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
 
 Чоровода:
-https://lh3.googleusercontent.com/OEQbWG4AwSgTUFlrd6js6dvSSMOlz18w9DyXl2C-5xZK15vs9wXmviGbA0m0AKYZ-R6AWAFu_fp5oV8JlvgFoyL_vtWq9Y3lMrdF7EHOSmO4iKxfEwqjVepPBh8IGmUJAdlKUbLWvg=w988-h658-no
+![](https://lh3.googleusercontent.com/OEQbWG4AwSgTUFlrd6js6dvSSMOlz18w9DyXl2C-5xZK15vs9wXmviGbA0m0AKYZ-R6AWAFu_fp5oV8JlvgFoyL_vtWq9Y3lMrdF7EHOSmO4iKxfEwqjVepPBh8IGmUJAdlKUbLWvg=w1024-no)
 
 Каньен Осуми:
-https://lh3.googleusercontent.com/lhXVhahRN3PpGUjDmNRf8LNlS2zhOKjR5UYfjCD4Cl9OVX6RKsAGkYBBfLJvJWnFNiY68ZOU3vwyxFqYCWZc4lr-BTNG61Z7nU2yYyZMYkEFR7JVYnK1FZ8D5bylxKcSIg3L7B8rqA=w988-h658-no
-https://lh3.googleusercontent.com/4jwvNhJDc6FvY4Y7lbe8xI8MoT-LCowyL0cBm58-8VufNx6tWTjAPsXEG6_2TucWpXwZE8kJTraSjwnscFj2uVv3meT5Xht3tR2bRNW-qdFZ3Dz7A3tERre-6kPkfuc7i9_Weq1-SQ=w789-h526-no
-https://lh3.googleusercontent.com/L4Jdp3dN_QFoaPDdhw1hgLZGZ1CqmSLQOAL3-uCjRsw3GI1OwKoNmFbuUrK5SgmpQt9LPhpmkFu296t-3qMbnmBHRmQhpZa-hDG9a-Q7hiVTjYF3gIaO2WBhMxHXcOpnZUa3TGOkBg=w988-h658-no
-https://lh3.googleusercontent.com/7GRpekg72J7BA_zUNrO3t-RdUwThIC7a06Cb458dZP5XqFetyXWB8HQFtGXBduqMBCexpcwsGoXtKM5ZVBdoFFWVLbvajvq5-q6Ostu5Y8MgN6IopcGsYOf23KA_PcNSoOKx_qeNEg=w988-h658-no
+<div id="slider20" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/lhXVhahRN3PpGUjDmNRf8LNlS2zhOKjR5UYfjCD4Cl9OVX6RKsAGkYBBfLJvJWnFNiY68ZOU3vwyxFqYCWZc4lr-BTNG61Z7nU2yYyZMYkEFR7JVYnK1FZ8D5bylxKcSIg3L7B8rqA=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/4jwvNhJDc6FvY4Y7lbe8xI8MoT-LCowyL0cBm58-8VufNx6tWTjAPsXEG6_2TucWpXwZE8kJTraSjwnscFj2uVv3meT5Xht3tR2bRNW-qdFZ3Dz7A3tERre-6kPkfuc7i9_Weq1-SQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/L4Jdp3dN_QFoaPDdhw1hgLZGZ1CqmSLQOAL3-uCjRsw3GI1OwKoNmFbuUrK5SgmpQt9LPhpmkFu296t-3qMbnmBHRmQhpZa-hDG9a-Q7hiVTjYF3gIaO2WBhMxHXcOpnZUa3TGOkBg=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/7GRpekg72J7BA_zUNrO3t-RdUwThIC7a06Cb458dZP5XqFetyXWB8HQFtGXBduqMBCexpcwsGoXtKM5ZVBdoFFWVLbvajvq5-q6Ostu5Y8MgN6IopcGsYOf23KA_PcNSoOKx_qeNEg=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
 
-Река внизу:
-https://lh3.googleusercontent.com/2VBRpS8ZwFp9rQZAmv6CAD64eEF92L8U7S2b_IUOG7-6iQQ2MPNq69LfkAocbtmnV4-9lo_4XnwOJsDmMyr7uYYQKi5l18W-eV6mw2XCXIx9DL9WbzwLqU3ehi0I-YmPV4ULQdcpgQ=w789-h526-no
-https://lh3.googleusercontent.com/VUyraF1Sl7M9oiWpvd-j8w6NZ_aiTshtmOdNhOjH8gIHCQVqcTu89N9YRb4gPgM0Ys7S5wYiGc_sVfbll6BwPGyAoDYPCg7n9bajTErI39KdLsUWsrg8asIPsxVGtCB3lFeLOUm66A=w988-h658-no
+Река Осуми внизу:
+<div id="slider21" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/2VBRpS8ZwFp9rQZAmv6CAD64eEF92L8U7S2b_IUOG7-6iQQ2MPNq69LfkAocbtmnV4-9lo_4XnwOJsDmMyr7uYYQKi5l18W-eV6mw2XCXIx9DL9WbzwLqU3ehi0I-YmPV4ULQdcpgQ=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/VUyraF1Sl7M9oiWpvd-j8w6NZ_aiTshtmOdNhOjH8gIHCQVqcTu89N9YRb4gPgM0Ys7S5wYiGc_sVfbll6BwPGyAoDYPCg7n9bajTErI39KdLsUWsrg8asIPsxVGtCB3lFeLOUm66A=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
 
 Отель Панорама:
-https://lh3.googleusercontent.com/fdlz7Krzd96RGRWYN88sR8AfN8OrAGs1S8_Hnvx_D93w2di76enq5qhZFPvGeMQxyZNXIxyDvn3G0j4ktdwQa-6wXpu45yMPAzh6QKjTP9L1521qF6JSBev5T5cGuM_6zBheKLeZbA=w988-h658-no
-https://lh3.googleusercontent.com/k7t0YP8vn5dWg2vHxLb0-4d9lfBmIgKZ_S2r_Vty-A0ota3aMCoMOKEuMdtXv8HzTRdupL8xYawBNgipTkODOi1FTh66pIyr4in9RX7zUxGi2lkhDCsgs5c01DXhch4R4TGtmTr2rQ=w988-h658-no
+![](https://lh3.googleusercontent.com/KMmhQjsNLiNez7KqR6rPcu7IKoGkv07VmT1Il4jMA0qAZpa-qTtEPtt8bzk5Ds0uk5WjSC98pO3Zdwfj7wNbTzxfXX2zXM4J7XoRjsSo97nTc_9XyZySynKNrKQARyfGvndnTpkAKQ=w1024-no)
 
-https://lh3.googleusercontent.com/5ZR3GFsqsDl-cCLyg2Sj6PId5vGvDG-YNAV6tLxMHuPPIu4Qi2we10CEsQgHtIZ-o4DOp1mTbwmpoSWkKbqWGQMVKpZezR1yG0hyurQssX8cJMF3bfjNW28T8ruSeWooI3L5eTt-3A=w988-h658-no
-https://lh3.googleusercontent.com/PSwRBfJOcPRSgf8YEhTNFhVQZJQAHGp2-l0Mv-5moKd525ILGmunHSlJpL-QsmNXTAfSx5zzXMb_m9Y-PddYBuwJO58gHZQ8-6srQFN1SlqY0fnMql9_4cAwQnmgR7sIuLri2YBMuQ=w789-h526-no
+<div id="slider22" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/fdlz7Krzd96RGRWYN88sR8AfN8OrAGs1S8_Hnvx_D93w2di76enq5qhZFPvGeMQxyZNXIxyDvn3G0j4ktdwQa-6wXpu45yMPAzh6QKjTP9L1521qF6JSBev5T5cGuM_6zBheKLeZbA=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/k7t0YP8vn5dWg2vHxLb0-4d9lfBmIgKZ_S2r_Vty-A0ota3aMCoMOKEuMdtXv8HzTRdupL8xYawBNgipTkODOi1FTh66pIyr4in9RX7zUxGi2lkhDCsgs5c01DXhch4R4TGtmTr2rQ=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
+
+Бесхозная крепость рядом:
+<div id="slider23" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
+    <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/5ZR3GFsqsDl-cCLyg2Sj6PId5vGvDG-YNAV6tLxMHuPPIu4Qi2we10CEsQgHtIZ-o4DOp1mTbwmpoSWkKbqWGQMVKpZezR1yG0hyurQssX8cJMF3bfjNW28T8ruSeWooI3L5eTt-3A=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/PSwRBfJOcPRSgf8YEhTNFhVQZJQAHGp2-l0Mv-5moKd525ILGmunHSlJpL-QsmNXTAfSx5zzXMb_m9Y-PddYBuwJO58gHZQ8-6srQFN1SlqY0fnMql9_4cAwQnmgR7sIuLri2YBMuQ=w1024-no
+        " /> </div>
+    </div>
+    <!-- Bullet Navigator -->
+    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
+        <div data-u="prototype" style="width:10px;height:10px;"></div>
+    </div>
+    <!-- Arrow Navigator -->
+    <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+    <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+</div>
 
 Море и коровы:
 ![](https://lh3.googleusercontent.com/04SB2QP8QSRmtfITJ2jdDTrY5uXA6VFXzd7xKy9tmq9ENoi844yrcf1ta5dQhksVOe5k8Yd0pVytistltCjLxRToaUVUY16oPhTZLYmFoxbv_K1sJ9kOIDdKj0aFXf6AJi69OefJ_6m9YglHMmFQ-Kc_j1LX4JQT4LHkdtSVenKumMigUWplC6OatnwGACxl34omwuH06zW0rhzoicCRsBYjgQgOp4eQ2FKE4_0KrN-XUmogF7neeXlFwsRARKpJMTxs9nNRbIf7weWRW_4_YWjrEOxfP8YAd3n5Dw2eneLLQ3GRqCstGAVibypwxj4Ho8qzGrwfQrTq9eS86S-M-BbEctyH5et6T7djOPRPBzdG0mi3ayXIZPKyc1nwdQFOvdlR-RyQSdOUxJdDyDRxyphpi8f56TthvaN0bogUujAmiQ0didaQCOsrF8HGCJrgKUoVx4ycPlEQF1BipIJn3YIvrDgaVL3FxXED9-foXj0VBVMNoY5bdcwGRrEWgjPMUgZgZWwwkhP9jMD-RVniaOHRaHMfF7hT2pcEl-MYq0ZanBX56Rr4E0bG38slVtZlQDgppDs317p29ikEoOFjwqTxKdu0eIsrN_P1_CC2ig=w720-no)
@@ -482,4 +582,10 @@ https://lh3.googleusercontent.com/PSwRBfJOcPRSgf8YEhTNFhVQZJQAHGp2-l0Mv-5moKd525
     jssor_1_slider_init("slider15");
     jssor_1_slider_init("slider16");
     jssor_1_slider_init("slider17");
+    jssor_1_slider_init("slider18");
+    jssor_1_slider_init("slider19");
+    jssor_1_slider_init("slider20");
+    jssor_1_slider_init("slider21");
+    jssor_1_slider_init("slider22");
+    jssor_1_slider_init("slider23");
 </script>
