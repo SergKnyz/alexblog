@@ -322,15 +322,19 @@ permalink: albania-august-2017
 
 В общем люди, овцы и другие одобряют и рекомендуют паром; будете в тех местах - не пропустите.
 
-Вальбона:
-![](https://lh3.googleusercontent.com/I1tNMxsSQqM-tkKMVEMCHP_VrgtBEui8NptvpT6Y7_jCEAsmvY7IPeO5UgEkDzOln0Su3CvSCH6xKxqcVuApI8CG_JNYhHqE-JPKzZ6lx97LZTRkOaESzstcbwpdYrwn5JcmHVetzLotkIG_AsUdOx8Ha5kwHUj1VMW885l2960agqMdJwbpdr4OFKt4H19sNeriqRtIDYJiUER8e2Fl8fD_MOEGuP8u8_v0T6dU2iQU7h14nPWznk25xvXRlW0oKsdeG85Hx1NQL-rAmB_cNdKrrlDkfzfgnaD7PjoH_ktyKSdNphBI4K73wFccK6_4C8piJOQECAlrelZUbeVP1Z_KQoXPaVSwsXOvgMAweNwfVQvZ1hnZrksCp408usYX5si-yzChwv-u2xe6N7df4kIpqQyIVv9FG9RghKLEOfNLgpI49VfaCLS6cz4ofcceUgWRu1oQXCBYPVchbCZoCjf4YEX10mstFp_Pnmv9PYKq1HOvsmhbyJ42EkibuRmUGuSbvwU3bn09feTibchACvTuPMHRI2toLEzfD01Q4yfjufXcz6mdcZeB7E0FD5zphgj74IProMTgFUPWXaZGb3z3ke-AZYF2ZnLam5pbF38Pbui8L9GR=w1024-no)
-<span class="signed-image">Вид с балкона номера</span>
 
-Приехали, было пасмурно:
+По приезду в Вальбону было пасмурно:
 <div id="slider10" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/2fwbpcqR4ft-G3uAZHHYQlWDxjpMS4Xmj0W40L7CZWeGh9Osboy71q-qCDhJfXGLk10LrbfDpIhMy9Um14vxLbbpkKsj5jPhMR2gvPL9N1okJ_hhUNnNmCgkr22kwqVAtwGACnnEidIQL9IVbDPRJEHmk-QsMQDAL5rKjpJnzJqrXAOwmFZz1sjRSJnAWYadVmqd88QTBPKsJrHyFc5zQwkxGphUP1d7BJnwYzt-ADRzYZsgsDUzMVGj6RGX4cO4vaJRf2udvbXeTZz8l2ttla8BVhUsgwUqyaDdStVstLpC9FQE1I3QcETx5VdO1BMdiZMWlvaDLEVXpfbMEMzikEZqyMA5B7vAnkLgeTVVBr3A_N2o65cF1acPeytqR2q75C480dogalipYI5Ahp6kJOd8UtcEGgS_d_1TKFXI3HoEQMZbG0Tsz_hL7tOeaPRNiMUUpRSAq3FIryDEO13UOVTqgXJ_uqw5_TvSKdWBMT7zyQHvJRoCHajZVuhF5y3r-rUHnlvVNwH0FIhzCgt79DKhWFR_YgHUbgbbQlG_DYabmFRMuLOO6ReJ5uZv-FKd8bBbwiRxX7bWdfBCDKgHwTaeHtDCH3H131cR7y2XwP5RiH6H_urp=w1024-no" /> </div>
-        <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/qwR-QR2pYYsrWVd2gWK1TsizW3UohQsgbm1k8vRqWK6VTOgcugKf_u6vH7E7J8QeM9xQIquubmJSmHwIsZaqxng39Ly6FSP7DZGjc6_Vu2cjMB-ik-u3S_g6gTceGkAjGEnamoCNM5CwE5VkHREIU1eAkNc7w6MDDHpEeTRIQPkBRjTKdiJ-U85a9Opd2qo-lxSKgIfiSQbleexAqApF_ngQmgSzPdTxOeBOCCXBz8SfK6fkA2HSNx8GnZHEkwov8EBwQPlcR9ZYb4rk2j89sbtY6UfEQsksP1j5rGDpGkV6-CKG-qpNSfl2Va41XlkYvmUQ_Alq9K4JMOxnTNe7o6SWlFVVZjqMiiLL2dPX2fGdkhRm99mDVwhXCtKHa3cezbDqsd5oa411dqI7z_SyM7pi7UVm5dSoaZT-RPqOlVxSJjHxt9BE_d0LeIkTIaZQyZjopVtS9M5clqSGOXFPdhozd85MZDwTpx2XFa3fORjBV6j-ylqiB4md1GHPo5AZIO9piU8FjKDv1XayD2vnG5seyu0Aizcir9anh6PD-TWKmJh434_VOhYhjZ6fsRChGZ8usTkvxkg1cGeznZ2jLiulRkfTd1acgqJ44bVn1t5qTGYXnMsF=w1024-no" /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/I1tNMxsSQqM-tkKMVEMCHP_VrgtBEui8NptvpT6Y7_jCEAsmvY7IPeO5UgEkDzOln0Su3CvSCH6xKxqcVuApI8CG_JNYhHqE-JPKzZ6lx97LZTRkOaESzstcbwpdYrwn5JcmHVetzLotkIG_AsUdOx8Ha5kwHUj1VMW885l2960agqMdJwbpdr4OFKt4H19sNeriqRtIDYJiUER8e2Fl8fD_MOEGuP8u8_v0T6dU2iQU7h14nPWznk25xvXRlW0oKsdeG85Hx1NQL-rAmB_cNdKrrlDkfzfgnaD7PjoH_ktyKSdNphBI4K73wFccK6_4C8piJOQECAlrelZUbeVP1Z_KQoXPaVSwsXOvgMAweNwfVQvZ1hnZrksCp408usYX5si-yzChwv-u2xe6N7df4kIpqQyIVv9FG9RghKLEOfNLgpI49VfaCLS6cz4ofcceUgWRu1oQXCBYPVchbCZoCjf4YEX10mstFp_Pnmv9PYKq1HOvsmhbyJ42EkibuRmUGuSbvwU3bn09feTibchACvTuPMHRI2toLEzfD01Q4yfjufXcz6mdcZeB7E0FD5zphgj74IProMTgFUPWXaZGb3z3ke-AZYF2ZnLam5pbF38Pbui8L9GR=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/2fwbpcqR4ft-G3uAZHHYQlWDxjpMS4Xmj0W40L7CZWeGh9Osboy71q-qCDhJfXGLk10LrbfDpIhMy9Um14vxLbbpkKsj5jPhMR2gvPL9N1okJ_hhUNnNmCgkr22kwqVAtwGACnnEidIQL9IVbDPRJEHmk-QsMQDAL5rKjpJnzJqrXAOwmFZz1sjRSJnAWYadVmqd88QTBPKsJrHyFc5zQwkxGphUP1d7BJnwYzt-ADRzYZsgsDUzMVGj6RGX4cO4vaJRf2udvbXeTZz8l2ttla8BVhUsgwUqyaDdStVstLpC9FQE1I3QcETx5VdO1BMdiZMWlvaDLEVXpfbMEMzikEZqyMA5B7vAnkLgeTVVBr3A_N2o65cF1acPeytqR2q75C480dogalipYI5Ahp6kJOd8UtcEGgS_d_1TKFXI3HoEQMZbG0Tsz_hL7tOeaPRNiMUUpRSAq3FIryDEO13UOVTqgXJ_uqw5_TvSKdWBMT7zyQHvJRoCHajZVuhF5y3r-rUHnlvVNwH0FIhzCgt79DKhWFR_YgHUbgbbQlG_DYabmFRMuLOO6ReJ5uZv-FKd8bBbwiRxX7bWdfBCDKgHwTaeHtDCH3H131cR7y2XwP5RiH6H_urp=w1024-no
+        " /> </div>
+        <div data-p="112.50" style="display: none;"> <img data-u="image" src="
+            https://lh3.googleusercontent.com/qwR-QR2pYYsrWVd2gWK1TsizW3UohQsgbm1k8vRqWK6VTOgcugKf_u6vH7E7J8QeM9xQIquubmJSmHwIsZaqxng39Ly6FSP7DZGjc6_Vu2cjMB-ik-u3S_g6gTceGkAjGEnamoCNM5CwE5VkHREIU1eAkNc7w6MDDHpEeTRIQPkBRjTKdiJ-U85a9Opd2qo-lxSKgIfiSQbleexAqApF_ngQmgSzPdTxOeBOCCXBz8SfK6fkA2HSNx8GnZHEkwov8EBwQPlcR9ZYb4rk2j89sbtY6UfEQsksP1j5rGDpGkV6-CKG-qpNSfl2Va41XlkYvmUQ_Alq9K4JMOxnTNe7o6SWlFVVZjqMiiLL2dPX2fGdkhRm99mDVwhXCtKHa3cezbDqsd5oa411dqI7z_SyM7pi7UVm5dSoaZT-RPqOlVxSJjHxt9BE_d0LeIkTIaZQyZjopVtS9M5clqSGOXFPdhozd85MZDwTpx2XFa3fORjBV6j-ylqiB4md1GHPo5AZIO9piU8FjKDv1XayD2vnG5seyu0Aizcir9anh6PD-TWKmJh434_VOhYhjZ6fsRChGZ8usTkvxkg1cGeznZ2jLiulRkfTd1acgqJ44bVn1t5qTGYXnMsF=w1024-no
+        " /> </div>
     </div>
     <!-- Bullet Navigator -->
     <div data-u="navigator" class="jssorb01" style="bottom:16px;right:10px;">
@@ -339,8 +343,8 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
- </div>
- 
+</div><p></p><p></p>
+<span class="signed-image">Вид с балкона номера</span>
 Но на следующий день была прекрасная погода, без облаков и с ярким солнцем, сразу открылись нереальные горные красоты:
 [![](https://lh3.googleusercontent.com/qNy-0ouIsXH9k2xel4XWjqKLU9GlOJUb4rSLkPkc7O3nGbH9dZ1tg6703sOBZ4hPrzn1qrwRA8wVy4tzGOTYIKk2tDpsfLecXU_IlLD8uSNiH-H7KU77nBa_b3cBG6bMP26LYZyneQ=w1024-no "Нажми чтобы увидеть панораму в большем разрешении")](https://lh3.googleusercontent.com/qNy-0ouIsXH9k2xel4XWjqKLU9GlOJUb4rSLkPkc7O3nGbH9dZ1tg6703sOBZ4hPrzn1qrwRA8wVy4tzGOTYIKk2tDpsfLecXU_IlLD8uSNiH-H7KU77nBa_b3cBG6bMP26LYZyneQ=w5030-no)
 <span class="signed-image">Ах!</span>
@@ -368,7 +372,7 @@ permalink: albania-august-2017
  </div><p></p><p></p>
 <span class="signed-image">Фото по мере подьема</span>
 
-Парочку предыдущих дней, пока у нас был полутюлений городской туризм, Ярослав все время задавал одини и те же вопросы: "Ну когда мы поедем уже в горы?! Хочу подняться в гору!". Апогеем его "Хочу!" стал вчерашний вечерний приезд в "горы". Когда же мы таки начали идти вверх, в гору, его запал и энтузиазм начал стремительно иссякать и через пару часов превратился в классическое: "А скоро ли мы придем? А скоро привал? Я устал!".
+Парочку предыдущих дней, пока у нас был полутюлений городской туризм, Ярослав все время задавал одини и те же вопросы: "Ну когда мы поедем уже в горы?! Хочу подняться в гору!" Апогеем его "Хочу!" стал вчерашний вечерний приезд в "горы". Когда же мы таки начали идти вверх, "в гору", его запал и энтузиазм начал стремительно иссякать и через пару часов превратился в классическое: "А скоро ли мы придем? А скоро привал? А когда пойдем обратно? Я хочу есть, я устал! Я никуда уже не хочу!".
 
 <div id="slider17" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
@@ -389,7 +393,7 @@ permalink: albania-august-2017
 </div><p></p><p></p>
 <span class="signed-image">"В гору! Прямо сейчас!"</span>
 
-Иногда попадались такие полянки, мы на них останавливались перекусить либо просто дух перевести:
+Иногда попадались такие полянки, мы на них останавливались дух перевести, глаз порадовать, щелкнуть кадр на память либо просто перекусить:
 <div id="slider12" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
     <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/iR3964f34iDAqC7pFJrFga8cy0E9Pxdk_5h9_f1H_UlRSvAjjN44SiMrDd0GMLx8gUZb_XK8XeJcTnqB2jBukBxBRZHbneK11NuZWwWscIpGS3nI5X0xmgopKPG_sYkB4ac2ibZeh6wE9NvDUgVDjAcYhetIVHSq7qH0FgZSwXL5ZjCrOB3Xb35Esi8SQIjs5-VPKOR-inYl8FdpmWBLGW1eszpYGtDIyvbHNnAw2MWz9YM7ao7bqtvLL15EUehT4ozmuqdPJNT-zvKSoypbByqMnk5ci163TCPlIb5omxOBrfpOufKkIPYBN4yHo2-RC5lVq1OUMHJBNgXmx_IrmdLFMco-hPoUtPSrl6xptswe_jkb0h63A9rSgBzxreFq8byejm_6yn-jHmKqsrnDU7alOgBocxyGXhrrNAq9kY-IIwACmMrEEte8pMg4aqJyqfDACUBfOjl_vX9kGv3LScju_KSlJ1WQ4GhYe4HWgcoXSGy_pZVaqrF6OwhzlsRWQ-8a7dvZqbxwzAnaqXrLUt69kxqAadG7ev_ecFRKbAtt5geuDXvXZG6pnlq66wKLTvoE3PiVfZPMF3kH-UU0FuoUzgue66Ua82IvCcfWy7HOgXybtJZW=w1024-no" /> </div>
@@ -404,7 +408,7 @@ permalink: albania-august-2017
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
 </div>
 
-Вернулись обратно в гестхаус под вечер, как раз к ужину. Я немного сбил оскомину по горам:). Сильно убиваться не стали(на самую вершину горы так и не забрались), так как все были подготовленные не лучшим образом. Мы и так на следующий день очень хорошо по всему телу чувствовали, что погуляли на славу.
+Вернулись обратно в гестхаус под вечер, как раз к ужину. Я немного сбил оскомину по горам:). Сильно убиваться не стали(на самую вершину горы так и не забрались), так как <s>все были подготовленные не лучшим образом</s> спорт отдельно, отдых отдельно. Мы и так на следующий день очень хорошо по всему телу чувствовали, что "отдохнули" на славу.
 
 Пробыв в Вальбоне 2 дня, мы двинули на юг страны по горным серпантинам, через албанскую глубинку. Мне нравилось само по себе движение, потому что сменяющаяся картинка за пределами авто была всегда крутейшая и увлекательнейшая.
 Она постоянно мешала водить, все время забирала внимание на себя.
