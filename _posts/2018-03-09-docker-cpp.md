@@ -286,7 +286,7 @@ cd project_dir
  - в общем уменьшились издержки - все довольны;
 
 Теперь алгоритм входа нового сотрудника в проект выглядит так:
- - git clone <repo_url> && cd project_dir
+ - git clone `<repo_url>` && cd project_dir
  - ./dockerBuild.sh platformName mode path_to_project optional_cmd
  - запуск/деплой приложения/сервиса;
  - ???????
