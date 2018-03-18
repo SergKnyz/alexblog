@@ -443,7 +443,7 @@ permalink: albania-august-2017
 </div><p></p><p></p>
 <span class="signed-image">"В гору! Прямо сейчас!"</span>
 
-В общем, кто о чем, а <s>вшивый о бане</s> я о горах. Иногда попадались такие полянки, мы на них останавливались дух перевести, глаз порадовать, щелкнуть кадр на память либо просто перекусить:
+В общем, кто о чем, а <s>вшивый о бане</s> я о горах. Иногда попадались такие полянки, мы на них останавливались дух перевести, глаз порадовать, щелкнуть кадр на память, либо просто перекусить:
 <div id="slider12" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden; visibility: hidden;">
     <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 720px; height: 480px; overflow: hidden;">
     <div data-p="112.50" style="display: none;"> <img data-u="image" src="https://lh3.googleusercontent.com/iR3964f34iDAqC7pFJrFga8cy0E9Pxdk_5h9_f1H_UlRSvAjjN44SiMrDd0GMLx8gUZb_XK8XeJcTnqB2jBukBxBRZHbneK11NuZWwWscIpGS3nI5X0xmgopKPG_sYkB4ac2ibZeh6wE9NvDUgVDjAcYhetIVHSq7qH0FgZSwXL5ZjCrOB3Xb35Esi8SQIjs5-VPKOR-inYl8FdpmWBLGW1eszpYGtDIyvbHNnAw2MWz9YM7ao7bqtvLL15EUehT4ozmuqdPJNT-zvKSoypbByqMnk5ci163TCPlIb5omxOBrfpOufKkIPYBN4yHo2-RC5lVq1OUMHJBNgXmx_IrmdLFMco-hPoUtPSrl6xptswe_jkb0h63A9rSgBzxreFq8byejm_6yn-jHmKqsrnDU7alOgBocxyGXhrrNAq9kY-IIwACmMrEEte8pMg4aqJyqfDACUBfOjl_vX9kGv3LScju_KSlJ1WQ4GhYe4HWgcoXSGy_pZVaqrF6OwhzlsRWQ-8a7dvZqbxwzAnaqXrLUt69kxqAadG7ev_ecFRKbAtt5geuDXvXZG6pnlq66wKLTvoE3PiVfZPMF3kH-UU0FuoUzgue66Ua82IvCcfWy7HOgXybtJZW=w1024-no" /> </div>
@@ -477,7 +477,7 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
-</div>
+</div><p></p><p></p>
 <span class="signed-image">Еще раз прокатился бы.</span>
 
 В день получалось проехать 200-250 км, не больше.
@@ -498,7 +498,7 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
-</div>
+</div><p></p><p></p>
 <span class="signed-image">Маленький городок <a href="https://ru.wikipedia.org/wiki/Пешкопия">Пешкопия</a>.</span>
 
 Хоть и Пешкопия был чисто городом "на переночевать", он мне запомнилась двумя моментами:
@@ -510,7 +510,7 @@ permalink: albania-august-2017
 
 На следующее утро нам было уже полегче. Паренек-официант утром вроде лучше нас понимал и принес четко то, что Аня описала: варенные куриные яйца("eggs in water"), поджаренный хлеб("dry bread in oven"), сливочное масло("butter") и кипяток(четко проговоренная фраза: "boiled water, not bottled, very hot with bubles, but not soda"). Еще и мед в нагрузку дали. Мы очень даже вкусно позавтракали:)
 
-Еще забавный момент: когда мы гуляли вечером по городу(еще до того как нас полностью накрыло), заметили что практически возле каждой многоэтажки, у подъездов, наскладированны колотые дрова. Забавно.
+Еще забавный момент: когда мы гуляли вечером по городу(еще до того как нас полностью накрыло), заметили что практически возле каждой многоэтажки, у подъездов, наскладированны колотые дрова.
 
 И еще, вывод №2: всегда брать с собой кипятильник/горелку, маленькую металическую чашку и черный чай.
 
@@ -541,7 +541,7 @@ permalink: albania-august-2017
 
 Берат включён в список Всемирного наследия ЮНЕСКО как образец хорошо сохранившейся городской застройки времён Османской империи. Было прикольно там прогуляться среди старой и в тоже время жилой застройки. После прогулки мы упали в кафешку попить чай. И заодно заказали мороженное, так как уже свалили с "больших" гор, да и сильно продвинулись на юг - опять началась жара. Ну и плюс после почти суточного воздержания от еды опять появился аппетит, но что-то серьезное есть пока было страшно, а мороженное с чаем - самое то:).
 
-Горы хоть и меньше стали, но красивые дорожные серпантинчики никуда не делись. Наша следующая цель была [каньон Осуми](https://en.wikipedia.org/wiki/Osum_Canyon). Путь лежал через городок Чоровода, где мы переночевали, больше делать там нечего.
+Горы хоть и меньше стали, но красивые дорожные серпантинчики никуда не делись. Наша следующая цель - [каньон Осуми](https://en.wikipedia.org/wiki/Osum_Canyon). Путь лежал через городок Чоровода, где мы переночевали, больше делать там нечего.
 ![](https://lh3.googleusercontent.com/OEQbWG4AwSgTUFlrd6js6dvSSMOlz18w9DyXl2C-5xZK15vs9wXmviGbA0m0AKYZ-R6AWAFu_fp5oV8JlvgFoyL_vtWq9Y3lMrdF7EHOSmO4iKxfEwqjVepPBh8IGmUJAdlKUbLWvg=w1024-no)
 
 К каньону мы добрались на следующее утро, буквально полчаса езды от города. Это очень популярное место для [рафтинга](https://verainalbania.livejournal.com/32291.html) в мае-июне, когда протекающая внизу одноименная река максимально полноводная. Вдоль дороги есть пару обзорных площадок, откуда я зафоткал эти шикарные 80-100 метровые отвесные скалы:
@@ -592,7 +592,7 @@ permalink: albania-august-2017
 
 Ну ок, едем туленить, четверть программы отменяется. Спустя несколько часов мы уже были на море. Приехали в какую-то курортную деревушку, с кучей отелей на береговой линии, весь частный сектор также обвешан табличками с ценами(в евро!) за сутки. 
 
-Прям на берегу было пару ресторанчиков с морской кухней. Там мы и утолить свой голод, кто о чем мечтал. Аня по seafoods, Ярослав все время трындел о крабах, я в принципе люблю все вкусное.
+Прям на берегу было пару ресторанчиков с морской кухней. Там мы смогли утолить свой голод, кто о чем мечтал. Аня по seafoods, Ярослав все время трындел о крабах, а я в принципе люблю все вкусное.
 
 После попытались где-то найти место на парочку оставшихся дней, но не тут то было. Потратив пару часов на беготню между отелями и частными дворами, мы отказались от этой затее и отъехали на пяток километров от моря - там вероятность свободного жилья увеличивалась. И таки да, мы вписались в отель "Панорама":
 ![](https://lh3.googleusercontent.com/KMmhQjsNLiNez7KqR6rPcu7IKoGkv07VmT1Il4jMA0qAZpa-qTtEPtt8bzk5Ds0uk5WjSC98pO3Zdwfj7wNbTzxfXX2zXM4J7XoRjsSo97nTc_9XyZySynKNrKQARyfGvndnTpkAKQ=w1024-no)
@@ -613,7 +613,7 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
-</div>
+</div><p></p><p></p>
 <span class="signed-image">Завтрак и ужин с видом на море, прям слоган одесских тетушек предлагающих жилье на ЖД-вокзале.</span>
 
 Оставшиеся пару дней мы катались на море, на разные пляжи. Как-то, возвращаясь обратно в отель, мы заметили бесхозную крепость рядом с дорогой:
@@ -633,7 +633,7 @@ permalink: albania-august-2017
     <!-- Arrow Navigator -->
     <span data-u="arrowleft" class="jssora05l" style="top:123px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
     <span data-u="arrowright" class="jssora05r" style="top:123px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
-</div>
+</div><p></p><p></p>
 <span class="signed-image">Можно снимать фильмы.</span>
 
 В принципе рассказ окончен. Мы хорошо провели время. Я бы еще покатался по стране(мне особенно понравились горные районы), но и время проведенное на море тоже было неплохим. Тем более что мы нашли место с малым количеством людей и ... коров:
