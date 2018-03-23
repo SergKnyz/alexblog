@@ -295,7 +295,5 @@ cd project_dir
  - PROFIT!
 
 
-Презенташка от доклада для [С++ CoreHard Spring 2018 ](http://conference.corehard.by/) conference на английском:
-<iframe width="720" height="405" src="https://docs.google.com/presentation/d/1JE1HatUlxemLeBJgUwKxjZjKDcESrG6bmMxsopr3-cY/embed" frameborder="0"></iframe>
-На русском:
-<iframe width="720" height="405" src="https://docs.google.com/presentation/d/1tYFR3jSCexdNSQ_OaCMBheKcjFpWDeGevNCT5c4y-xU/embed" frameborder="0"></iframe>
+Презенташка от доклада для [С++ CoreHard Spring 2018 ](http://conference.corehard.by/) conference:
+<iframe width="720" height="405" src="https://docs.google.com/presentation/d/1i_l1pz-J5b6hGABpa1C5a9kxagLW3GU20m1xrQ3zQ2g/embed" frameborder="0"></iframe>
