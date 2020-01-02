@@ -10,8 +10,8 @@ highlighter:      rouge
 future:           false
 show_drafts:      false
 
-url:              http://www.alexprivalov.org
-shorturl:         alexprivalov.org
+url:              https://github.com/SergKnyz/alexblog
+shorturl:         alexblog
 
 author:
   name:           Alex Privalov
