@@ -10,7 +10,7 @@ highlighter:      rouge
 future:           false
 show_drafts:      false
 
-url:              https://github.com/SergKnyz/alexblog
+url:              https://sergknyz.github.io/alexblog/
 shorturl:         alexblog
 
 author:
