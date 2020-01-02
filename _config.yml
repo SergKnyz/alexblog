@@ -1,5 +1,5 @@
 ---
-title: Записная книжка
+title: Блог
 timezone: UTC
 collections:
   posts:
@@ -15,9 +15,8 @@ paginate_path: page:num
 highlighter: rouge
 future: false
 show_drafts: false
-url: https://sergknyz.github.io/alexblog/
-shorturl: alexblog
-baseurl: "/alexblog"
+url: https://sergknyz.github.io/
+shorturl: sergknyz
 author:
   name: Alex Privalov
   url: https://sergknyz.github.io/alexblog/
