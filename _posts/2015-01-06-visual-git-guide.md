@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Git: наглядная справка"
+title: 'Git: наглядная справка'
+date: 2015-01-06 00:00:00 Z
 permalink: visual-git-guide
-tags: git
+tags:
+- git
+layout: post
 ---
 
 Краткая наглядная справка для наиболее часто используемых команд git. Если у вас уже есть небольшой опыт работы с git, эта страница поможет вам закрепить ваши знания. Создано на основе этого [сайта](https://marklodato.github.io/visual-git-guide/index-en.html).

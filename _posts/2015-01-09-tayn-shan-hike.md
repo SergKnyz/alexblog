@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Горный поход по Тянь-Шаню
+date: 2015-01-09 00:00:00 Z
 permalink: tayn-shan-hike
-tags: путешествия
+tags:
+- путешествия
+layout: post
 ---
 
 ![](/assets/2015-01-09-tayn-shan-hike/little_camp.jpg)

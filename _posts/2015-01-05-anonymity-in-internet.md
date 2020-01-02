@@ -1,9 +1,11 @@
---- 
-layout: post 
-title: Анонимность в эпоху Интернет 
+---
+title: Анонимность в эпоху Интернет
+date: 2015-01-05 00:00:00 Z
 permalink: anonymity-in-internet/
-tags: anonymity
---- 
+tags:
+- anonymity
+layout: post
+---
 
 Сохранил на память [страницу](http://alter.org.ua/ru/docs/net/anonymous/).
 

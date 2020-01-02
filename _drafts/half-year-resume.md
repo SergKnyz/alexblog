@@ -1,8 +1,11 @@
 ---
-layout: post
-title: "Что интересного случилось за первое 2018 полугодие"
+title: Что интересного случилось за первое 2018 полугодие
+date: 2018-09-04 00:00:00 Z
 permalink: half-year-resume-2018
-tags: путешествия жизнь
+tags:
+- путешествия
+- жизнь
+layout: post
 ---
 
 ![](https://lh3.googleusercontent.com/B0Orxo_Wb2HnNbdtkZzfm_fMDShQq0GqSv0yRzq4-lyoAVRkzFGyL5aUjir73ohXMeaMcfq78Eg7RxbJxt-F9IoI2NaZF9hoWdE91QH62xSsbEcXKbM8pRUy8Nr0KQmeh_2OP0BQKw=w1185-h790-no)

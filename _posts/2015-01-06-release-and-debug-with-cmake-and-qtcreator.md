@@ -1,8 +1,11 @@
 ---
-layout: post
 title: Release и Debug сборки при использовании Сmake в Qt Creator
+date: 2015-01-06 00:00:00 Z
 permalink: release-and-debug-with-cmake-and-qtcreator/
-tags: cmake qtcreator
+tags:
+- cmake
+- qtcreator
+layout: post
 ---
 
 Долгое время использовал `qmake`, который по умолчанию используется в `Qt Creator`, для сборки С/С++ проектов. "Из коробки" сразу доступны и отладочная и релизная сборки, что хорошо и приятно:smile:.

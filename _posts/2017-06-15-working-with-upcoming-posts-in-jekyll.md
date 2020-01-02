@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Работа с предстоящими постами в Jekyll
+date: 2017-06-15 00:00:00 Z
 permalink: working-with-upcoming-posts-in-jekyll
-tags: jekyll
+tags:
+- jekyll
+layout: post
 ---
 
 Вольный перевод [статьи](http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html).

@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Как поднять блог на Github Pages
+date: 2015-01-04 00:00:00 Z
 permalink: setup-blog-on-github/
-tags: github github-pages jekyll
+tags:
+- github
+- github-pages
+- jekyll
+layout: post
 ---
 
 Первый пост блога, инструкция.

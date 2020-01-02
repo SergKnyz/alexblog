@@ -1,8 +1,14 @@
 ---
-layout: post
-title: "Про компоновку, dependency hell и обратную совместимость"
+title: Про компоновку, dependency hell и обратную совместимость
+date: 2015-01-18 00:00:00 Z
 permalink: about-linking-dependency-hell-and-backward-compatibility
-tags: dll linking dependency-hell C C++
+tags:
+- dll
+- linking
+- dependency-hell
+- C
+- C++
+layout: post
 ---
 
 В статье речь пойдет о высокоуровневом взгляде на компоновку. Где ищутся разделяемые библиотеки на Linux, BSD*, Mac OS X, Windows, от которых зависят приложения? Что делать с обратной совместимостью? Как бороться с адом зависимостей? На основе этой [статьи](http://habrahabr.ru/post/220961/).

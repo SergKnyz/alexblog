@@ -1,8 +1,10 @@
 ---
-layout: post
 title: C++ exception specification
+date: 2015-02-04 00:00:00 Z
 permalink: cpp-exception-specification
-tags: C++
+tags:
+- C++
+layout: post
 ---
 
 О тонкостях использования ключевого слова **throw**.

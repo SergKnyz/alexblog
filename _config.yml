@@ -1,32 +1,32 @@
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Записная книжка
-tagline:          'Чтобы самому не забыть и другим рассказать'
-paginate:         10
-paginate_path:    "page:num"
-highlighter:      rouge
-future:           false
-show_drafts:      false
-
-url:              https://sergknyz.github.io/alexblog/
-shorturl:         alexblog
-baseurl:          "/alexblog"
-
+---
+title: Записная книжка
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: Чтобы самому не забыть и другим рассказать
+paginate: 10
+paginate_path: page:num
+highlighter: rouge
+future: false
+show_drafts: false
+url: https://sergknyz.github.io/alexblog/
+shorturl: alexblog
+baseurl: "/alexblog"
 author:
-  name:           Alex Privalov
-  url:            https://sergknyz.github.io/alexblog/
-
-# This is the list of pages to include in the header of the website.
+  name: Alex Privalov
+  url: https://sergknyz.github.io/alexblog/
 pages_list:
-  О блоге: '/about'
-  Архив записей: '/archive'
-  Лента: '/atom.xml'
-
+  О блоге: "/about"
+  Архив записей: "/archive"
+  Лента: "/atom.xml"
 gems:
-  - jemoji
-  - jekyll-paginate
-  - jekyll-gist
-
+- jemoji
+- jekyll-paginate
+- jekyll-gist
 theme: jekyll-theme-slate

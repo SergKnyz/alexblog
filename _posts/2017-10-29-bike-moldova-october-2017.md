@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "Велопоход с элементами автостопа вдоль Днестра по Молдавии и Приднестровью"
+title: Велопоход с элементами автостопа вдоль Днестра по Молдавии и Приднестровью
+date: 2017-10-29 00:00:00 Z
 permalink: bike-moldova-october-2017
-tags: велопутешествия Молдова Приднестровье
+tags:
+- велопутешествия
+- Молдова
+- Приднестровье
+layout: post
 ---
 
 ![](https://lh3.googleusercontent.com/IVWAbgvKh4_rTumNwKF-co8uzDf36h3l5mVaJWNS8DhlLfbQKwYBL049lxKlc4s1hsi202rTB4PTwYKK3osKKjswhIPBguGiKre9_9mFfNYurWVAVMYpFDXUrrrwN5jnipQqT6NWWHaHYtRUtrrMj5eCz3yqqIKmM0NSpE3OxsIrR7YMHevGtZ0eYdmJtsKFEwRmWLuhjFq6TQ1fqe9dN2dPWbhfO7JArnLv0S-c1mXSMrUeFl53kT78lGT_mM_xGy8n3Xf7dliVYjDCFxYpEz81PEiQfskcpHgqmbevc_Zc37QShM5kx5ojbo95CF879im4JCRsmAE4hzAKS6cqFVNcZf_RBJYZOwhzQqiUWi6pd3uMJw-cXOhMFLZFmuxgnff3mDTsifEr15gn89QV4PAffrI_kv5O2TDc2C5blZIcN5U5YMvr5jPXRpyW7V-rzf9WsMXJqnOykbOQQMtLrJMrzWD8AMtN0ELlKvzBsxGzWXfCNSrhO6c_DIAkPPXKwvw2KR0FGdKP1K6_GWZg879QlX58adyGiQi6jay6ew0kVy0y0TUYdqK3xxEJl6v-YubvWaSv-2VC4RJ3iS41yed2cPZpmkaX0SeW1cGlvg=w1024-no)

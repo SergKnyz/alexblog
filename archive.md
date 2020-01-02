@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Архив
+layout: page
 ---
 
 {% for post in site.posts %}

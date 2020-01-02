@@ -1,9 +1,11 @@
---- 
-layout: post 
-title: Markdown 
+---
+title: Markdown
+date: 2015-01-18 00:00:00 Z
 permalink: markdown-short-reference
-tags: markdown
---- 
+tags:
+- markdown
+layout: post
+---
 
 Краткое руководство по синтаксису Markdown.
 

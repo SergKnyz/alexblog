@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Велопутешествие по Греции, Турции и Грузии
+date: 2015-01-15 00:00:00 Z
 permalink: bike-journey-greece-turkey-georgia
-tags: велопутешествия
+tags:
+- велопутешествия
+layout: post
 ---
 
 ![](/assets/2015-01-15-bike-journey-greece-turkey-georgia/top_img.jpg)

@@ -1,9 +1,11 @@
---- 
-layout: post 
-title:  Набор презентаций к урокам по ТРИК
+---
+title: Набор презентаций к урокам по ТРИК
+date: 2015-10-14 00:00:00 Z
 permalink: trikset-presentations
-tags: трик
---- 
+tags:
+- трик
+layout: post
+---
 
 Методические материалы для занятий с робоконструктором [ТРИК](http://blog.trikset.com/) и [TRIK Studio](http://blog.trikset.com/p/trik-studio.html).
 

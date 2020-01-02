@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Велопутешествие по Белоруссии и Украине
+date: 2015-01-07 00:00:00 Z
 permalink: bike-journey-belorussia-ukraine/
-tags: велопутешествия
+tags:
+- велопутешествия
+layout: post
 ---
 
 ![top_img](/assets/bike-journey-belorussia-ukraine/top_image.jpg)

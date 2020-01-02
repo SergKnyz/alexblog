@@ -1,11 +1,9 @@
 ---
-layout: post
-title: "Как я ip камеру настраивал"
+title: Как я ip камеру настраивал
+date: 2020-01-02 17:46:16.623000000 Z
 permalink: ip-camera-hack
-tags: 
+layout: post
 ---
-
-
 
 ---
 

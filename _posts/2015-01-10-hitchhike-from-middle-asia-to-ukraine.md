@@ -1,8 +1,11 @@
 ---
-layout: post
 title: Автостоп по странам Средней Азии через Россию в Украину
+date: 2015-01-10 00:00:00 Z
 permalink: hitchhike-from-middle-asia-to-ukraine
-tags: путешествия автостоп
+tags:
+- путешествия
+- автостоп
+layout: post
 ---
 
 ![](/assets/2015-01-10-hitchhike-from-middle-asia-to-ukraine/top_img.jpg)

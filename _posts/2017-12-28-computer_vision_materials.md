@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Методические материалы по компьютерному зрению"
+title: Методические материалы по компьютерному зрению
+date: 2017-12-28 00:00:00 Z
 permalink: computer-vision-materials
-tags: ComputerVision
+tags:
+- ComputerVision
+layout: post
 ---
 
 ![](https://lh3.googleusercontent.com/sN44AbDOw0jYjA4jfIxb9_3oJ8Ed3TWQ4HeYxrBX55XUjb0PkElV0RQE1BEhBkPqsH7hePFlhw-_OLNL0Fvulwu1wBQHWLx9DyJRNVTAkjWbhTzpZfJfOHQybk8yMSGbMnRWBm1yoQ=w611-h308-no)

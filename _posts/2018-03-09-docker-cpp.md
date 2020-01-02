@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "Использование Docker для кросскомпиляции проектов"
+title: Использование Docker для кросскомпиляции проектов
+date: 2018-03-09 00:00:00 Z
 permalink: docker-cpp
-tags: C++ Docker GitLab
+tags:
+- C++
+- Docker
+- GitLab
+layout: post
 ---
 
 <img src='/assets/docker-c++/cplus-docker.jpg' style="width: 720px;">
