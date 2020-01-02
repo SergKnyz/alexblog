@@ -23,7 +23,7 @@ author:
 pages_list:
   О блоге: "/about"
   Архив записей: "/archive"
-  Тэги: "/tags.html"
+  Тэги: "/tags"
   Лента: "/atom.xml"
 gems:
 - jemoji
