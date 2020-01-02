@@ -12,6 +12,7 @@ show_drafts:      false
 
 url:              https://sergknyz.github.io/alexblog/
 shorturl:         alexblog
+baseurl:          "/alexblog"
 
 author:
   name:           Alex Privalov
