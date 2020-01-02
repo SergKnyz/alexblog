@@ -10,9 +10,3 @@ layout: page
 Приятного чтения!
 
 Контакты:
-
-* [Почта](mailto:edsgerdijkstra@ya.ru)
-
-* [Github](https://github.com/alexprivalov)
-
-* Jabber: chups@jabber.od.ua
