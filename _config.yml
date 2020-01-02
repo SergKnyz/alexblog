@@ -22,9 +22,9 @@ author:
   url: https://sergknyz.github.io/alexblog/
 pages_list:
   О блоге: "/about"
-  Архив записей: "/archive"
-  Тэги: "/tags"
-  Лента: "/atom.xml"
+  Статьи: "/archive"
+  Категории: "/tags"
+  RSS-Лента: "/atom.xml"
 gems:
 - jemoji
 - jekyll-paginate
