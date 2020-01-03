@@ -5,7 +5,7 @@ layout: default
 ---
 
 {% for category in site.categories %}
-<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a>
+<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html{{ category | downcase }}">{{ category }}</a>
 {% endfor %}
 
 
