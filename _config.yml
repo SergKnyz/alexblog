@@ -18,8 +18,8 @@ show_drafts: false
 url: https://sergknyz.github.io/
 shorturl: sergknyz
 author:
-  name: Alex Privalov
-  url: https://sergknyz.github.io/alexblog/
+  name: Serg Knyz
+  url: https://sergknyz.github.io/
 pages_list:
   О блоге: "/about"
   Статьи: "/archive"
