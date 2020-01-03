@@ -11,7 +11,7 @@ layout: page
 <ul class="tag-box inline">
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ categories_words[item] | strip_newlines }}{% endcapture %}
-    <li><a href="/#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ site.categories[this_word].size }}</span></a></li>
+    <li><a href="/categories/#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ site.categories[this_word].size }}</span></a></li>
   {% endunless %}{% endfor %}
 </ul>
 
