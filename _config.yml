@@ -17,6 +17,7 @@ future: false
 show_drafts: false
 url: https://sergknyz.github.io/
 shorturl: sergknyz
+favicon: public/favicon.ico
 author:
   name: Serg Knyz
   url: https://sergknyz.github.io/
