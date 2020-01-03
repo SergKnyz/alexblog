@@ -1,6 +1,8 @@
 ---
 title: Статья об Opensong
 date: 2020-01-02 18:12:00 Z
+categories:
+- Прославление
 tags:
 - опенсонг
 ---
