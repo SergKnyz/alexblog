@@ -24,7 +24,8 @@ author:
 pages_list:
   О блоге: "/about"
   Статьи: "/archive"
-  Категории: "/tags"
+  Категории: "/categories"
+  Тэги: "/tags"
   RSS-Лента: "/atom.xml"
 gems:
 - jemoji
