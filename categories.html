@@ -4,10 +4,16 @@ permalink: "/categories.html"
 layout: default
 ---
 
-{% for category in site.categories %}
-<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html{{ category | downcase }}">{{ category }}</a>
+{% for postscat in site.categories %}
+{% assign cat = postscat | first %}
+<h4 id="{{ cat | slugify }}"> - {{ cat }}</h4>
+<ul>
+	{% for post in site.categories.[cat] %}
+	<li>
+		{{post.date | date: "%d-%m-%Y"}}
+		<a href="{{post.url}}">{{post.title}}</a>
+	</li>
+	{% endfor %}
+</ul>
 {% endfor %}
-
-
-        
 
