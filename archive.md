@@ -1,5 +1,5 @@
 ---
-title: Архив
+title: Статьи
 layout: page
 ---
 
