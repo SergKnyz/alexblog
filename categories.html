@@ -4,6 +4,17 @@ permalink: "/categories.html"
 layout: default
 ---
 
+{% capture site_categories %}{% for tag in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign categories_words = site_categories | split:',' | sort %}
+
+
+  <ul class="tag-box inline">
+  {% for item in (0..site.categories.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ categories_words[item] | strip_newlines }}{% endcapture %}
+    <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ site.categories[this_word].size }}</span></a></li>
+  {% endunless %}{% endfor %}
+  </ul>
+
 {% for postscat in site.categories %}
 {% assign cat = postscat | first %}
 <h4 id="{{ cat | slugify }}"> - {{ cat }}</h4>
