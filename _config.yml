@@ -31,4 +31,7 @@ gems:
 - jemoji
 - jekyll-paginate
 - jekyll-gist
+- jekyll/tagging
 theme: jekyll-theme-slate
+tag_page_layout: tag
+tag_page_dir: blog/tags
