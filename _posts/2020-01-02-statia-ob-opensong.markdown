@@ -2,7 +2,7 @@
 title: Статья об Opensong
 date: 2020-01-02 18:12:00 Z
 categories:
-- Worship
+- worship
 tags:
 - опенсонг
 ---
