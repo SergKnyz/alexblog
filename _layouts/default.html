@@ -15,13 +15,14 @@
               <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
             {% endfor %}
             {% include search-lunr.html %}
-            <!-- Search Results -->
-            <div id="lunrsearchresults">
-            <ul class="mb-0"></ul>
             </div>
             <p> <small>{{ site.tagline }}</small> </p>
         </h3>
       </div>
+
+<!-- Search Results -->
+            <div id="lunrsearchresults">
+            <ul class="mb-0"></ul>
 
       {{ content }}
 
