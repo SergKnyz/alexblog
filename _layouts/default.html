@@ -15,21 +15,8 @@
             {% endfor %}
 
             <p> <small>{{ site.tagline }}</small> </p>
-
-            <!-- Search Engine -->
-            <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
-            </ul>
-            <!-- End Search Engine -->
-
         </h3>
       </div>
-
-      <!-- Search Results -->
-       <div id="lunrsearchresults">
-        <ul></ul>
-       </div>
-      <!-- End Search Results -->
 
       {{ content }}
 
