@@ -11,6 +11,7 @@ collections:
   blog_tags:
     title: Tags
     output: true
+defaults:
 - scope:
     path: ''
     type: blog_tags
