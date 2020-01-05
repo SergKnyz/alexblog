@@ -5,13 +5,18 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}
-    <ul>
-  {% for tag in page.tags %}
-    <li>
-      <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
-    </li>
-  {% endfor %}
-</ul>
+    <ul class="tag-box inline" style="float:right;font-size:0.875em">
+    {% capture tags %}
+      {% for tag in page.tags %}
+        {{ tag }}
+      {% endfor %}
+    {% endcapture %}
+    {% assign sortedtags = tags | split:' ' | sort %}
+
+    {% for tag in sortedtags %}
+      <li><a href="/tags#{{ tag | slugify: 'pretty' }}">{{ tag }}</a></li>
+    {% endfor %}
+    </ul>
   </span>
   {{ content }}
 </div>
