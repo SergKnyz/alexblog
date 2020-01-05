@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  tag:
+    title: tag
+    output: true
 permalink: pretty
 tagline: Чтобы самому не забыть и другим рассказать
 paginate: 10
