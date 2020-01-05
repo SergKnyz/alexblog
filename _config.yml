@@ -32,5 +32,4 @@ gems:
 - jekyll-paginate
 - jekyll-gist
 theme: jekyll-theme-slate
-tag_page_layout: tag
-tag_page_dir: blog/tags
+
