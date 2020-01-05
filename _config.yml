@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
   tag:
-    title: tag
+    title: tags
     output: true
 permalink: pretty
 tagline: Чтобы самому не забыть и другим рассказать
