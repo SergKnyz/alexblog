@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+  blog_tags:
+    title: Tags
+    output: true
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
 permalink: pretty
 tagline: Чтобы самому не забыть и другим рассказать
 paginate: 10
