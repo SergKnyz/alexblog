@@ -4,6 +4,23 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+
+  <!-- Add color tag -->
+  {% if post.tags %}
+      <ul class="article__tags">
+        {% for post_tag in post.tags %}
+          {% assign post_tag_downcase = post_tag | downcase %}
+          {% for site_tag in site.blog_tags %}
+            {% assign site_tag_title = site_tag.title | downcase %}
+            {% if site_tag_title == post_tag_downcase %}
+              <li class="article__tag"><a href="{{ site_tag.permalink }}" class="article__tag__link{% if site_tag.color %} bg--{{site_tag.color}}{% endif %}">{{ site_tag.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+  <!-- End color tag -->
+  
   <span class="post-date">{{ page.date | date_to_string }}
     <ul class="tag-box inline" style="float:right;font-size:0.875em">
     {% capture tags %}
