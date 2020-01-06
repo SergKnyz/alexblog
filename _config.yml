@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  tag:
+  blog_tags:
     title: blog_tags
     output: true
 permalink: pretty
