@@ -63,5 +63,7 @@ layout: page
 Делюсь своими  находками. Рассказываю о полезных сайтах, программах и сетевых сервисах.
 
 ## Технические детали  {#faq6}
-![jekyll git.jpg](/uploads/jekyll%20git.jpg)
+
+![jekyll git-11b9d4.jpg](/uploads/jekyll%20git-11b9d4.jpg)
+
 Блог размещается на [Github Pages](https://pages.github.com/), использует генератор сайтов [Jekyll](http://jekyllrb.com/). Контент управляется через сервис [Siteleaf](https://www.siteleaf.com/). По [ссылке](https://sergknyz.github.io/setup-blog-on-github/) желающие могут почитать как подобный блог настроить для себя. Идея и исходный код взяты у [Алексея Привалова](http://alexprivalov.org/). Доработано напильником самолично.
