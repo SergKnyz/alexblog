@@ -25,10 +25,10 @@ author:
   name: Serg Knyz
   url: https://sergknyz.github.io/
 pages_list:
-  О блоге: "/about"
   Статьи: "/archive"
   Категории: "/categories"
   Тэги: "/tags"
+  О блоге: "/about"
   RSS-Лента: "/atom.xml"
 gems:
 - jemoji
