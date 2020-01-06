@@ -83,3 +83,7 @@ layout: post
 
 Наглядная визуальная шпаргалка:
 ![](https://manage.siteleaf.com/api/v2/sites/5e0e2c38ffbe5049e70c1206/source/assets/2015-01-18-markdown-short-reference/Markdown_cheatsheet.png?download "Изображение кликабельно")
+
+<p>Copyright &copy; 2010,
+   Статья <a href='http://alexprivalov.org/'>Алексея Привалова.</a>.
+    </p>
