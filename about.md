@@ -50,4 +50,5 @@ layout: page
 Делюсь своими  находками. Рассказываю о полезных сайтах, программах и сетевых сервисах.
 
 ## Технические детали  {#faq6}
+![logo-jekyll-udemy[1].png](/uploads/logo-jekyll-udemy%5B1%5D.png)
 Блог размещается на [Github Pages](https://pages.github.com/), использует генератор сайтов [Jekyll](http://jekyllrb.com/). Контент управляется через сервис [Siteleaf](https://www.siteleaf.com/). По [ссылке](https://sergknyz.github.io/setup-blog-on-github/) желающие могут почитать как подобный блог настроить для себя. Идея и исходный код взяты у [Алексея Привалова](http://alexprivalov.org/). Доработано напильником самолично.
