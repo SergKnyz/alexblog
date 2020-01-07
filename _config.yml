@@ -19,7 +19,6 @@ highlighter: rouge
 future: false
 show_drafts: false
 baseurl: /plain
-url: https://sergknyz.github.io/plain/
 shorturl: sergknyz
 favicon: public/favicon.ico
 author:
