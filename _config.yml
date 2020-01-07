@@ -34,4 +34,4 @@ gems:
 - jemoji
 - jekyll-paginate
 - jekyll-gist
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
