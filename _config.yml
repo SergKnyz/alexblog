@@ -18,6 +18,7 @@ paginate_path: page:num
 highlighter: rouge
 future: false
 show_drafts: false
+baseurl: https://sergknyz.github.io/plain/
 url: https://sergknyz.github.io/plain/
 shorturl: sergknyz
 favicon: public/favicon.ico
