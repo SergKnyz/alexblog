@@ -3,7 +3,7 @@ title: Блог
 timezone: UTC
 collections:
   categories:
-    title: Categories
+    title: categories
     output: true
   posts:
     title: Posts
