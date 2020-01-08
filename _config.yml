@@ -18,12 +18,12 @@ paginate_path: page:num
 highlighter: rouge
 future: false
 show_drafts: false
-baseurl: /plain
+baseurl: sergknyz.github.io/
 shorturl: sergknyz
 favicon: public/favicon.ico
 author:
   name: Serg Knyz
-  url: https://sergknyz.github.io/plain/
+  url: https://sergknyz.github.io
 pages_list:
   Статьи: "/archive"
   Категории: "/categories"
