@@ -6,7 +6,6 @@ layout: page
 
 <!-- Colored Tags-->
 
-    {% for category in page.categories %}
         {% for category_template in site.categories %}
             {% if category == category_template.title %}
             <strong style="color:{{ category_template.color }};">
@@ -14,7 +13,6 @@ layout: page
             </strong>
             {% endif %}
         {% endfor %}
-    {% endfor %}
 
 <!-- End Colored Tags-->
 
