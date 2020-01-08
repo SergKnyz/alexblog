@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  blog_tags:
-    title: blog_tags
+  categories:
+    title: Categories
     output: true
 permalink: pretty
 tagline: Просто о жизни
