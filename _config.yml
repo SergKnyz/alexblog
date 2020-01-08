@@ -2,14 +2,14 @@
 title: Блог
 timezone: UTC
 collections:
-  categories:
-    title: categories
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
+    output: true
+  categories:
+    title: categories
     output: true
 permalink: pretty
 tagline: Просто о жизни
