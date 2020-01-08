@@ -40,7 +40,7 @@ tags:
 * [Скачать последнюю версию (английский язык)](https://sourceforge.net/projects/openchords/files/latest/download) ;
 
 * Для себя я самостоятельно собирал [русифицированную версию](https://cloud.mail.ru/public/Evo3/A8AHSL1kQ) (работает немного не стабильно - не судите строго, сохраняйтесь чаще).
-  !\[\]({{ site.baseurl }}/assets/images/opensong4.jpg)
+  ![opensong4.jpg](/assets/images/opensong4.jpg)
 
 Также моим верным карманным спутником является мобильное приложение OpenSongApp для Android.
 
