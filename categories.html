@@ -7,6 +7,19 @@ layout: page
 {% capture site_categories %}{% for category in site.categories %}{{ category | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign categories_words = site_categories | split:',' | sort %}
 
+<!-- Colored Tags-->
+
+    {% for category in page.categories %}
+        {% for category_template in site.categories %}
+            {% if category == category_template.title %}
+            <strong style="color:{{ category_template.color }};">
+                {{ category }}
+            </strong>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+<!-- End Colored Tags-->
 
 <ul class="tag-box inline">
   {% for item in (0..site.categories.size) %}{% unless forloop.last %}
