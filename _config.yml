@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
   categories:
-    title: categories
+    title: Categories
     output: true
 permalink: pretty
 tagline: Просто о жизни
