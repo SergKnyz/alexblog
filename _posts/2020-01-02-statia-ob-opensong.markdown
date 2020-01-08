@@ -47,7 +47,7 @@ tags:
 * [Официальный сайт OpenSongApp на английском.](https://www.opensongapp.com/)
 
 * Ссылка для установки на мобильные устройства:
-  \[!\[ссылка на PlayMarket\]\[opensongapp\]\]\[market\]
+![ссылка на PlayMarket](/assets/images/opensong6.png)
 
 Некоторые полезные возможности этих программ:
 
