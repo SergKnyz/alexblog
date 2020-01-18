@@ -363,121 +363,74 @@ body {
     </style>
 
     <meta charset="utf-8">
-    <title>wacci–Kirameki </title>
+    <title>Ангелы поют славу (Key - C)</title>
 </head>
 <body>
 
-        <input id="SongName" type="hidden" value="wacci–Kirameki" />
-        <div ID="SongElement1" class="DisplaySongName">wacci–Kirameki </div>
+        <input id="SongName" type="hidden" value="Ангелы поют славу" />
+        <div ID="SongElement1" class="DisplaySongName">Ангелы поют славу (Key - C)</div>
             <div ID="SongElement2" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Interlude </div>
+                <div class="DisplayLineVerseHeading">Verse 1</div>
                 <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineChord">С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Ангелы,&nbsp;поют&nbsp;славу&nbsp;ангелы,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Сыну&nbsp;&nbsp;Бога&nbsp;Господу&nbsp;Христу</p>
+                            <p class="DisplayLineChord">С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Ангелы,&nbsp;поют&nbsp;славу&nbsp;ангелы,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;E7/G#</p>
+                            <p class="DisplayLineLyrics">Воздают&nbsp;хвалу&nbsp;рожденному&nbsp;Царю</p>
                 </div>
                     <div class="DisplayLineVerseNotes">
                         
                     </div>
             </div>
             <div ID="SongElement3" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Verse 1</div>
+                <div class="DisplayLineVerseHeading">Chorus </div>
                 <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Ochikondeta&nbsp;toki&nbsp;mo&nbsp;ki&nbsp;ga&nbsp;tsukeba&nbsp;waratteru</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Futari&nbsp;nara&nbsp;sekai&nbsp;wa&nbsp;iki&nbsp;wo&nbsp;fukikaeshita</p>
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Itsumo&nbsp;no&nbsp;kaerimichi&nbsp;ashioto&nbsp;kizamu&nbsp;RIZUMU</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
-                            <p class="DisplayLineLyrics">Ameagari&nbsp;machi&nbsp;wo&nbsp;nukete&nbsp;yuku&nbsp;kaze&nbsp;no&nbsp;yasashii&nbsp;nioi</p>
-                            <p class="DisplayLineChord">G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm</p>
-                            <p class="DisplayLineLyrics">Onaji&nbsp;jikan&nbsp;wo&nbsp;wakeai&nbsp;nagara&nbsp;futari&nbsp;de&nbsp;sugoseta&nbsp;kiseki&nbsp;wo</p>
-                            <p class="DisplayLineChord">Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Korekara&nbsp;saki&nbsp;mo&nbsp;tsunagetainda&nbsp;chanto&nbsp;me&nbsp;wo&nbsp;mite&nbsp;tsutaetai</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Аллилуйя!&nbsp;Ты&nbsp;для&nbsp;нас&nbsp;спасение!</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;E7/G#</p>
+                            <p class="DisplayLineLyrics">Аллилуйя!&nbsp;Бог&nbsp;Младенца&nbsp;дал!</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Аллилуйя!&nbsp;Слышишь&nbsp;весть&nbsp;благую?</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F</p>
+                            <p class="DisplayLineLyrics">Бог&nbsp;пришел&nbsp;на&nbsp;землю,&nbsp;Небеса&nbsp;ликуют,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C</p>
+                            <p class="DisplayLineLyrics">Обратись&nbsp;к&nbsp;Иисусу&nbsp;-&nbsp;час&nbsp;настал!</p>
                 </div>
                     <div class="DisplayLineVerseNotes">
                         
                     </div>
             </div>
             <div ID="SongElement4" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Chorus 1</div>
+                <div class="DisplayLineVerseHeading">Verse 2</div>
                 <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Tsunaideitai&nbsp;te&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Nigirikata&nbsp;de&nbsp;nani&nbsp;mo&nbsp;kamo&nbsp;wo&nbsp;tsutae&nbsp;aeru&nbsp;sono&nbsp;te&nbsp;datta</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
-                            <p class="DisplayLineLyrics">Hoka&nbsp;no&nbsp;dare&nbsp;demo&nbsp;nai&nbsp;kimi&nbsp;ja&nbsp;nakya&nbsp;dame&nbsp;da&nbsp;yo</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Itsumademo&nbsp;soba&nbsp;ni&nbsp;itai&nbsp;to&nbsp;omoeta</p>
+                            <p class="DisplayLineChord">&nbsp;С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Люди,&nbsp;поют&nbsp;славу&nbsp;люди,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Те&nbsp;кто&nbsp;сердце&nbsp;для&nbsp;Христа&nbsp;открыл.</p>
+                            <p class="DisplayLineChord">&nbsp;С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Люди&nbsp;,поют&nbsp;славу&nbsp;люди.</p>
+                            <p class="DisplayLineChord">Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;E7/G#</p>
+                            <p class="DisplayLineLyrics">Иисус&nbsp;с&nbsp;отцом&nbsp;нас&nbsp;примирил.</p>
                 </div>
                     <div class="DisplayLineVerseNotes">
                         
                     </div>
             </div>
             <div ID="SongElement5" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Verse 2</div>
+                <div class="DisplayLineVerseHeading">Verse 3</div>
                 <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Furikaette&nbsp;mite&nbsp;mo&nbsp;inai&nbsp;no&nbsp;wa&nbsp;wakatteru</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
-                            <p class="DisplayLineLyrics">Na&nbsp;no&nbsp;ni&nbsp;mata&nbsp;namae&nbsp;yobareta&nbsp;ki&nbsp;ga&nbsp;shite&nbsp;miwatashite&nbsp;miru</p>
-                            <p class="DisplayLineChord">G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm</p>
-                            <p class="DisplayLineLyrics">Kado&nbsp;wo&nbsp;magareba&nbsp;hohaba&nbsp;awaseta&nbsp;ano&nbsp;koro&nbsp;ni&nbsp;modoreru&nbsp;you&nbsp;na</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
-                            <p class="DisplayLineLyrics">Sakura&nbsp;no&nbsp;AACHI&nbsp;ima&nbsp;wa&nbsp;sono&nbsp;ha&nbsp;wo&nbsp;ORENJI&nbsp;ni&nbsp;someteru&nbsp;kedo</p>
-                </div>
-                    <div class="DisplayLineVerseNotes">
-                        
-                    </div>
-            </div>
-            <div ID="SongElement6" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Chorus 2</div>
-                <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Sakasetai&nbsp;egao&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Machi&nbsp;irodoru&nbsp;kigi&nbsp;no&nbsp;you&nbsp;ni&nbsp;kirei&nbsp;na&nbsp;akai&nbsp;sono&nbsp;hoho&nbsp;datta</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
-                            <p class="DisplayLineLyrics">Omoide&nbsp;ga&nbsp;maichiru&nbsp;komiageru&nbsp;omoi&nbsp;wo</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Dokomademo&nbsp;tooi&nbsp;sora&nbsp;e&nbsp;to&nbsp;tobashita</p>
-                </div>
-                    <div class="DisplayLineVerseNotes">
-                        
-                    </div>
-            </div>
-            <div ID="SongElement7" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">SOLO</div>
-                <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">Bm&nbsp;&nbsp;F#m&nbsp;&nbsp;Bm</p>
-                            <p class="DisplayLineChord">Bm&nbsp;&nbsp;A&nbsp;&nbsp;G</p>
-                </div>
-                    <div class="DisplayLineVerseNotes">
-                        
-                    </div>
-            </div>
-            <div ID="SongElement8" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">Chorus 3</div>
-                <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Kiiteitai&nbsp;koe&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Mimi&nbsp;wo&nbsp;tsutai&nbsp;karadajuu&nbsp;wo&nbsp;tsutsumu&nbsp;you&nbsp;na&nbsp;sono&nbsp;koe&nbsp;datta</p>
-                            <p class="DisplayLineChord">&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
-                            <p class="DisplayLineLyrics">Deai&nbsp;kara&nbsp;subete&nbsp;ga&nbsp;kakegae&nbsp;no&nbsp;nai&nbsp;hibi</p>
-                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineLyrics">Itsumademo&nbsp;kono&nbsp;mune&nbsp;ni&nbsp;aru&nbsp;yo&nbsp;arigatou</p>
-                </div>
-                    <div class="DisplayLineVerseNotes">
-                        
-                    </div>
-            </div>
-            <div ID="SongElement9" class="DisplaySongVerse">
-                <div class="DisplayLineVerseHeading">O</div>
-                <div class="DisplayLineVerseLyrics">
-                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;A</p>
-                            <p class="DisplayLineChord">G&nbsp;&nbsp;F#m&nbsp;&nbsp;Em&nbsp;&nbsp;A&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics"></p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Примирил&nbsp;Небеса&nbsp;с&nbsp;землей,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Искупил&nbsp;от&nbsp;смерти&nbsp;и&nbsp;греха</p>
+                            <p class="DisplayLineChord">С&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em</p>
+                            <p class="DisplayLineLyrics">Иисус,&nbsp;ты&nbsp;спаситель&nbsp;мой&nbsp;,</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;E7/G#</p>
+                            <p class="DisplayLineLyrics">Ты&nbsp;мой&nbsp;путь&nbsp;и&nbsp;ты&nbsp;моя&nbsp;судьба.</p>
                 </div>
                     <div class="DisplayLineVerseNotes">
                         
