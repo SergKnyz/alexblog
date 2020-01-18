@@ -4,7 +4,6 @@ date: 2015-01-04 00:00:00 Z
 permalink: setup-blog-on-github/
 tags:
 - github
-- github-pages
 - jekyll
 layout: post
 ---
