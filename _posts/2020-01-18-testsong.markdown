@@ -5,85 +5,484 @@ tags:
 - опенсонг
 ---
 
-<?xml version="1.0" encoding="utf-8"?>
-<song xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <style>
-    <title align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" fill="false" fill_color="#000000" font="Helvetica" italic="true" shadow="true" shadow_color="#000000" underline="false" valign="bottom" enabled="true" size="26" include_verse="false" />
-    <body align="center" bold="true" border="true" border_color="#000000" color="#FFFFFF" fill="false" fill_color="#FF0000" font="Helvetica" italic="false" highlight_chorus="true" shadow="true" shadow_color="#000000" underline="false" valign="middle" enabled="true" auto_scale="true" size="34" />
-    <subtitle enabled="false" />
-  </style>
-  <title>Amazing Grace</title>
-  <author>John Newton</author>
-  <presentation>V3 V1 V2 V4</presentation>
-  <capo>0</capo>
-  <key>D</key>
-  <lyrics>[V1]
-. D      D7        G         D                                                              
- Amazing grace how sweet the sound                     
-.     Bm      E           A  A7                                                             
- that saved a wretch like me;                           
-.  D        D7       G       D                                                              
- I once was lost but now I'm found,                     
-.    Bm        A     G   D                                                                  
- was blind but now I see.                               
-
-[V2]
-.     D          D7        G        D                                                       
- Twas grace that taught my heart to fear,               
-.    Bm       E       A      A7                                                             
- and grace my fears relieved;                           
-.    D        D7       G       D                                                            
- How precious did that grace appear                     
-.    Bm     A       G      D                                                                
- the hour I first believed!                             
-
-[V3]
-.        D    D7       G                                                                    
- Through many dangers, toils,                           
-.    D        Bm     E     A    A7                                                          
- and snares I have already come;                        
-.     D          D7         G         D                                                     
- 'Tis grace that brought me safe thus far               
-.    Bm         A       G    D                                                              
- and grace will lead me home.                           
-
-[V4]
-.     D          D7        G                                                                
- When we've been there ten thousand                     
-.D            Bm      E      A   A7                                                         
- years bright shining as the sun;                       
-.      D       D7      G          D                                                         
- We've no less days to sing God's praise                
-.     Bm        A       G   D                                                               
- than when we'd first begun!                            
 
 
-</lyrics>
-  <ccli>1037882</ccli>
-  <preferFlats>False</preferFlats>
-  <tempo />
-  <time_sig />
-  <hymn_number />
-  <notes>[V3]
- slow and worshipful
-[V1]
- switch to 4/4 
- timing
- with palm muting
- add light drums
- 
-[V2]
- heavy
- 
-[V4]
- heavy
- sharp ending
- on D
- 
-[G]
- do V3 original
- song then switch to 
- 4/4 timing
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=2">
+    <script>
+        var previousPages = [];
 
-</notes>
-</song>
+        function scrollSmoothTo(to, duration) {
+            if (duration <= 0) return;
+            var currentPosition = Math.max(window.pageYOffset, document.documentElement.scrollTop, document.body.scrollTop); 
+            var difference = to - currentPosition;
+            var perTick = difference / duration * 10;
+
+            //we want to repaint the screen after we are done scrolling
+            if (currentPosition === to - perTick || currentPosition === to + perTick) {
+                window.scroll(0, to-1);
+                paintAllElementsWithCss();
+                return;
+            }
+
+            setTimeout(function () {
+                var newPosition = currentPosition + perTick;
+                window.scroll(0, newPosition);
+
+                scrollSmoothTo(to, duration - 10);
+            }, 10);
+        }
+
+
+         //is element completely visible
+         function isElementInViewport(el) {
+             var rect = el.getBoundingClientRect();
+
+             return (
+                 rect.top >= 0 &&
+                 rect.left >= 0 &&
+                 rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+                 rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+             );
+        }
+
+         function getMaxSongElementIndex() {
+             var counter = 1;
+             while (true) {
+                 var elementToCheck = document.getElementById('SongElement' + counter);
+                 if (elementToCheck == null)
+                     return counter - 1;
+                 counter++;
+             }
+         }
+
+         //check if songelement full visible on the screen
+         function isSongElementCompletelyVisible(index) {
+             var elementToCheck = document.getElementById('SongElement' + index);
+             var isVisible = isElementInViewport(elementToCheck);
+             return isVisible
+         }
+
+         //check if songelement fully invisible
+         function isSongElementCompletelyInvisible(index) {
+             return !isSongElementCompletelyVisible(index);
+         }
+
+         //index of the first element in the song that is visible on the screen
+         function getFirstVisibleSongElementIndex() {
+             var maxSongElementCount = getMaxSongElementIndex();
+             for (i = 1; i <= maxSongElementCount; i++) {
+                 if (isSongElementCompletelyVisible(i))
+                     return i;
+             }
+         }
+
+         function findFirstOffScreenElementIndex() {
+             var maxSongElementCount = getMaxSongElementIndex();
+             var indexOfFirstVisibleElement = getFirstVisibleSongElementIndex();
+             for (i = indexOfFirstVisibleElement; i <= maxSongElementCount; i++) {
+                 if (isSongElementCompletelyVisible(i) == false)
+                     return i;
+
+             }
+         }
+
+         //scroll to song element in index
+         function smoothScrollToElement(index) {
+             var yPos = document.getElementById('SongElement' + index).offsetTop;
+             scrollSmoothTo(yPos, 400);
+         }
+
+         //scroll to element
+         function scrollToElement(index) {
+             var yPos = document.getElementById('SongElement' + index).offsetTop;
+             window.scroll(0, yPos);
+         }
+
+         //paint all elements with different css
+         function paintAllElementsWithCss() {
+
+             var maxSongElementCount = getMaxSongElementIndex();
+             for (i = 1; i <= maxSongElementCount; i++) {
+                 var element = document.getElementById("SongElement" + i);
+
+                 if (element.className != "DisplaySongName") {
+                     if (isSongElementCompletelyVisible(i))
+                         element.setAttribute("class", "DisplaySongVerse");
+                     else
+                         element.setAttribute("class", "DisplaySongVerseOffPage");
+                 }
+             }
+
+         }
+
+         //scroll down by one screen
+         function scrollDown() {
+             var firstOffScreenElementIndex = findFirstOffScreenElementIndex();
+             var firstElementIndex = getFirstVisibleSongElementIndex();
+             if (firstElementIndex != null) {
+                 previousPages.push(firstElementIndex);
+             }
+             if (firstOffScreenElementIndex != null) {
+                 smoothScrollToElement(firstOffScreenElementIndex);
+             }
+         }
+
+         //scroll up by one screen
+         function scrollUp() {
+             var previousPageIndex = previousPages.pop();
+             if (previousPageIndex != null)
+                 smoothScrollToElement(previousPageIndex)
+             else 
+                 smoothScrollToElement(1) //scroll to top of page
+         }
+
+         window.onload = function () {
+             paintAllElementsWithCss();
+         }
+
+         //add keyboard binding
+         document.addEventListener("keydown", keyDownInWindow, false);
+         function keyDownInWindow(e) {
+             if (e.keyCode == 32 || e.keyCode == 40) //if spacebar or down arrow
+             {
+                 scrollDown();
+                 e.preventDefault(); //swallow the event
+             }
+             else if (e.keyCode == 38) //if up arrow is pressed
+             {
+                 scrollUp();
+                 e.preventDefault(); //swallow the event
+             }
+             else if (e.keyCode == 116) //swallow f5 key presses
+             {
+                 e.preventDefault(); //swallow the event
+             }
+         }
+
+         function getBaseUrl() {
+             var pathArray = location.href.split('/');
+             var protocol = pathArray[0];
+             var host = pathArray[2];
+             var url = protocol + '//' + host;
+             return url
+         }
+
+         //call ajax to url and return text
+         function callAjax(url, callback) {
+             var xmlhttp;
+             var currentHostSongName;
+             // compatible with IE7+, Firefox, Chrome, Opera, Safari
+             xmlhttp = new XMLHttpRequest();
+             xmlhttp.onreadystatechange = function () {
+                 if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                     callback(xmlhttp);
+                 }
+             }
+             xmlhttp.open("GET", getBaseUrl() + url, true);
+             xmlhttp.send();
+             return currentHostSongName;
+         }
+
+         function compareHostSongAndCurrentSongAsync_Complete(xmlHttpResult) {
+             //current song name
+             var currentSongName = document.getElementById('SongName').value;
+             //host song name
+             var hostSongName = xmlHttpResult.responseText;
+             //if they are different reload the song
+             if (currentSongName !== hostSongName) {
+                 //reload page and scroll to top of page
+                 location.reload(true);
+                 document.body.scrollTop = document.documentElement.scrollTop = 0;
+             }
+         }
+
+         //compare host song and current song asynchonously
+         function compareHostSongAndCurrentSongAsync() {
+             callAjax('/SongName', compareHostSongAndCurrentSongAsync_Complete);
+         }
+
+     
+    </script>
+    <style>
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    background-color: #FFFFFF;
+    padding-bottom: 1080px;
+}
+
+@media print {
+    body {
+        padding-bottom: 0px;
+    }
+}
+
+.DisplaySongVerse {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #DCDCDC), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+    background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,#DCDCDC 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,#DCDCDC 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,#DCDCDC 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,#DCDCDC 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: inline-block;
+    vertical-align: top;
+}
+
+.DisplaySongVerseOffPage {
+    padding: 5px;
+    margin-bottom: 20px;
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+    border: 2px solid #DCDCDC;
+    border-radius: 7px;
+    margin-right: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(15%, #FFFFFF), color-stop(100%, #FFFFFF));
+    background: #FFFFFF; /* Old browsers */
+    background: -moz-linear-gradient(top,#FFFFFF 0%, #FFFFFF 15%, #FFFFFF 100%); /* FF3.6+ */
+    background: -o-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* IE10+ */
+    background: linear-gradient(to bottom,#FFFFFF 0%,#FFFFFF 15%, #FFFFFF 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#FFFFFF',GradientType=0 ); /* IE6-9 */
+    display: inline-block;
+    vertical-align: top;
+}
+
+.DisplaySongName {
+    -webkit-column-break-inside: avoid;
+    font-size: 22px;
+    font-weight: Bold;
+    font-family: "Courier New", Courier, monospace;
+    color: #000000;
+    width: 100%;
+}
+
+.DisplaySongOrder {
+    font: bold 36px;
+    color: #FF8040;
+}
+
+.DisplayLineVerseHeading {
+    font-size: 14px;
+    font-weight: Bold;
+    font-family: "Arial", Courier, monospace;
+    color: #000000;
+    line-height: 110%;
+}
+
+.DisplayLineVerseLyrics {
+    display: inline-block;
+}
+
+.DisplayLineChord {
+    font-size: 22px;
+    font-weight: Bold;
+    font-family: "Courier New", Courier, monospace;
+    color: #FF0000;
+}
+
+.DisplayLineLyrics {
+    font-size: 22px;
+    font-weight: Bold;
+    font-family: "Courier New", Courier, monospace;
+    color: #000000;
+}
+
+.DisplayLineVerseNotes {
+    margin-left: auto;
+    margin-right: 0px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 1px;
+    font-weight: Regular;
+    font-family: "Courier New", Courier, monospace;
+    color: #80FF80;
+}
+
+.DisplayBody body {
+    background-color: black;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+    </style>
+
+    <meta charset="utf-8">
+    <title>wacci–Kirameki </title>
+</head>
+<body>
+
+        <input id="SongName" type="hidden" value="wacci–Kirameki" />
+        <div ID="SongElement1" class="DisplaySongName">wacci–Kirameki </div>
+            <div ID="SongElement2" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Interlude </div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;G</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement3" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Verse 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Ochikondeta&nbsp;toki&nbsp;mo&nbsp;ki&nbsp;ga&nbsp;tsukeba&nbsp;waratteru</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Futari&nbsp;nara&nbsp;sekai&nbsp;wa&nbsp;iki&nbsp;wo&nbsp;fukikaeshita</p>
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Itsumo&nbsp;no&nbsp;kaerimichi&nbsp;ashioto&nbsp;kizamu&nbsp;RIZUMU</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics">Ameagari&nbsp;machi&nbsp;wo&nbsp;nukete&nbsp;yuku&nbsp;kaze&nbsp;no&nbsp;yasashii&nbsp;nioi</p>
+                            <p class="DisplayLineChord">G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm</p>
+                            <p class="DisplayLineLyrics">Onaji&nbsp;jikan&nbsp;wo&nbsp;wakeai&nbsp;nagara&nbsp;futari&nbsp;de&nbsp;sugoseta&nbsp;kiseki&nbsp;wo</p>
+                            <p class="DisplayLineChord">Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Korekara&nbsp;saki&nbsp;mo&nbsp;tsunagetainda&nbsp;chanto&nbsp;me&nbsp;wo&nbsp;mite&nbsp;tsutaetai</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement4" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Chorus 1</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Tsunaideitai&nbsp;te&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Nigirikata&nbsp;de&nbsp;nani&nbsp;mo&nbsp;kamo&nbsp;wo&nbsp;tsutae&nbsp;aeru&nbsp;sono&nbsp;te&nbsp;datta</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
+                            <p class="DisplayLineLyrics">Hoka&nbsp;no&nbsp;dare&nbsp;demo&nbsp;nai&nbsp;kimi&nbsp;ja&nbsp;nakya&nbsp;dame&nbsp;da&nbsp;yo</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Itsumademo&nbsp;soba&nbsp;ni&nbsp;itai&nbsp;to&nbsp;omoeta</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement5" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Verse 2</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Furikaette&nbsp;mite&nbsp;mo&nbsp;inai&nbsp;no&nbsp;wa&nbsp;wakatteru</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D</p>
+                            <p class="DisplayLineLyrics">Na&nbsp;no&nbsp;ni&nbsp;mata&nbsp;namae&nbsp;yobareta&nbsp;ki&nbsp;ga&nbsp;shite&nbsp;miwatashite&nbsp;miru</p>
+                            <p class="DisplayLineChord">G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm</p>
+                            <p class="DisplayLineLyrics">Kado&nbsp;wo&nbsp;magareba&nbsp;hohaba&nbsp;awaseta&nbsp;ano&nbsp;koro&nbsp;ni&nbsp;modoreru&nbsp;you&nbsp;na</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G</p>
+                            <p class="DisplayLineLyrics">Sakura&nbsp;no&nbsp;AACHI&nbsp;ima&nbsp;wa&nbsp;sono&nbsp;ha&nbsp;wo&nbsp;ORENJI&nbsp;ni&nbsp;someteru&nbsp;kedo</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement6" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Chorus 2</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Sakasetai&nbsp;egao&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Machi&nbsp;irodoru&nbsp;kigi&nbsp;no&nbsp;you&nbsp;ni&nbsp;kirei&nbsp;na&nbsp;akai&nbsp;sono&nbsp;hoho&nbsp;datta</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
+                            <p class="DisplayLineLyrics">Omoide&nbsp;ga&nbsp;maichiru&nbsp;komiageru&nbsp;omoi&nbsp;wo</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Dokomademo&nbsp;tooi&nbsp;sora&nbsp;e&nbsp;to&nbsp;tobashita</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement7" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">SOLO</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">Bm&nbsp;&nbsp;F#m&nbsp;&nbsp;Bm</p>
+                            <p class="DisplayLineChord">Bm&nbsp;&nbsp;A&nbsp;&nbsp;G</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement8" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">Chorus 3</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Kiiteitai&nbsp;koe&nbsp;wa&nbsp;kimi&nbsp;no&nbsp;mono&nbsp;datta&nbsp;yo</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Mimi&nbsp;wo&nbsp;tsutai&nbsp;karadajuu&nbsp;wo&nbsp;tsutsumu&nbsp;you&nbsp;na&nbsp;sono&nbsp;koe&nbsp;datta</p>
+                            <p class="DisplayLineChord">&nbsp;D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F#m</p>
+                            <p class="DisplayLineLyrics">Deai&nbsp;kara&nbsp;subete&nbsp;ga&nbsp;kakegae&nbsp;no&nbsp;nai&nbsp;hibi</p>
+                            <p class="DisplayLineChord">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineLyrics">Itsumademo&nbsp;kono&nbsp;mune&nbsp;ni&nbsp;aru&nbsp;yo&nbsp;arigatou</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+            <div ID="SongElement9" class="DisplaySongVerse">
+                <div class="DisplayLineVerseHeading">O</div>
+                <div class="DisplayLineVerseLyrics">
+                            <p class="DisplayLineChord">D&nbsp;&nbsp;A&nbsp;&nbsp;Bm&nbsp;&nbsp;A</p>
+                            <p class="DisplayLineChord">G&nbsp;&nbsp;F#m&nbsp;&nbsp;Em&nbsp;&nbsp;A&nbsp;&nbsp;D</p>
+                </div>
+                    <div class="DisplayLineVerseNotes">
+                        
+                    </div>
+            </div>
+
+</body>
+</html>
