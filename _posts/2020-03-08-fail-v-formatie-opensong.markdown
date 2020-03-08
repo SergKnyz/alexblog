@@ -129,51 +129,95 @@ tags:
 `the hour I first believed!`
 
 `[V3]`
-`. D D7 G`\
-`Through many dangers, toils,`\
-`. D Bm E A A7`\
-`and snares I have already come;`\
-`. D D7 G D`\
-`'Tis grace that brought me safe thus far`\
-`. Bm A G D`\
+
+`. D D7 G`
+
+`Through many dangers, toils,`
+
+`. D Bm E A A7`
+
+`and snares I have already come;`
+
+`. D D7 G D`
+
+`'Tis grace that brought me safe thus far`
+
+`. Bm A G D`
+
 `and grace will lead me home.`
 
 `[V4]`
-`. D D7 G`\
+
+`. D D7 G`
+
 `When we've been there ten thousand`
-`.D Bm E A A7`\
+
+`.D Bm E A A7`
+
 `years bright shining as the sun;`
-`. D D7 G D`\
+
+`. D D7 G D`
+
 `We've no less days to sing God's praise`
-`. Bm A G D`\
+
+`. Bm A G D`
+
 `than when we'd first begun!`
+
 `</lyrics>` -собственно сам текст песни с аккордами. Подробное описание достойно отдельной статьи, но на самом деле здесь все просто:
+
 `.` - строки начинающиеся с точки, это буквенные обозначения аккордов, они будут изменяться при транспонировании.
+
 `_` - строки начинающиеся с пробела это сами слова песни
+
 `[V1]`тэги в квадратных скобках, обозначения частей песни, например V1 это первый куплет (от слова английского слова "Verse" - куплет). Тэг действует до следующего тэга или до конца раздела `</lyrics>`.
+
 `<ccli>1037882</ccli>`- код песни в CCLI это такая "международная христианская" лицензия на тексты песен, в России и СНГ, нам от неё не горячо ни холодно.
+
 `<preferFlats>False</preferFlats>` - используются ли аккорды с бемолем (в нашем случае указано False (ложь) - отключено)
+
 `<tempo />` - точный темп bpm (удары в минуту)
+
 `<time_sig />` - размер (4/4, 3/8 и т.д.)
+
 `<hymn_number />` -номер гимна, для стран бывшего СССР скорее всего бесполезно
+
 `<notes>[V3]`
+
 `slow and worshipful`
+
 `[V1]`
+
 `switch to 4/4`
+
 `timing`
+
 `with palm muting`
+
 `add light drums`
+
 `[V2]`
+
 `heavy`
+
 `[V4]`
+
 `heavy`
+
 `sharp ending`
+
 `on D`
+
 `[G]`
+
 `do V3 original`
+
 `song then switch to`
+
 `4/4 timing`
+
 `</notes>`-примечания к частям для исполнителей (как нужно играть песню)
+
 `</song>`-закрывающий тег, сообщающий, что информация о песне закончилась.
 
 Как видите:
