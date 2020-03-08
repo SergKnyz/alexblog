@@ -81,29 +81,51 @@ tags:
 
 Далее в тэгах описывается:
 `<song>` заявляется, что это песня
+
 `<title>Amazing Grace</title>`- название песни
+
 `<author>John Newton</author>`- автор
+
 `<presentation>V3 V1 V2 V4</presentation>` - порядок показа частей
+
 `<capo>0</capo>`- расположение каподастра для щипковых инструментов
+
 `<key>D</key>`- тональность
+
 `<lyrics>[V1]`
-`. D D7 G D`\
-`Amazing grace how sweet the sound`\
-`. Bm E A A7`\
-`that saved a wretch like me;`\
-`. D D7 G D`\
-`I once was lost but now I'm found,`\
-`. Bm A G D`\
+
+`. D D7 G D`
+
+`Amazing grace how sweet the sound`
+
+`. Bm E A A7`
+
+`that saved a wretch like me;`
+
+`. D D7 G D`
+
+`I once was lost but now I'm found,`
+
+`. Bm A G D`
+
 `was blind but now I see.`
 
 `[V2]`
-`. D D7 G D`\
-`Twas grace that taught my heart to fear,`\
-`. Bm E A A7`\
-`and grace my fears relieved;`\
-`. D D7 G D`\
-`How precious did that grace appear`\
-`. Bm A G D`\
+
+`. D D7 G D`
+
+`Twas grace that taught my heart to fear,`
+
+`. Bm E A A7`
+
+`and grace my fears relieved;`
+
+`. D D7 G D`
+
+`How precious did that grace appear`
+
+`. Bm A G D`
+
 `the hour I first believed!`
 
 `[V3]`
