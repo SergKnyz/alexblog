@@ -146,11 +146,11 @@ XML.
  sharp ending
  on D
  
-[G]
- do V3 original
- song then switch to 
- 4/4 timing
- </notes> `-примечания к частям для исполнителей (как нужно играть песню)
+`[G]`
+` do V3 original`
+` song then switch to `
+` 4/4 timing`
+ `</notes> `-примечания к частям для исполнителей (как нужно играть песню)
   
 `</song> `-закрывающий тег, сообщающий, что информация о песне закончилась.
 
