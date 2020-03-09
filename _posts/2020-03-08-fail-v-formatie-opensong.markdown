@@ -1,6 +1,8 @@
 ---
 title: Файл  в формате Opensong
 date: 2020-03-08 12:59:00 Z
+categories:
+- worship
 tags:
 - опенсонг
 - info
