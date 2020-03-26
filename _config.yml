@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  test:
+    title: test
+    output: true
 permalink: pretty
 tagline: Просто о жизни
 paginate: 10
