@@ -1,5 +1,5 @@
 ---
-title: Opensong ч.2 Подробнее о формате
+title: Opensong II. Подробнее о формате
 date: 2020-03-08 12:59:00 Z
 categories:
 - Прославление
