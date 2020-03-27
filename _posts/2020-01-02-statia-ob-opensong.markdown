@@ -16,7 +16,8 @@ tags:
 
 - [Формат](#format)
 - [Систематизация и хранение репертуара:](#system)
-  [1.Редактор OpenChords](#openchords)
+  [1.Набор песни в редакторе OpenChords](#openchords)
+  [2.Добавляем данные в базу данных Airtables](#airtable)
 - [Кастомизация](#customizations)
 - [Итоги](#summaries)
 - [Ссылки](#refs)
@@ -75,7 +76,7 @@ tags:
 * в OpenSongApp есть очень интересная возможность синхронизироваться с другими гаджетами и проектором через WiFi, для показа текстов песен, объявлений, стихов из Библии, слайдов и т.п.:
   <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/xdti4Kh3qf8?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
-## 2. Добавляем данные в базу данных Airtables.
+## 2. Добавляем данные в базу данных Airtables {#airtable}
 
 ![icon_airt.gif](/uploads/icon_airt.gif)
 
