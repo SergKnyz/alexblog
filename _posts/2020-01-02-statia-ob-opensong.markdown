@@ -1,5 +1,5 @@
 ---
-title: Opensong ч.1 Первое знакомство
+title: Opensong I. Первое знакомство
 date: 2020-01-02 18:12:00 Z
 categories:
 - Прославление
