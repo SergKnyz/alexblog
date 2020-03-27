@@ -135,10 +135,10 @@ tags:
 .      D       D7      G          D                                                         
  We've no less days to sing God's praise                
 .     Bm        A       G   D                                                               
- than when we'd first begun!                            
+ than when we'd first begun!   </lyrics>                         
 
 
-</lyrics>
+
 </code></pre>
 
  -собственно сам текст песни с аккордами. Подробное описание достойно отдельной статьи, но на самом деле здесь все просто:
