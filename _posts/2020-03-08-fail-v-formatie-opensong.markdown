@@ -158,41 +158,32 @@ tags:
 
 `<hymn_number />` -номер гимна, для стран бывшего СССР скорее всего бесполезно
 
-`<notes>[V3]`
+<pre><code>
+<notes>[V3]
+ slow and worshipful
+[V1]
+ switch to 4/4 
+ timing
+ with palm muting
+ add light drums
+ 
+[V2]
+ heavy
+ 
+[V4]
+ heavy
+ sharp ending
+ on D
+ 
+[G]
+ do V3 original
+ song then switch to 
+ 4/4 timing
 
-`slow and worshipful`
+</notes>
+</pre></code>
 
-`[V1]`
-
-`switch to 4/4`
-
-`timing`
-
-`with palm muting`
-
-`add light drums`
-
-`[V2]`
-
-`heavy`
-
-`[V4]`
-
-`heavy`
-
-`sharp ending`
-
-`on D`
-
-`[G]`
-
-`do V3 original`
-
-`song then switch to`
-
-`4/4 timing`
-
-`</notes>`-примечания к частям для исполнителей (как нужно играть песню)
+`<notes></notes>`-примечания к частям для исполнителей (как нужно играть песню)
 
 `</song>`-закрывающий тег, сообщающий, что информация о песне закончилась.
 
