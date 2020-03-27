@@ -19,6 +19,7 @@ tags:
  1. [Набор песни в редакторе OpenChords](#openchords)
  2. [Добавляем данные в базу данных Airtables](#airtable)
  3. [Создаем репозиторий на GitHub](#github)
+ 3a. [Облачные сервисы](#cloud)
 - [Кастомизация](#customizations)
 - [Итоги](#summaries)
 - [Ссылки](#refs)
