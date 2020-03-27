@@ -159,6 +159,7 @@ tags:
 `<hymn_number />` -номер гимна, для стран бывшего СССР скорее всего бесполезно
 
 <pre><code>
+&ltnotes&gt
 [V3]
  slow and worshipful
 [V1]
@@ -178,7 +179,8 @@ tags:
 [G]
  do V3 original
  song then switch to 
- 4/4 timing
+ 4/4 timing &lt/notes&gt
+
 </code></pre>
 
 `<notes></notes>`-примечания к частям для исполнителей (как нужно играть песню)
