@@ -2,6 +2,8 @@
 title: Markdown
 date: 2015-01-18 00:00:00 Z
 permalink: markdown-short-reference
+categories:
+- Руководства
 tags:
 - markdown
 color: "#8c5353"
