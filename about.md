@@ -1,6 +1,8 @@
 ---
 title: О блоге
 layout: page
+type: Journal
+modified: 2020-12-10T21:47:49+04:00
 ---
 
 ![1028\[1\].jpg](/uploads/1028%5B1%5D.jpg)
