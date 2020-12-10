@@ -2,7 +2,7 @@
 title: О блоге
 layout: page
 type: Journal
-modified: 2020-12-10T21:47:49+04:00
+modified: 2020-12-10 17:47:49 Z
 ---
 
 ![1028\[1\].jpg](/uploads/1028%5B1%5D.jpg)
